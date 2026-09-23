@@ -327,9 +327,9 @@ Lord Selborn = Fern
 | Princess Elowen | His daughter; fire scene final pages |
 | Oak (Nyxen) | VII's mount → second rider VIII; grief-survivor; Harwin fetches for Twin War |
 
-### Active Riders at War's Start (11)
+### Active Riders at War's Start (10)
 
-Aldren IX (Hart), Edric (Ash), Harwin (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caelen (Rook), Aderyn (TBD), Alaric (Frost), Tristan (TBD), Cassia (TBD).
+Edric (Ash), Harwin (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caelen (Rook), Aderyn (TBD), Alaric (Frost), Tristan (TBD), Cassia (TBD).
 
 **Rowan is NOT a rider.** He has no Nyxen.
 

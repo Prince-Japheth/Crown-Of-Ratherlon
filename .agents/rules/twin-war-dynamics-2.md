@@ -1,16 +1,6 @@
 *(Continued from [twin-war-dynamics-1.md](twin-war-dynamics-1.md))*
 
-## NYXEN-VS-NYXEN WARFARE (First Time Ever)
 
-Nyxens have NEVER fought against each other before. This is the first war within a family where each side has Nyxens. Nobody knows what will happen:
-- Whether Nyxens will hesitate to kill other Nyxens
-- Whether they can recognize relatives
-- Whether they have dominance behaviors
-- Whether aerial combat is even practical
-- Whether veteran Nyxens will avoid each other
-- Whether young Nyxens will panic
-
-The first battle becomes a giant experiment. All accumulated military doctrine was built around one assumption: Nyxens fight humans/armies/fortifications, NOT Nyxens.
 
 **The veteran Nyxen problem:** The veteran Nyxen Harwin seeks (Oak) has fought armies — never another Nyxen. Experience still matters but not as much as people think. The prince who values coordination (with his own Nyxen) may accidentally possess the more useful asset.
 
@@ -61,7 +51,7 @@ Both absolute loyalty and familial rebellion happen simultaneously. A Duke canno
 - **The Reason:** Alaric has spent his youth patrolling the freezing "cold roads" and fighting off wild mountain reavers alongside his Uncle Gareth. Because Alaric actually bleeds on the icy frontier, he respects Harwin's grit and thinks Edric is too soft. Alaric openly defies his father, mounts *Frost*, and flies north to join Harwin's war camp.
 
 **2. Caelen Brennan (The Steward's Rebellion):**
-- **The Father:** Rowan is the ambitious ledger-keeper who orders his house to remain cautious or neutral to survive.
+- **The Father:** Rowan is the ambitious ledger-keeper who orders his household to remain cautious or neutral to survive.
 - **The Rebel:** His son, **Caelen Brennan** (riding *Rook*).
 - **The Reason:** Caelen is young, idealistic, and disgusted by his father's self-serving politics. He truly believes in Edric’s diplomatic vision for a unified realm. Caelen disobeys his father's strict orders, taking *Rook* to fight for Edric.
 

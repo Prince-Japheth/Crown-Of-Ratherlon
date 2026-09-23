@@ -59,19 +59,19 @@ There is no formal "presentation ritual." It works naturally: when a member of t
 
 If a noble tries to force a bond—taking a pup home that didn't choose them—it will end in disaster. When the beast comes of age to fly, it will break all hell loose, destroy its confines, and go feral.
 
-## THE UNNAMED PUP & THE MIRACLE OF THE TWINS
+## THE UNNAMED PUP & THE TWINS
 
 **Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen). 
 
 **The Bonding Attempts:**
-1. **Rowan** (2nd-born) — does not even walk the compound looking for a bond. As a child, he was simply never accepted by any pup (his scent was too thin, much like his sister Rhaenaya; though a sensitive Nyxen might have accepted him, none ever did). By adulthood, he is no longer interested; he has a kingdom's arithmetic to keep, and considers himself too old and too occupied with ledgers to start training a Nyxen pup anyway.
+1. **Rowan** (2nd-born) — As a child, he walked the compound looking for a bond, but was simply never accepted by any pup (his scent was too thin, much like his sister Rhaenaya; though a sensitive Nyxen might have accepted him, none ever did). He never tried again as an adult. He has a kingdom's arithmetic to keep, and considers himself too occupied with ledgers to start training a Nyxen pup anyway.
 2. **Rhaenaya** (4th-born) — on a visit home, she walks the courtyards where the Unnamed Pup is roaming. She tries to coax it. The pup sniffs her and wanders away. Her scent is too thin. 
 3. **Alaric (Rhaenaya's son)** — When Rhaenaya brings her infant son Alaric to visit Foldhall, she takes him out into the compound. The Unnamed Pup ignores the baby completely. (Alaric later proves to be an anomaly rider and bonds with *Frost* from a different litter).
 
-**The Miracle:** 
-The Unnamed Pup continues to freely roam the Foldhall courtyards, unbonded. Then, a miracle occurs: *another* pup is born. Right on the heels of this, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
+**The Pups:** 
+The Unnamed Pup continues to freely roam the Foldhall courtyards, unbonded. Then, several more pups are born across the roosts in a relatively short window. Right on the heels of this, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
 
-There are now exactly two royal pups roaming the compound for exactly two royal sons. The two pups grow up playing with the twin toddlers in the courtyard, eventually bonding with them to become **Ash** and **Storm**.
+Two of the royal pups roaming the compound grow up playing with the twin toddlers in the courtyard, eventually bonding with them to become **Ash** and **Storm**. The other pups born in this window would go on to bond with the cousins born around the same time.
 
 ## NYXEN GRIEF & LIFESPAN
 
