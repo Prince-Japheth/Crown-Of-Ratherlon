@@ -10,7 +10,7 @@ A kingdom whose crown rests on a bloodline the Nyxens can smell goes to war with
 
 The reader lives the story in the moment — Foldhall summers, campaigns, betrothal, alliances, the war — with NO opening frame.
 
-**Progressive Character Timelines (Experiential Pacing):** At the beginning of the book, characters are in their youth. Elyra is an unmarried wild rider; Rowan is the unmarried ledger-keeper brother; Edwyn is the performer. Their defining end-states (Rowan's tragic marriage and loss, Elyra marrying Alton Rathen, Edwyn having Tristan and Cassia) happen *progressively* over the timeline of the book. Never info-dump or foreshadow their future end-states early on. The `.agents` files represent their "Start of War" snapshot, but the prose must let the reader experience the "now" as they grow.
+**Progressive Character Timelines (Experiential Pacing):** At the beginning of the book, characters are in their youth. Elyra is an unmarried wild rider; Rowan is the unmarried ledger-keeper brother; Edwyn is the performer. Their defining end-states (Rowan's tragic marriage and loss, Elyra marrying Alton Kelward, Edwyn having Tristan and Cassia) happen *progressively* over the timeline of the book. Never info-dump or foreshadow their future end-states early on. The `.agents` files represent their "Start of War" snapshot, but the prose must let the reader experience the "now" as they grow.
 
 Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the survivor is telling this wound to his child, and he still does not know which prince he was. Her next question seeds book two.
 
@@ -29,7 +29,7 @@ To ensure the cousins are all old enough to ride in the Twin War, their births h
 1. **Rhaenaya** has a child (Alaric) *before* Rodrik has the twins.
 2. **Rodrik** has the twins (Edric and Harwin) shortly after Alaric's birth.
 3. **Rowan** marries his wife and they have **Caelen** and **Leraeyna** immediately/shortly after the twins are born.
-4. **Elyra** marries Alton Rathen and they have **Aderyn** in that same tight window.
+4. **Elyra** marries Alton Kelward and they have **Aderyn** in that same tight window.
 5. **Edwyn** consummates with a noblewoman (having his first bastard, Tristan) around the time of those weddings. His second bastard (Cassia) is born shortly after.
 *(Result: The entire cousin generation is practically the same age, making them all late teens/early 20s when the Twin War erupts.)*
 

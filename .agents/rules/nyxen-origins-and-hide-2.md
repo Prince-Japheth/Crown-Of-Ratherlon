@@ -25,7 +25,7 @@ The farmer possessed a rare mutation — a gene cluster causing production of a 
 
 **BUT — a late miscarriage or stillbirth WOULD sensitize the mother.** If a queen carried a child nearly to term and lost it, her body builds the antibodies. Her next live child is a "second exposure" baby — weaker scent — even though everyone calls him "the firstborn." No one understands why the heir's bond is weaker than expected. (Dramatic potential for future books.)
 
-**The "Immune Fade" (Gap Year Rule):** If a queen goes many years without becoming pregnant, her antibody levels drop significantly. This is why **Elyra (5th-born)** and **Gareth (6th-born)** can ride! Elyra is roughly 13-15 years younger than Rodrik. Queen Gwyn went over a decade without a pregnancy, allowing her immune response to reset. When she finally had Elyra and Gareth late in life, their scent was just as strong as a firstborn's.
+**The Skipping & Anomalies:** The scent gets weaker the further down the line from the firstborn, but genetics are unpredictable. It can skip some children entirely (like Rhaenaya, who cannot ride) and manifest strongly in others further down the line (like Elyra and Gareth). Sometimes anomalies even exist where nieces and nephews of the heir become riders.
 
 **The mechanism is sex-blind.** The scent doesn't care about gender — only about how much protein the person's skin produces. Elyra (5th-born) rides. Edwyn (3rd-born) rides. The realm's LAW says firstborn son; the natural order says first child, period. The gap between those two is what makes Seren's story (Book 2) and Elowen's cliffhanger explosive.
 
@@ -51,28 +51,27 @@ Usually one pup per birth. Twins are rare — spoken of when they happen, rememb
 
 Pups are born blind, furred, with folded wing-membranes too soft for flight. They nurse for several months, then wean onto fruit mash. By the time they're old enough to be separated from the mother, they're roughly the size of a large hound — clumsy, loud, and unable to lighten reliably.
 
-## PUP PRESENTATION PROTOCOL
+## THE FREE-ROAMING COMPOUND (How Bonding Works)
 
-When a royal Nyxen births a pup and the pup is weaned, it is presented to the eldest prince or princess of the blood who does not yet have a Nyxen. The pup must accept the handler's scent-introduction: the candidate kneels, offers a hand, and the pup either comes or turns its head. The candidate cannot force the bond. If the pup refuses, it moves down the line to the next eldest without a Nyxen.
+Nyxens are **not** confined to the roost. The roost is merely where they sleep or rest. When you enter the compound of Foldhall, you are welcomed by young Nyxen pups freely roaming around the courtyards—joyous, playful, and curious—like peacocks or hounds in an emperor's garden, with wild adult Nyxens flying up above. 
 
-If all current royals are spoken for, refuse, or are refused, the pup is kept at the roost by the handlers. They raise it, socialise it (road trips, flight training, crowds, weather), and hold it for the next Brennan child born. A pup can wait years for a match.
+There is no formal "presentation ritual." It works naturally: when a member of the bloodline walks through the compound, if a roaming pup takes an interest in them, approaches, and sticks around, they have a bond. If the pup ignores them, walks away, or acts aggressively, the person cannot have it. 
 
-**This is why a handler might bring a pup on the king's road:** not to train it for himself, but to keep the pup learning while it waits for its rider to be born.
+If a noble tries to force a bond—taking a pup home that didn't choose them—it will end in disaster. When the beast comes of age to fly, it will break all hell loose, destroy its confines, and go feral.
 
-A Nyxen left unclaimed is never released to the wild. The roost keeps it. Wild-born Nyxens are a different matter — the crown does not claim pups born outside the royal roost unless a wild mother abandons one at the roost gate, which is vanishingly rare.
+## THE UNNAMED PUP & THE MIRACLE OF THE TWINS
 
-## THE UNNAMED PUP (Book 1)
+**Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen). 
 
-**Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen). The handlers know — they manage the roost and they saw the courtship. They don't announce it. The king's beast did his part; now the court waits for the king to do his.
+**The Bonding Attempts:**
+1. **Rowan** (2nd-born) — does not even walk the compound looking for a bond. As a child, he was simply never accepted by any pup (the scent skipped him, much like his sister Rhaenaya). By adulthood, he is no longer interested; he has a kingdom's arithmetic to keep, and considers himself too old and too occupied with ledgers to start training a Nyxen pup anyway.
+2. **Rhaenaya** (4th-born) — on a visit home, she walks the courtyards where the Unnamed Pup is roaming. She tries to coax it. The pup sniffs her and wanders away. Her scent is too thin. 
+3. **Alaric (Rhaenaya's son)** — When Rhaenaya brings her infant son Alaric to visit Foldhall, she takes him out into the compound. The Unnamed Pup ignores the baby completely. (Alaric later proves to be an anomaly rider and bonds with *Frost* from a different litter).
 
-**Presentation history:**
-1. **Rowan** (2nd-born, oldest without a Nyxen) — refused. Told the court he had no time for a beast when he had a kingdom's arithmetic to keep, and that the pup might not choose him anyway. That last part is the tell: Rowan will not kneel before an animal that might say no. Whether his scent is strong enough is a question he refuses to let anyone answer. The handlers heard his refusal and said nothing, because handlers know when silence is mercy.
-2. **Rhaenaya** (4th-born, married at Frostholt) — tried on a visit home. Knelt, offered her hand. The pup sniffed and turned its head. Fourth-born, married out, scent too thin. She laughed it off. She never tried again.
-3. **No other candidates** — Edwyn, Elyra, and Gareth already ride. No children yet in the next generation.
+**The Miracle:** 
+The Unnamed Pup continues to freely roam the Foldhall courtyards, unbonded. Then, a miracle occurs: *another* pup is born. Right on the heels of this, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
 
-So the pup stays at the roost, unclaimed, kept for Rodrik's firstborn whenever that child comes. Everyone at Foldhall sees the pup. Everyone understands the message: we have the Nyxen ready. Where is the heir? It is the gentlest pressure the court can apply and the loudest silence in the roost.
-
-**Oren's role:** Hart's handler, but also the pup's day-to-day keeper. He brings it on the road for lessons — socialisation, travel, exposure to weather and strangers. The pup is not his; he is holding it in trust for a child who does not yet exist.
+There are now exactly two royal pups roaming the compound for exactly two royal sons. The two pups grow up playing with the twin toddlers in the courtyard, eventually bonding with them to become **Ash** and **Storm**.
 
 ## NYXEN GRIEF & LIFESPAN
 
