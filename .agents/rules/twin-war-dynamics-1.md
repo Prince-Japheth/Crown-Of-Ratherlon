@@ -91,4 +91,15 @@ Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geograph
 
 Rider camps can cut across this: a Kelward cousin may still ride for Edric, etc.
 
+## THE ASSASSINATION OF LADY ROSELYN VAREN
+
+The event that irreversibly locks the realm into the Twin War is the assassination of Lady Roselyn Varen (Edric's fiancée). While it is never explicitly confirmed in the text that Harwin ordered the murder, it is universally believed to be his doing for four unshakeable reasons:
+
+1. **The "First Heir" Rumor:** After King Aldren IX dies without naming a successor, a massive rumor spreads: whichever twin sires a legitimate son first will win the crown. Because Edric is deeply in love and on the verge of marrying Roselyn, he is days away from securing that advantage. Harwin, lacking a bride, has the most direct motive to eliminate Roselyn and prevent Edric from siring an heir.
+2. **Harwin's Philosophy:** The realm knows Harwin believes "fear is the most reliable foundation for peace" and "compromise is weakness." Murdering a rival's bride to preemptively win a kingdom aligns perfectly with the brutal, pragmatic border tactics he learned in the Eastverge.
+3. **Crippling the Diplomat:** Roselyn is not just a girl; she is a Varen, representing the wealthy Vine Shore. Killing her shatters Edric's happiness and threatens his most powerful political alliance.
+4. **The Suspicious Silence:** Harwin's response to the assassination seals his guilt in the public eye: he never denies it, but he never accepts it either. In his court, the murder is simply never mentioned—as if it didn't happen. Harwin weaponizes the ambiguity, knowing that if people are terrified of him, they are less likely to join Edric. 
+
+Because of this terrifying silence, no one bothers looking for another suspect. The rumor becomes treated as absolute fact (driving characters like Aderyn Kelward into rebellion), even though the reader will never know if Harwin truly gave the order.
+
 *(Continued in [twin-war-dynamics-2.md](twin-war-dynamics-2.md))*
