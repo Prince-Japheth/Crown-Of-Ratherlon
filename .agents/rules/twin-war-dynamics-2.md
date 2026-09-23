@@ -28,7 +28,7 @@ Nyxen hide cannot be pierced by any human blade. Only Nyxen claws and teeth can 
 
 ## THE CLIFF ENDING
 
-Both twins clash on their Nyxens in a bloody battle. Something sets them ablaze. Nobody knows who is who — just balls of fire fighting. The fight goes beyond a steep cliff. Both sides hear crashes. At the cliff edge: two dead Nyxens (not by fire, but impact of fall), two severely burnt princes — burnt beyond recognition. One is dead. No one knows which survived, which died. The survivor has severe brain trauma — remembers fragments, faces seem familiar, names trigger emotions, memories disconnected and unreliable. Sometimes believes he is one twin, sometimes the other.
+Both twins clash on their Nyxens in a bloody battle. Something sets them ablaze. Nobody knows who is who — just balls of fire fighting. The fight goes beyond a steep cliff. Both sides hear crashes. At the cliff edge: they find both Nyxens dead together, same as they find both twins together burnt beyond recognition, just with one dead. Because the beasts fell together and are also burnt and tangled, it is impossible to identify which rider fell from which Nyxen. The survivor has severe brain trauma — remembers fragments, faces seem familiar, names trigger emotions, memories disconnected and unreliable. Sometimes believes he is one twin, sometimes the other.
 
 **The dead twin is unidentifiable** — burns + impact trauma + destroyed clothing + similar age and build + brothers.
 

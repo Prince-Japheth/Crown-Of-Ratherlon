@@ -333,5 +333,5 @@ Edric (Ash), Harwin (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caelen
 
 **Rowan is NOT a rider.** He has no Nyxen.
 
-**Alys (Kelward) and Robert (Dorsen) are NOT riders.** As the younger siblings of King Aldren VIII, their Nyxen scent was too weak to bond with a beast. They provide major political and geographical clout for their respective regions (Eastgirt and Rivermark), but they do not field Nyxens.
+**Alys (Kelward) and Robert (Dorsen) are NOT riders.** As the younger siblings of King Aldren VIII, their Nyxen scent was too weak to pair with a beast. They provide major political and geographical clout for their respective regions (Eastgirt and Rivermark), but they do not field Nyxens.
 

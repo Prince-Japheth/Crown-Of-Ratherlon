@@ -1,6 +1,6 @@
 ## ROWAN'S SUCCESSION PLAY
 
-When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — it's a reactive decision when war erupts. Whether Caelen obeys or disobeys depends on which twin he's closest to — to be developed as characters grow.
+When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — it's a reactive decision when war erupts. Caelen ultimately disobeys his father and rides for Edric.
 
 ## ROWAN'S SILENT RESENTMENT TOWARD ELYN
 
@@ -95,7 +95,7 @@ Rider camps can cut across this: a Kelward cousin may still ride for Edric, etc.
 
 The event that irreversibly locks the realm into the Twin War is the assassination of Lady Roselyn Varen (Edric's fiancée). While it is never explicitly confirmed in the text that Harwin ordered the murder, it is universally believed to be his doing for four unshakeable reasons:
 
-1. **The "First Heir" Rumor:** After King Aldren IX dies without naming a successor, a massive rumor spreads: whichever twin sires a legitimate son first will win the crown. Because Edric is deeply in love and on the verge of marrying Roselyn, he is days away from securing that advantage. Harwin, lacking a bride, has the most direct motive to eliminate Roselyn and prevent Edric from siring an heir.
+1. **The "First Heir" Rumor:** After King Aldren IX dies without naming a successor, a massive rumor spreads: whichever twin sires a legitimate son first will win the crown. The rumor was based on what people thought the Queen (Elyn) would say or do, though it was never confirmed. Because Edric is deeply in love and on the verge of marrying Roselyn, he has a massive headstart. Harwin, lacking a bride, couldn't possibly do things rightly, get married, and still sire a child before his brother. The people say he eliminated the headstart entirely.
 2. **Harwin's Philosophy:** The realm knows Harwin believes "fear is the most reliable foundation for peace" and "compromise is weakness." Murdering a rival's bride to preemptively win a kingdom aligns perfectly with the brutal, pragmatic border tactics he learned in the Eastverge.
 3. **Crippling the Diplomat:** Roselyn is not just a girl; she is a Varen, representing the wealthy Vine Shore. Killing her shatters Edric's happiness and threatens his most powerful political alliance.
 4. **The Suspicious Silence:** Harwin's response to the assassination seals his guilt in the public eye: he never denies it, but he never accepts it either. In his court, the murder is simply never mentioned—as if it didn't happen. Harwin weaponizes the ambiguity, knowing that if people are terrified of him, they are less likely to join Edric. 
