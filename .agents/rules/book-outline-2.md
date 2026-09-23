@@ -53,4 +53,4 @@ Use sparingly. Not every chapter. When a passage of living history would teach t
 - [ ] Confirm First Princess names (Seren, Osbert) or rename
 
 ### Book Two Seed (do not solve in book one)
-Elowen is firstborn daughter. Myth says marker follows "first" blood. Marriage politics will threaten to export the dynasty's Nyxen claim. Leave the wound open.
+Elowen is firstborn daughter. Myth says marker follows "first" blood. Marriage politics will threaten to export the dynasty's Nyxen claim. Her question to her father ("what becomes of the Nyxens when I marry?") acts as the frame for Book Two: it prompts Aldren X to tell her the history of Queen Seren (the very first firstborn daughter of the dynasty, who fought her brother), leading directly into the prequel.

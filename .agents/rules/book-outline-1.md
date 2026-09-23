@@ -12,7 +12,7 @@ The reader lives the story in the moment — Foldhall summers, campaigns, betrot
 
 **Progressive Character Timelines (Experiential Pacing):** At the beginning of the book, characters are in their youth. Elyra is an unmarried wild rider; Rowan is the unmarried ledger-keeper brother; Edwyn is the performer. Their defining end-states (Rowan's tragic marriage and loss, Elyra marrying Alton Kelward, Edwyn having Tristan and Cassia) happen *progressively* over the timeline of the book. Never info-dump or foreshadow their future end-states early on. The `.agents` files represent their "Start of War" snapshot, but the prose must let the reader experience the "now" as they grow.
 
-Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the survivor is telling this wound to his child, and he still does not know which prince he was. Her next question seeds book two.
+Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the survivor is telling this wound to his child, and he still does not know which prince he was. Her next question seeds Book Two (which is a prequel).
 
 ## BOOK ONE SPINE
 
@@ -117,7 +117,7 @@ Do NOT put Aldren X and Elowen on the page until after the cliff battle.
 
 Final chapter/epilogue: Years later. Southern snow. King Aldren X and Princess Elowen by the fire.
 1. "Father... which prince were you?" — no answer.
-2. "If I am your firstborn, and I am a daughter... what becomes of the Nyxens when I marry?" — cliffhanger into book two.
+2. "If I am your firstborn, and I am a daughter... what becomes of the Nyxens when I marry?" — cliffhanger into Book Two. This question prompts Aldren X to tell her the story of Queen Seren (the very first firstborn daughter of the dynasty, who fought her younger brother), which becomes the prequel story of Book Two.
 
 The survivor should NEVER learn the truth. Not in sequel, not through a secret diary. Never. The answer died on that cliff.
 

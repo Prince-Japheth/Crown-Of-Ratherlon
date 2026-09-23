@@ -6,7 +6,7 @@
 
 **Crop-raiding → hunting → attempted extinction:**
 1. **Phase 1 — crop protection.** Farmers killed Nyxens to protect produce. Understandable, defensive.
-2. **Phase 2 — greed.** Mankind discovered Nyxen hide is fireproof, impervious to any steel weapon. Only Nyxen claws/teeth can puncture Nyxen hide. Nyxen bone/claw is sharp enough to cut through hide (workable for armor, tools, weapons). Humans wanted hide AND claws/bone.
+2. **Phase 2 — greed.** Mankind discovered Nyxen pelt (the thick fur-lined hide) is fireproof, impervious to any steel weapon. Only Nyxen claws/teeth can puncture Nyxen hide. Nyxen bone/claw is sharp enough to cut through hide (workable for armor, tools, weapons). Humans wanted the pelts AND claws/bone.
 3. **Phase 3 — near-extinction.** What began as saving crops became attempted genocide.
 
 **Methods of killing Nyxens (historical):**
@@ -16,7 +16,7 @@
 
 **Farmer Brennan's mercy:** Took pity on a last surviving clan. Sheltered them. This is the founding act of the dynasty (Year 0).
 
-**The firstborn scent — its origin:** Brennan's FATHER already had a relationship with this Nyxen clan, but his siblings did not. Brennan inherited that bond — his own siblings didn't share it. Both Brennan and his father were firstborns. This is the root of the firstborn scent: the bond runs through the direct line, eldest to eldest, and dilutes in younger children and their descendants.
+**The firstborn scent — its origin:** Brennan's FATHER already had a relationship with this Nyxen clan, but his siblings did not. Brennan inherited that bond — his own siblings didn't share it. Both Brennan and his father were firstborns. This is the root of the firstborn scent: the bond runs through the direct line, eldest to eldest, and acts as a probability gamble for younger siblings. The firstborn child is guaranteed 100% to have the scent. Everything after that is less guaranteed (e.g., 2nd child 70%, 3rd child 50%). It is all probability, so a 2nd born might hit the 30% failure chance (like Alys and Robert), while a 5th or 6th born might hit their smaller success chance (like Elyra and Gareth).
 
 ## NYXEN ANATOMY
 
