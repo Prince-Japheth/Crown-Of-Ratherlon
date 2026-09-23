@@ -34,7 +34,7 @@ Use sparingly. Not every chapter. When a passage of living history would teach t
 ### Plot
 - [ ] How many Nyxens die in the war? (keep rare; each death is an event)
 - [ ] Exact field name / geography of final battle (working: Hart Cliffs)
-- [ ] Lock exact crowning age / VIII's illness name
+- [ ] Lock exact crowning age / VIII's cause of death (old age)
 - [ ] Call-pipe: inventor; who keeps rider roll; remake/theft rules; which ordinals are "fairest"
 - [ ] Rider ordinal map Aldren I → IX / twins / riding kin
 

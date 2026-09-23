@@ -30,7 +30,7 @@ Nyxen hide cannot be pierced by any human blade. Only Nyxen claws and teeth can 
 
 Both twins clash on their Nyxens in a bloody battle. Something sets them ablaze. Nobody knows who is who — just balls of fire fighting. The fight goes beyond a steep cliff. Both sides hear crashes. At the cliff edge: they find both Nyxens dead together, same as they find both twins together burnt beyond recognition, just with one dead. Because the beasts fell together and are also burnt and tangled, it is impossible to identify which rider fell from which Nyxen. The survivor has severe brain trauma — remembers fragments, faces seem familiar, names trigger emotions, memories disconnected and unreliable. Sometimes believes he is one twin, sometimes the other.
 
-**The dead twin is unidentifiable** — burns + impact trauma + destroyed clothing + similar age and build + brothers.
+**The dead twin is unidentifiable** — The twins are identical to a T, with the exact same full Cinder hair and build. People could only ever tell them apart by the way they dressed and styled themselves. With the burns, impact trauma, and destroyed clothing, they are completely indistinguishable.
 
 **The war cannot truly end** because the answer was never found. Every faction sees what it wants to see. The survivor becomes the ultimate political Rorschach test.
 
