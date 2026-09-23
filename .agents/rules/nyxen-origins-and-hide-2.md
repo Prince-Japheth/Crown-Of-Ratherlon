@@ -25,7 +25,7 @@ The farmer possessed a rare mutation — a gene cluster causing production of a 
 
 **BUT — a late miscarriage or stillbirth WOULD sensitize the mother.** If a queen carried a child nearly to term and lost it, her body builds the antibodies. Her next live child is a "second exposure" baby — weaker scent — even though everyone calls him "the firstborn." No one understands why the heir's bond is weaker than expected. (Dramatic potential for future books.)
 
-**The Skipping & Anomalies:** The scent gets weaker the further down the line from the firstborn, but genetics are unpredictable. It can skip some children entirely (like Rhaenaya, who cannot ride) and manifest strongly in others further down the line (like Elyra and Gareth). Sometimes anomalies even exist where nieces and nephews of the heir become riders.
+**Thin Scent & Anomalies:** The scent gets weaker the further down the line from the firstborn, but genetics are unpredictable. It can be too thin in some children for a normal pup to notice (like Rhaenaya, who cannot ride) and manifest strongly in others further down the line (like Elyra and Gareth). Sometimes anomalies even exist where nieces and nephews of the heir become riders.
 
 **The mechanism is sex-blind.** The scent doesn't care about gender — only about how much protein the person's skin produces. Elyra (5th-born) rides. Edwyn (3rd-born) rides. The realm's LAW says firstborn son; the natural order says first child, period. The gap between those two is what makes Seren's story (Book 2) and Elowen's cliffhanger explosive.
 
@@ -64,7 +64,7 @@ If a noble tries to force a bond—taking a pup home that didn't choose them—i
 **Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen). 
 
 **The Bonding Attempts:**
-1. **Rowan** (2nd-born) — does not even walk the compound looking for a bond. As a child, he was simply never accepted by any pup (the scent skipped him, much like his sister Rhaenaya). By adulthood, he is no longer interested; he has a kingdom's arithmetic to keep, and considers himself too old and too occupied with ledgers to start training a Nyxen pup anyway.
+1. **Rowan** (2nd-born) — does not even walk the compound looking for a bond. As a child, he was simply never accepted by any pup (his scent was too thin, much like his sister Rhaenaya; though a sensitive Nyxen might have accepted him, none ever did). By adulthood, he is no longer interested; he has a kingdom's arithmetic to keep, and considers himself too old and too occupied with ledgers to start training a Nyxen pup anyway.
 2. **Rhaenaya** (4th-born) — on a visit home, she walks the courtyards where the Unnamed Pup is roaming. She tries to coax it. The pup sniffs her and wanders away. Her scent is too thin. 
 3. **Alaric (Rhaenaya's son)** — When Rhaenaya brings her infant son Alaric to visit Foldhall, she takes him out into the compound. The Unnamed Pup ignores the baby completely. (Alaric later proves to be an anomaly rider and bonds with *Frost* from a different litter).
 
