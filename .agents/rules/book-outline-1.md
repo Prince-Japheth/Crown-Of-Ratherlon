@@ -19,7 +19,7 @@ Only at the END, after the cliff and the hunger to know who survived, does the b
 0. Before the heirs (long): Rodrik and Elyn's Foldhall, family, visits, Nyxens, borders. Then pregnancy. Then birth and king's rush home. Then raising the twins, Roselyn, weather turns.
 1. Succession crisis after King Aldren IX dies on campaign without naming an heir.
 2. Two visions of rule: Edric (diplomatic) vs Harwin (warrior).
-3. Lock-in: Harwin orders Lady Roselyn Varen killed.
+3. Lock-in: Lady Roselyn Varen is assassinated. It is universally believed that Harwin ordered it, though it is never confirmed in the text.
 4. First family war with Nyxens on both sides.
 5. Final battle, one twin lives; identity unrecoverable.
 6. End reveal / cliffhanger only: Aldren X + Elowen by the fire.
@@ -46,7 +46,7 @@ To ensure the cousins are all old enough to ride in the Twin War, their births h
 | Question | Call |
 |----------|------|
 | Crisis start | Aldren IX dies on campaign, no named heir |
-| Roselyn | Harwin orders the kill after "first to sire an heir" rumor |
+| Roselyn | Assassinated after "first to sire an heir" rumor. Universally blamed on Harwin, but never confirmed |
 | Survivor | Trauma + fragments; never revealed which twin |
 | Open war length | ~18-24 months after Roselyn |
 | Armies | Edric = quantity (Varen, Rathen...); Harwin = quality (Kelward, Norvalen...) |
@@ -137,7 +137,7 @@ Make the kingdom sweet enough to hurt when it breaks. Raise the twins in view. P
 ### PART II: The Empty Chair (~15-20%)
 Succession crisis earned. Camps form. Roselyn becomes the hinge. Tone: grief, letters, halls, last chance at coexistence.
 
-Beats: King's death reaches Foldhall → Elyn trapped → Edric argues continuity, Harwin gathers hard country → Family picks sides (Caelen disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's murder (Harwin's warrant).
+Beats: King's death reaches Foldhall → Elyn trapped → Edric argues continuity, Harwin gathers hard country → Family picks sides (Caelen disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's assassination (blamed on Harwin's warrant, never confirmed).
 
 ### PART III: The Twin War (~25-30%)
 Strategic civil war; first Nyxen-against-Nyxen; hollow victories. Tone: campaign seasons, doctrine, empty roosts.

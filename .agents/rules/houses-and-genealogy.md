@@ -53,7 +53,7 @@ Nyxens of note: Hart (king), Briar (Edwyn), Lark (Elyra), Thorn (Gareth).
 
     ROWAN ---- CAELEN, LERAEYNA
     EDWYN ---- TRISTAN, CASSIA
-    ELYRA = ALTON RATHEN ---- ADERYN, ISABELLE
+    ELYRA = ALTON KELWARD ---- ADERYN, ISABELLE
     RHAENAYA = OSRIC ---- ALARIC, BEATRICE
     GARETH (unmarried)
 ```
@@ -161,7 +161,7 @@ ALDREN VIII = Gwyn Selborn
  |
  ├─ ROWAN                    [widower / no Nyxen / steward]
  ├─ EDWYN                    [unmarried / rides Briar / performer]
- ├─ ELYRA = (later) ALTON Rathen
+ ├─ ELYRA = (later) ALTON Kelward
  ├─ RHAENAYA = OSRIC Norvalen
  │   |
  │   ├─ ALARIC
@@ -192,7 +192,6 @@ Harwin Rathen = Lydia
                      ├─ ELYN = ALDREN IX
                      └─ Living lord = Helen Pellridge
                          |
-                         ├─ ALTON = (later) ELYRA
                          └─ EDMUND
 ```
 
@@ -278,7 +277,7 @@ Lord Selborn = Fern
 
 | Hall | How |
 |------|-----|
-| Stillford | Queens Maris, Catelyn, Elyn; Rhaena, Jeyne; later Elyra |
+| Stillford | Queens Maris, Catelyn, Elyn; Rhaena, Jeyne |
 | Rosegate | Osha, Elen (+ Aldric Brennan, her son by Leofric — d. blood ritual), Elaena, Cersei; Roselyn betrothal |
 | Frostholt | Bethany, Margaery, Randa, Freya; Rhaenaya |
 | Eastgirt | Lysa, Donnel appanage, Jocelyn, Alys |
@@ -298,7 +297,7 @@ Lord Selborn = Fern
 | Prince Harwin | Warrior twin | ✓ | Storm | Fetches Oak for Twin War |
 | Prince Rowan | King's brother | ✗ | | Ambitious; orders Caelen out; steward/ledger |
 | Prince Edwyn | King's brother | ✓ | Briar | Performer; Littlefinger parallel (fun, no evil motive) |
-| Princess Elyra | King's sister | ✓ | Lark | → Edric's camp |
+| Princess Elyra | King's sister | ✓ | Lark | → Harwin's camp |
 
 
 | Princess Rhaenaya | King's sister | ✗ | | Wed Osric Norvalen |
@@ -312,8 +311,8 @@ Lord Selborn = Fern
 | Leraeyna Brennan (Rowan's) | ✗ | | |
 | Tristan Brennan (Edwyn's) | ✓ | TBD | → Edric |
 | Cassia Brennan (Edwyn's) | ✓ | TBD (Wild) | → Edric |
-| Aderyn Rathen (Elyra's) | ✓ | TBD | → Edric |
-| Isabelle Rathen (Elyra's) | ✗ | | |
+| Aderyn Kelward (Elyra's) | ✓ | TBD | → Edric (Rebellion) |
+| Isabelle Kelward (Elyra's) | ✗ | | |
 | Alaric Norvalen (Rhaenaya's) | ✓ | Frost | → Harwin |
 | Beatrice Norvalen (Rhaenaya's) | ✗ | | |
 

@@ -65,10 +65,13 @@ Both absolute loyalty and familial rebellion happen simultaneously. A Duke canno
 - **The Rebel:** His son, **Caelen Brennan** (riding *Rook*).
 - **The Reason:** Caelen is young, idealistic, and disgusted by his father's self-serving politics. He truly believes in Edric’s diplomatic vision for a unified realm. Caelen disobeys his father's strict orders, taking *Rook* to fight for Edric.
 
-**3. Princess Elyra (The Married Defector):**
-- **The Defection:** Elyra (riding *Lark*) is happily married to Alton Rathen (of the Merelands) and has trueborn children (including Aderyn). The Merelands officially support the Warrior Prince (Harwin). However, as the aunt who grew up around the twins, she saw Harwin's coldness before anyone else. Recognizing his ruthlessness, she takes *Lark* and her son Aderyn, defecting from her husband's regional politics to join Edric's camp.
+**3. Princess Elyra (The Love Match):**
+- **The Stance:** Elyra (riding *Lark*) is happily married to Alton Kelward of the Eastverge. Living in the dusty borderlands, she sees the constant threat of the Ashen Kingdom. Because she loves her husband and understands the survival needs of the Eastverge, she stands fiercely with House Kelward and officially declares for **Harwin**.
 
-**4. Edwyn's Bastards (The Secret Bonds):**
+**4. Aderyn Kelward (The Idealist's Rebellion):**
+- **The Rebellion:** Aderyn is the son of Elyra and Alton Kelward. However, he is a young idealist. When Harwin is universally blamed for the assassination of Lady Roselyn Varen, Aderyn crosses a moral line. He refuses to support a man he believes is a kinslayer/murderer of innocent women, even if he agrees the realm needs strength. He takes his Nyxen, defects from his parents' region, and flies to join **Edric**.
+
+**5. Edwyn's Bastards (The Secret Bonds):**
 - **Tristan (The Noble Bastard):** Kept at court but treated as lesser, Tristan secretly bonds a roost Nyxen. When the court demands he be stripped of it, Edwyn furiously defends him, arguing the beast already chose him. Tristan keeps the beast and fights for Edric.
 - **Cassia (The Hidden Daughter):** Edwyn is secretly a devoted father who hid his commoner daughter away to protect her from court shame, but visits her often. Cassia knows her blood and manages to tame a wild Nyxen outside the roost system. 
 - **The Result:** When the war breaks out, Edwyn brings both his bastards to the Diplomatic Prince's side, suddenly granting Edric's faction three riders from a single unexpected branch.
