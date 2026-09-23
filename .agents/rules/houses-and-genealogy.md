@@ -21,9 +21,9 @@ metadata:
 | Person | Ordinary home |
 |--------|---------------|
 | King Aldren IX (Rodrik) & Queen Elyn | Foldhall |
-| Rowan, Edwin, Elyra (while unmarried) | Rooms at Foldhall |
+| Rowan, Edwyn, Elyra | Rooms at Foldhall |
 | Gareth | Foldhall and the road |
-| Marianne | Frostholt (wed to Osric Norvalen) |
+| Rhaenaya | Frostholt (wed to Osric Norvalen) |
 
 ### Family Tree: When the Telling Begins
 
@@ -35,11 +35,11 @@ metadata:
           (no children yet at the opening)
 
     Rodrik's siblings (same generation):
-    ROWAN (unmarried)   EDWIN (unmarried)   ELYRA (unmarried)
-    GARETH (unmarried)  MARIANNE = OSRIC NORVALEN
+    ROWAN (widower)     EDWYN (unmarried)   ELYRA
+    GARETH (unmarried)  RHAENAYA = OSRIC NORVALEN
 ```
 
-Nyxens of note: Hart (king), Briar (Edwin), Lark (Elyra), Thorn (Gareth).
+Nyxens of note: Hart (king), Briar (Edwyn), Lark (Elyra), Thorn (Gareth).
 **Rowan has NO Nyxen** — he is the steward/ledger sibling.
 
 ### Family Tree: Later (as years turn, spoiler/future context only)
@@ -51,14 +51,14 @@ Nyxens of note: Hart (king), Briar (Edwin), Lark (Elyra), Thorn (Gareth).
         |           |
       EDRIC       HARWIN
 
-    ROWAN ---- CEDRIC, EVELYN
-    EDWIN ---- TRISTAN, CLARA
-    ELYRA = ALTON RATHEN ---- ADRIAN, ISABELLE
-    MARIANNE = OSRIC ---- ALARIC, BEATRICE
-    GARETH ---- OWEN, LIONEL
+    ROWAN ---- CAELEN, LERAEYNA
+    EDWYN ---- TRISTAN, CASSIA
+    ELYRA = ALTON RATHEN ---- ADERYN, ISABELLE
+    RHAENAYA = OSRIC ---- ALARIC, BEATRICE
+    GARETH (unmarried)
 ```
 
-Nyxens of that generation: Ash (Edric), Storm (Harwin), Rook (Cedric), Cinder (Owen), Frost (Alaric).
+Nyxens of that generation: Ash (Edric), Storm (Harwin), Rook (Caelen), Frost (Alaric).
 
 ### Pre-Crown Line (Y0 → ~Y200)
 
@@ -159,10 +159,10 @@ ALDREN VIII = Gwyn Selborn
  │       |
  │       └─ ELOWEN
  |
- ├─ ROWAN                    [unmarried / no Nyxen / steward]
- ├─ EDWIN                    [unmarried / rides Briar / performer]
+ ├─ ROWAN                    [widower / no Nyxen / steward]
+ ├─ EDWYN                    [unmarried / rides Briar / performer]
  ├─ ELYRA = (later) ALTON Rathen
- ├─ MARIANNE = OSRIC Norvalen
+ ├─ RHAENAYA = OSRIC Norvalen
  │   |
  │   ├─ ALARIC
  │   └─ BEATRICE
@@ -218,7 +218,7 @@ Rickard = Bethany of Brennan
          └─ Torrhen Norvalen = Skadi
              ├─ Freya = ALDREN VII                        [queen]
              └─ Osric's father = Ylva
-                 └─ OSRIC = MARIANNE of Brennan
+                 └─ OSRIC = RHAENAYA of Brennan
                      ├─ ALARIC (rider, Nyxen Frost)
                      └─ BEATRICE
 ```
@@ -280,7 +280,7 @@ Lord Selborn = Fern
 |------|-----|
 | Stillford | Queens Maris, Catelyn, Elyn; Rhaena, Jeyne; later Elyra |
 | Rosegate | Osha, Elen (+ Aldric Brennan, her son by Leofric — d. blood ritual), Elaena, Cersei; Roselyn betrothal |
-| Frostholt | Bethany, Margaery, Randa, Freya; Marianne |
+| Frostholt | Bethany, Margaery, Randa, Freya; Rhaenaya |
 | Eastgirt | Lysa, Donnel appanage, Jocelyn, Alys |
 | Saltcrown | Tansy, Lyra, Nysa, Martyn; Helena |
 | Rivermark | Hilda, Humfrey, Luthor, Robert |
@@ -288,7 +288,7 @@ Lord Selborn = Fern
 
 ## PRINCIPAL CAST & RIDERS
 
-**CORRECTED per birth-order-locked.md:** Rowan = non-rider/steward/ambitious/father of Cedric. Edwin = rider (Briar)/performer.
+**CORRECTED per birth-order-locked.md:** Rowan = non-rider/steward/ambitious/father of Caelen. Edwyn = rider (Briar)/performer.
 
 | Person | Role | Rider | Nyxen | Notes |
 |--------|------|-------|-------|-------|
@@ -296,28 +296,27 @@ Lord Selborn = Fern
 | Queen Elyn Rathen | Queen | ✗ | | Suicide when everything spirals |
 | Prince Edric | Diplomatic twin | ✓ | Ash | Betrothed to Roselyn |
 | Prince Harwin | Warrior twin | ✓ | Storm | Fetches Oak for Twin War |
-| Prince Rowan | King's brother | ✗ | | Ambitious; orders Cedric out; steward/ledger |
-| Prince Edwin | King's brother | ✓ | Briar | Performer; Littlefinger parallel (fun, no evil motive) |
+| Prince Rowan | King's brother | ✗ | | Ambitious; orders Caelen out; steward/ledger |
+| Prince Edwyn | King's brother | ✓ | Briar | Performer; Littlefinger parallel (fun, no evil motive) |
 | Princess Elyra | King's sister | ✓ | Lark | → Edric's camp |
 
-**Note on Princess Elyra's Marital Status:** She is unmarried at the start of the Twin War. Because she was the fifth-born child and roughly 13-15 years younger than King Rodrik, their father (Aldren VIII) died of old age before she was old enough to be married off. King Rodrik, acting as her loving older brother and guardian, refused to force a wild rider into a political marriage, allowing her to stay at court in Foldhall. This leaves her as a highly dangerous free agent when the war begins.
-| Princess Marianne | King's sister | ✗ | | Wed Osric Norvalen |
+
+| Princess Rhaenaya | King's sister | ✗ | | Wed Osric Norvalen |
 | Prince Gareth | King's brother | ✓ | Thorn | → Harwin's camp; cold by nature |
 
 ### Next Generation / Cousins
 
 | Person | Rider | Nyxen | Notes |
 |--------|-------|-------|-------|
-| Cedric Brennan (Rowan's son) | ✓ | Rook | Disobeys Rowan → Edric |
-| Evelyn Brennan (Rowan's) | ✗ | | |
-| Tristan Brennan (Edwin's) | ✗ | | |
-| Clara Brennan (Edwin's) | ✗ | | |
-| Adrian Rathen (Elyra's) | ✓ | TBD | → Edric |
+| Caelen Brennan (Rowan's son) | ✓ | Rook | Disobeys Rowan → Edric |
+| Leraeyna Brennan (Rowan's) | ✗ | | |
+| Tristan Brennan (Edwyn's) | ✓ | TBD | → Edric |
+| Cassia Brennan (Edwyn's) | ✓ | TBD (Wild) | → Edric |
+| Aderyn Rathen (Elyra's) | ✓ | TBD | → Edric |
 | Isabelle Rathen (Elyra's) | ✗ | | |
-| Alaric Norvalen (Marianne's) | ✓ | Frost | → Harwin |
-| Beatrice Norvalen (Marianne's) | ✗ | | |
-| Owen Brennan (Gareth's) | ✓ | Cinder | → Harwin |
-| Lionel Brennan (Gareth's) | ✗ | | |
+| Alaric Norvalen (Rhaenaya's) | ✓ | Frost | → Harwin |
+| Beatrice Norvalen (Rhaenaya's) | ✗ | | |
+
 
 
 
@@ -329,9 +328,9 @@ Lord Selborn = Fern
 | Princess Elowen | His daughter; fire scene final pages |
 | Oak (Nyxen) | VII's mount → second rider VIII; grief-survivor; Harwin fetches for Twin War |
 
-### Active Riders at War's Start (~12)
+### Active Riders at War's Start (11)
 
-Aldren IX (Hart), Edric (Ash), Harwin (Storm), Edwin (Briar), Elyra (Lark), Gareth (Thorn), Cedric (Rook), Owen (Cinder), Adrian (TBD), Alaric (Frost).
+Aldren IX (Hart), Edric (Ash), Harwin (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caelen (Rook), Aderyn (TBD), Alaric (Frost), Tristan (TBD), Cassia (TBD).
 
 **Rowan is NOT a rider.** He has no Nyxen.
 

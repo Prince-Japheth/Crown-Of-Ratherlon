@@ -73,7 +73,7 @@ Additional standing rules:
 - Character introductions must be reader-friendly — readers should know who is who without flipping to the appendix, especially ebook readers who can't easily flip
 
 **Character comparisons (user's own):**
-- Edwin = Littlefinger "but just for the fun of it, no evil motive" — enjoys the political game, doesn't scheme for the throne
+- Edwyn = Littlefinger "but just for the fun of it, no evil motive" — enjoys the political game, doesn't scheme for the throne
 - Rowan = Otto Hightower — patient administrator who makes himself indispensable, waits for the right moment
 
 **Brennan hereditary feature — The Brennan Cinder (REPLACES old "Brennan Copper" and "no hereditary feature" rules):**
@@ -87,13 +87,13 @@ Additional standing rules:
 - In-world, the Brennan Cinder is a point of pride ("He loved his beast so much he wore its colours"); readers see it as the visible mark of a cursed house
 - **Aldric Brennan:** Leofric's firstborn by Elen, born at Foldhall, killed by the blood ritual extraction ("childhood fever"). The Varens remember.
 - **Aurouvian reincarnation belief:** Stays ambiguous forever — never confirmed, never denied
-- DONE: Book 1 prose updated — Rodrik "ash-charcoal hair" (full Cinder), Rowan "ash-charcoal hair a shade warmer than the king's" (2nd-born, softer sheen), Edwin "dark hair shot through with steel" (3rd-born, brown dominant with metallic veins), Elyra "tawny-brown hair" (5th-born, nearly maternal, cool pewter in direct light), Hart "tawny-gold in the morning light"
+- DONE: Book 1 prose updated — Rodrik "ash-charcoal hair" (full Cinder), Rowan "ash-charcoal hair a shade warmer than the king's" (2nd-born, softer sheen), Edwyn "dark hair shot through with steel" (3rd-born, brown dominant with metallic veins), Elyra "tawny-brown hair" (5th-born, nearly maternal, cool pewter in direct light), Hart "tawny-gold in the morning light"
 
 The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by Queen Gwyn Selborn, locked 2026-09-02):
 1. Rodrik (firstborn) — Metallic ash-charcoal with the visual properties of polished metal. Full Cinder. Near-identical to Aldren VIII's. In firelight or sun it catches like hammered gunmetal. No trace of Gwyn's brown.
 2. Rowan (second-born) — Dark ash-charcoal with a warm umber undertow. Still overwhelmingly Cinder, still metallic, but the sheen is softer — more oil on iron than polished steel. In certain light, Gwyn's warmth shows at the roots and temples.
-3. Edwin (third-born) — Dark brown shot through with steel. The brown has taken the lead. Gwyn's honey-brown runs the length, but metallic ash-charcoal threads through it like veins of ore in dark wood.
-4. Marianne (fourth-born) — Warm chestnut with a burnished metallic lustre. Gwyn's colour fully dominant, rich and warm, but a cool sheen lingers over the surface. The Cinder shows not as colour but as quality.
+3. Edwyn (third-born) — Dark brown shot through with steel. The brown has taken the lead. Gwyn's honey-brown runs the length, but metallic ash-charcoal threads through it like veins of ore in dark wood.
+4. Rhaenaya (fourth-born) — Warm chestnut with a burnished metallic lustre. Gwyn's colour fully dominant, rich and warm, but a cool sheen lingers over the surface. The Cinder shows not as colour but as quality.
 5. Elyra (fifth-born) — Rich tawny-brown with a cool steel undertone. Nearly Gwyn's own shade, but in direct light there is a faint pewter coolness beneath the warmth.
 6. Gareth (sixth-born, last) — Deep warm brown with only a ghost of metallic sheen — visible only when light hits at an angle, a fleeting silver flash like a fish turning beneath dark water.
 

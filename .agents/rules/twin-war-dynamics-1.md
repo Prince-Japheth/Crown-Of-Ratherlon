@@ -1,6 +1,6 @@
 ## ROWAN'S SUCCESSION PLAY
 
-When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Cedric wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Cedric after him. This is NOT a lifelong grooming plan — it's a reactive decision when war erupts. Whether Cedric obeys or disobeys depends on which twin he's closest to — to be developed as characters grow.
+When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — it's a reactive decision when war erupts. Whether Caelen obeys or disobeys depends on which twin he's closest to — to be developed as characters grow.
 
 ## ROWAN'S SILENT RESENTMENT TOWARD ELYN
 
@@ -12,7 +12,7 @@ Rowan resents Elyn — quietly, never spoken. The Hand's seat is empty. Rowan is
 
 **How it feeds his succession play:** This isn't just about a title. It's years of feeling passed over by his own brother, watching Elyn (not even Brennan blood) stand where he should stand. When the twins' war erupts, Rowan's "let them destroy each other" calculation isn't cold pragmatism from nowhere — it's a man who already believed the family owed him something and never paid.
 
-**The twins as Elyn's children:** Rowan's hatred of the twins isn't just political rivalry — they are the children of his replacement. Elyn took his place in court, and now her sons stand between him and the crown. When war breaks out, he *wants* them to obliterate each other. His pitch to Cedric isn't purely "save the kingdom" — it's also "if they destroy each other, I'm king, and you're king after me." The succession prize is the perk he dangles to keep Cedric out of the war. The political reasoning ("neither twin deserves the throne") is real, but underneath it is a man who has wanted Elyn's line out of his way for years.
+**The twins as Elyn's children:** Rowan's hatred of the twins isn't just political rivalry — they are the children of his replacement. Elyn took his place in court, and now her sons stand between him and the crown. When war breaks out, he *wants* them to obliterate each other. His pitch to Caelen isn't purely "save the kingdom" — it's also "if they destroy each other, I'm king, and you're king after me." The succession prize is the perk he dangles to keep Caelen out of the war. The political reasoning ("neither twin deserves the throne") is real, but underneath it is a man who has wanted Elyn's line out of his way for years.
 
 **Rowan is the Otto Hightower parallel:** patient administrator who makes himself indispensable, waits for the right moment. He fills the vacuum left by the empty Hand of the King seat, doing the Hand's work without the title, all without anyone formally giving him the authority.
 
@@ -21,12 +21,12 @@ His reasoning is not simple ambition — he genuinely believes neither twin shou
 - Diplomatic twin = well-meaning idealist who has already failed to prevent civil war
 - "Both have already proven unworthy. The kingdom burns because of them."
 
-His argument to Cedric: "You think you're helping your cousin. You're helping him destroy the realm. Every rider who joins a side prolongs this war. Let them exhaust themselves. Let the war end. Then we rebuild."
+His argument to Caelen: "You think you're helping your cousin. You're helping him destroy the realm. Every rider who joins a side prolongs this war. Let them exhaust themselves. Let the war end. Then we rebuild."
 
-**Cedric hears:** "Wait for your cousins to die."
+**Caelen hears:** "Wait for your cousins to die."
 **Rowan hears:** "Save the kingdom."
 
-Neither considers himself evil. Cedric rides anyway — loyalty matters more than political calculation.
+Neither considers himself evil. Caelen rides anyway — loyalty matters more than political calculation.
 
 ## THE HEIR-AT-WAR TRADITION (Locked)
 
@@ -84,7 +84,7 @@ Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geograph
 | Varen | Edric | Soft north, trade, Roselyn |
 | Rathen | Edric (split possible) | Mere wealth; queen's blood complicates |
 | Kelward | Harwin | Eastern border / raid country |
-| Norvalen | Harwin (split possible) | Southern ice frontier; Marianne tie cuts both ways |
+| Norvalen | Harwin (split possible) | Southern ice frontier; Rhaenaya tie cuts both ways |
 | Dorsen | Swing | Grain feeds whoever looks like winning |
 | Tarnell | Swing | Ships / dues; trade lanes over philosophy |
 | Selborn | Split | Chaos-fear vs hard-wood survivors |

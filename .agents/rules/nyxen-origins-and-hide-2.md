@@ -25,7 +25,9 @@ The farmer possessed a rare mutation — a gene cluster causing production of a 
 
 **BUT — a late miscarriage or stillbirth WOULD sensitize the mother.** If a queen carried a child nearly to term and lost it, her body builds the antibodies. Her next live child is a "second exposure" baby — weaker scent — even though everyone calls him "the firstborn." No one understands why the heir's bond is weaker than expected. (Dramatic potential for future books.)
 
-**The mechanism is sex-blind.** The scent doesn't care about gender — only about how much protein the person's skin produces. Elyra (5th-born) rides. Edwin (3rd-born) rides. The realm's LAW says firstborn son; the natural order says first child, period. The gap between those two is what makes Seren's story (Book 2) and Elowen's cliffhanger explosive.
+**The "Immune Fade" (Gap Year Rule):** If a queen goes many years without becoming pregnant, her antibody levels drop significantly. This is why **Elyra (5th-born)** and **Gareth (6th-born)** can ride! Elyra is roughly 13-15 years younger than Rodrik. Queen Gwyn went over a decade without a pregnancy, allowing her immune response to reset. When she finally had Elyra and Gareth late in life, their scent was just as strong as a firstborn's.
+
+**The mechanism is sex-blind.** The scent doesn't care about gender — only about how much protein the person's skin produces. Elyra (5th-born) rides. Edwyn (3rd-born) rides. The realm's LAW says firstborn son; the natural order says first child, period. The gap between those two is what makes Seren's story (Book 2) and Elowen's cliffhanger explosive.
 
 **The Brennan Cinder is visible but cosmetic; the curse is invisible.** Two separate Aurouvian magical acts sit on the Brennan bloodline: (1) the Cinder — a harmless cosmetic procedure Leofric chose to match his Nyxen's rare ash-charcoal coat, a rider's tribute made permanent by sorcery; and (2) the blood ritual — the sorcery that transferred the Nyxen heir-scent from Aldric (Leofric's firstborn by Elen of Varen, born at Foldhall) to Seraphine's son, killing Aldric in the process. The scent itself is entirely natural — the maternal sensitisation model described above. The blood ritual forced foreign magic onto that natural system, and the sorcerers warned Leofric they were breaking something that could not be unbroken. **The Cinder is NOT the curse.** The scent cannot be faked, cannot be seen, and makes the dynasty's claim rest on whether an animal accepts you. The visible trait (Cinder) is a vain man's love letter to his beast; the invisible trait (scent) is the natural bond that was broken by sorcery and now fights itself every generation.
 
@@ -65,8 +67,8 @@ A Nyxen left unclaimed is never released to the wild. The roost keeps it. Wild-b
 
 **Presentation history:**
 1. **Rowan** (2nd-born, oldest without a Nyxen) — refused. Told the court he had no time for a beast when he had a kingdom's arithmetic to keep, and that the pup might not choose him anyway. That last part is the tell: Rowan will not kneel before an animal that might say no. Whether his scent is strong enough is a question he refuses to let anyone answer. The handlers heard his refusal and said nothing, because handlers know when silence is mercy.
-2. **Marianne** (4th-born, married at Frostholt) — tried on a visit home. Knelt, offered her hand. The pup sniffed and turned its head. Fourth-born, married out, scent too thin. She laughed it off. She never tried again.
-3. **No other candidates** — Edwin, Elyra, and Gareth already ride. No children yet in the next generation.
+2. **Rhaenaya** (4th-born, married at Frostholt) — tried on a visit home. Knelt, offered her hand. The pup sniffed and turned its head. Fourth-born, married out, scent too thin. She laughed it off. She never tried again.
+3. **No other candidates** — Edwyn, Elyra, and Gareth already ride. No children yet in the next generation.
 
 So the pup stays at the roost, unclaimed, kept for Rodrik's firstborn whenever that child comes. Everyone at Foldhall sees the pup. Everyone understands the message: we have the Nyxen ready. Where is the heir? It is the gentlest pressure the court can apply and the loudest silence in the roost.
 

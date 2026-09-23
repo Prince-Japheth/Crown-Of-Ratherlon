@@ -10,6 +10,8 @@ A kingdom whose crown rests on a bloodline the Nyxens can smell goes to war with
 
 The reader lives the story in the moment — Foldhall summers, campaigns, betrothal, alliances, the war — with NO opening frame.
 
+**Progressive Character Timelines (Experiential Pacing):** At the beginning of the book, characters are in their youth. Elyra is an unmarried wild rider; Rowan is the unmarried ledger-keeper brother; Edwyn is the performer. Their defining end-states (Rowan's tragic marriage and loss, Elyra marrying Alton Rathen, Edwyn having Tristan and Cassia) happen *progressively* over the timeline of the book. Never info-dump or foreshadow their future end-states early on. The `.agents` files represent their "Start of War" snapshot, but the prose must let the reader experience the "now" as they grow.
+
 Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the survivor is telling this wound to his child, and he still does not know which prince he was. Her next question seeds book two.
 
 ## BOOK ONE SPINE
@@ -21,6 +23,15 @@ Only at the END, after the cliff and the hunger to know who survived, does the b
 4. First family war with Nyxens on both sides.
 5. Final battle, one twin lives; identity unrecoverable.
 6. End reveal / cliffhanger only: Aldren X + Elowen by the fire.
+
+## THE COUSIN TIMELINE (Birth Sequence)
+To ensure the cousins are all old enough to ride in the Twin War, their births happen in a very tight window around the twins:
+1. **Rhaenaya** has a child (Alaric) *before* Rodrik has the twins.
+2. **Rodrik** has the twins (Edric and Harwin) shortly after Alaric's birth.
+3. **Rowan** marries his wife and they have **Caelen** and **Leraeyna** immediately/shortly after the twins are born.
+4. **Elyra** marries Alton Rathen and they have **Aderyn** in that same tight window.
+5. **Edwyn** consummates with a noblewoman (having his first bastard, Tristan) around the time of those weddings. His second bastard (Cassia) is born shortly after.
+*(Result: The entire cousin generation is practically the same age, making them all late teens/early 20s when the Twin War erupts.)*
 
 ## WHAT THE STORY IS NOT
 
@@ -126,12 +137,12 @@ Make the kingdom sweet enough to hurt when it breaks. Raise the twins in view. P
 ### PART II: The Empty Chair (~15-20%)
 Succession crisis earned. Camps form. Roselyn becomes the hinge. Tone: grief, letters, halls, last chance at coexistence.
 
-Beats: King's death reaches Foldhall → Elyn trapped → Edric argues continuity, Harwin gathers hard country → Family picks sides (Cedric disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's murder (Harwin's warrant).
+Beats: King's death reaches Foldhall → Elyn trapped → Edric argues continuity, Harwin gathers hard country → Family picks sides (Caelen disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's murder (Harwin's warrant).
 
 ### PART III: The Twin War (~25-30%)
 Strategic civil war; first Nyxen-against-Nyxen; hollow victories. Tone: campaign seasons, doctrine, empty roosts.
 
-Beats: Edric's grief becomes war doctrine → Rival legitimacy theater → First family rider death → Grain, winter, swing houses forced → Cedric/Elyra/Gareth arcs → Harwin fetches Oak → Both sides commit to decisive field.
+Beats: Edric's grief becomes war doctrine → Rival legitimacy theater → First family rider death → Grain, winter, swing houses forced → Caelen/Elyra/Gareth arcs → Harwin fetches Oak → Both sides commit to decisive field.
 
 ### PART IV: The Cliff (~10-15%)
 Destroy the question the war was fought to answer.
@@ -147,7 +158,7 @@ Beats: Failed almost-parley → Battle; twins fall together; one body comes back
 | C | Roselyn | Part I-II (then absence) |
 | D | Elyn | Part I-II, touches after |
 | E | King Rodrik / Aldren IX | Part I (until death) |
-| F | Cedric or Roland | Late I onward |
+| F | Caelen or Roland | Late I onward |
 | G | Place / minor | Spice only |
 | End only | Aldren X / Elowen | Final chapter only |
 

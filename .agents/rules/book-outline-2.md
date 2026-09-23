@@ -42,7 +42,7 @@ Use sparingly. Not every chapter. When a passage of living history would teach t
 - [ ] Bannermen lists for each great house (use name bank)
 - [ ] Faith / religion (leaned away from copy-paste Christianity, still undefined)
 - [ ] Drawn map art
-- [ ] Appanage: who gets first (Rowan / Edwin / Elyra / Gareth or later kin)
+- [ ] Appanage: who gets first (Rowan / Edwyn / Elyra / Gareth or later kin)
 - [ ] Firedrake appearance timing (Twin War opportunism vs later book)
 - [ ] Cause/spark of Aldren I's civil war (shape locked; exact trigger open)
 

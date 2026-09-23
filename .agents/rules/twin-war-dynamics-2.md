@@ -46,7 +46,7 @@ Both twins clash on their Nyxens in a bloody battle. Something sets them ablaze.
 
 ## COUSIN INTERACTIONS (Fire & Blood style)
 
-Twins growing up around: Rowan's Cedric (who faces the obey-or-disobey choice), Edwin's presence as the performer uncle, Elyra as the wild aunt who probably sees the warrior twin's coldness before anyone admits it. These dynamics feed the Twin War escalation — loyalties seeded in childhood before anyone draws steel.
+Twins growing up around: Rowan's Caelen (who faces the obey-or-disobey choice), Edwyn's presence as the performer uncle, Elyra as the wild aunt who probably sees the warrior twin's coldness before anyone admits it. These dynamics feed the Twin War escalation — loyalties seeded in childhood before anyone draws steel.
 
 **How to apply:** When writing later chapters, the warrior twin's coldness must never be explained by circumstance. Gareth is met in Book 1 mostly by reputation (he's on cold roads, absent) — reader meets the template before the copy.
 
@@ -60,10 +60,15 @@ Both absolute loyalty and familial rebellion happen simultaneously. A Duke canno
 - **The Rebel:** His son, **Alaric Norvalen** (riding *Frost*).
 - **The Reason:** Alaric has spent his youth patrolling the freezing "cold roads" and fighting off wild mountain reavers alongside his Uncle Gareth. Because Alaric actually bleeds on the icy frontier, he respects Harwin's grit and thinks Edric is too soft. Alaric openly defies his father, mounts *Frost*, and flies north to join Harwin's war camp.
 
-**2. Cedric Brennan (The Steward's Rebellion):**
+**2. Caelen Brennan (The Steward's Rebellion):**
 - **The Father:** Rowan is the ambitious ledger-keeper who orders his house to remain cautious or neutral to survive.
-- **The Rebel:** His son, **Cedric Brennan** (riding *Rook*).
-- **The Reason:** Cedric is young, idealistic, and disgusted by his father's self-serving politics. He truly believes in Edric’s diplomatic vision for a unified realm. Cedric disobeys his father's strict orders, taking *Rook* to fight for Edric.
+- **The Rebel:** His son, **Caelen Brennan** (riding *Rook*).
+- **The Reason:** Caelen is young, idealistic, and disgusted by his father's self-serving politics. He truly believes in Edric’s diplomatic vision for a unified realm. Caelen disobeys his father's strict orders, taking *Rook* to fight for Edric.
 
-**3. Princess Elyra (The Aunt's Defection):**
-- **The Reason:** Elyra (riding *Lark*) is a wild, high-energy rider. Naturally, one would expect her to support the Warrior Prince (Harwin). However, as the aunt who grew up around the twins, she saw Harwin's coldness before anyone else would admit it. Recognizing the threat his ruthlessness poses, she takes *Lark* and joins Edric's camp.
+**3. Princess Elyra (The Married Defector):**
+- **The Defection:** Elyra (riding *Lark*) is happily married to Alton Rathen (of the Merelands) and has trueborn children (including Aderyn). The Merelands officially support the Warrior Prince (Harwin). However, as the aunt who grew up around the twins, she saw Harwin's coldness before anyone else. Recognizing his ruthlessness, she takes *Lark* and her son Aderyn, defecting from her husband's regional politics to join Edric's camp.
+
+**4. Edwyn's Bastards (The Secret Bonds):**
+- **Tristan (The Noble Bastard):** Kept at court but treated as lesser, Tristan secretly bonds a roost Nyxen. When the court demands he be stripped of it, Edwyn furiously defends him, arguing the beast already chose him. Tristan keeps the beast and fights for Edric.
+- **Cassia (The Hidden Daughter):** Edwyn is secretly a devoted father who hid his commoner daughter away to protect her from court shame, but visits her often. Cassia knows her blood and manages to tame a wild Nyxen outside the roost system. 
+- **The Result:** When the war breaks out, Edwyn brings both his bastards to the Diplomatic Prince's side, suddenly granting Edric's faction three riders from a single unexpected branch.
