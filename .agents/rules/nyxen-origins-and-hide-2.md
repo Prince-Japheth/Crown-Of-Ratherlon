@@ -61,9 +61,9 @@ If a noble tries to force a connection—taking a pup home that didn't choose th
 3. **Alaric (Rhaenaya's son)** — When Rhaenaya brings her infant son Alaric to visit Foldhall, she takes him out into the compound. The Unnamed Pup ignores the baby completely. (Alaric later proves to be an anomaly rider and pairs with *Frost* from a different litter).
 
 **The Pups:** 
-The Unnamed Pup continues to freely roam the Foldhall courtyards, unattached. Then, several more pups are born across the roosts in a relatively short window. Right on the heels of this, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
+The Unnamed Pup continues to freely roam the Foldhall courtyards, unattached. The roost follows its own natural, unmanaged cycles, and it is entirely normal for several females to have pups over the span of a few years without any human interference. Right on the heels of the Unnamed Pup's birth, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
 
-Two of the royal pups roaming the compound grow up playing with the twin toddlers in the courtyard, eventually connecting with them to become **Ash** and **Storm**. The other pups born in this window would go on to pair with the cousins born around the same time.
+Two of the pups born during this natural window grow up playing with the twin toddlers in the courtyard, eventually connecting with them to become **Ash** and **Storm**. The other pups born across the roosts during this time would go on to pair with the cousins born around the same time. Of course, not all pups paired; some never chose anyone and, as is usual, were left to fly off to the wild when they were old enough. The roost simply produced its normal numbers, and the royal family happened to have enough children at the right time to bond with them.
 
 ## NYXEN GRIEF & LIFESPAN
 

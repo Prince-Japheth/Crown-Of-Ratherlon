@@ -1,6 +1,6 @@
 ## ROWAN'S SUCCESSION PLAY
 
-When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — it's a reactive decision when war erupts. Caelen ultimately disobeys his father and rides for Edric.
+When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — in his youth he was occupied solely with ledgers and administration. It was only after he married late and had a family of his own that he grew and began to focus on succession and legacy. Caelen ultimately disobeys his father and rides for Edric.
 
 ## ROWAN'S SILENT RESENTMENT TOWARD ELYN
 

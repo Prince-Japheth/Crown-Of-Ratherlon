@@ -55,17 +55,18 @@ Like Westeros in *function*, not in copy:
 
 **House Rathen's original name is lost.** They sailed from a distant land in the far northwest of the known world (beyond Vaelcross, not yet on the map). They landed in the Merelands — lakes, black soil, and no unified state to stop them.
 
-**Why they expanded east, not west:**
+**Why they expanded outwards into the fragmented interior:**
 - West: Vaelcross — a functioning kingdom with army, king, fortified settlements, established borders. Attacking it was unrealistic.
-- East/inland: politically fragmented. Villages, farming communities, local headmen, regional councils — no unified state capable of resisting incorporation.
+- East/inland: Ashen Kingdom — another established kingdom.
+- The interior: Between these two lay politically fragmented land. Villages, farming communities, local headmen, regional councils — no unified state capable of resisting incorporation.
 
 **The expansion was gradual, entirely voluntary, and never a conquest plan.** Over generations:
 - Communities joined for protection, law, trade, and political organization
 - Headmen swore allegiance because unity made life better, not because swords compelled them
-- No one was forced, defeated, or coerced into joining — the Rathens did not fight their way east
+- No one was forced, defeated, or coerced into joining — the Rathens did not fight their way outwards
 - The Rathens simply offered what fragmented communities could not provide alone, and people chose it
 
-**Expansion order (over generations):** Merelands → Western Shore → Deepwood → Vine Shore → Southfrost → Rivermark → Eastverge. Seven regions under the Rathen crown.
+**Expansion order (over generations):** Merelands (landing point) → Western Shore & Deepwood (securing the western and southern flanks) → Vine Shore & Rivermark (moving east) → Southfrost (securing the far south) → Eastverge (reaching the eastern border). Seven regions under the Rathen crown, expanding in all directions until they hit the hard borders of Vaelcross and Ashen.
 
 **The accidental superpower:** The Rathens didn't set out to build an empire. They entered the political vacuum because it was available. But by the time they finished, they had accidentally created the largest centralized state on the continent.
 
