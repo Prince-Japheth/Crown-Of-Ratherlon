@@ -132,4 +132,3 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 - Title "CROWN OF RATHERLON" embossed gold across top
 - Colors: Deep Crownfold Green (#1B3323), Weathered Gold (#C5A059), Wet Castle Slate (#24282F), Cold Mereland Indigo (#1D2D44), Amber (#E09F3E)
 - DO NOT make the beast a generic reptile/dragon; DO NOT spoil "Twin Heirs"; AVOID neon "high-magic" glows
-
