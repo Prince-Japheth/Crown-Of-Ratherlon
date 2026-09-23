@@ -299,6 +299,8 @@ Lord Selborn = Fern
 | Prince Rowan | King's brother | ✗ | | Ambitious; orders Cedric out; steward/ledger |
 | Prince Edwin | King's brother | ✓ | Briar | Performer; Littlefinger parallel (fun, no evil motive) |
 | Princess Elyra | King's sister | ✓ | Lark | → Edric's camp |
+
+**Note on Princess Elyra's Marital Status:** She is unmarried at the start of the Twin War. Because she was the fifth-born child and roughly 13-15 years younger than King Rodrik, their father (Aldren VIII) died of old age before she was old enough to be married off. King Rodrik, acting as her loving older brother and guardian, refused to force a wild rider into a political marriage, allowing her to stay at court in Foldhall. This leaves her as a highly dangerous free agent when the war begins.
 | Princess Marianne | King's sister | ✗ | | Wed Osric Norvalen |
 | Prince Gareth | King's brother | ✓ | Thorn | → Harwin's camp; cold by nature |
 
