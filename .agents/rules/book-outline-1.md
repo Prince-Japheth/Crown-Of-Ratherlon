@@ -51,7 +51,7 @@ To ensure the cousins are all old enough to ride in the Twin War, their births h
 | Open war length | ~18-24 months after Roselyn |
 | Armies | Edric = quantity (Varen, Rathen...); Harwin = quality (Kelward, Norvalen...) |
 | Birth-order mystery | Gossip only, never the opening hook |
-| Birth of twins | King away at war; night labor, midwives late; rushes home to twins already born; stays a season |
+| Birth of twins | King away at war (breaking the heir rule again because his Nyxen Hart was the largest living beast needed for battle); night labor, midwives late; rushes home to twins already born; stays a season |
 
 ## WHY EDRIC = "DIPLOMATIC" / HARWIN = "WARRIOR"
 

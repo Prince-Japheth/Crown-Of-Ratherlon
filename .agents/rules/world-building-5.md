@@ -4,7 +4,7 @@
 
 **Aldren.** Regnal name taken by every crowned Brennan king.
 **Aldren the Adventurous.** Aldren III (birth name Leofric). Consummated with Elen of Varen, fathered Aldric at Foldhall, then fled across the warm sea to Aurouvah. Received the Cinder (cosmetic), married Seraphine, commissioned the blood ritual that killed Aldric and transferred the heir-scent. Returned with Seraphine and their son. Romantic figure in public memory; curse-bearer in deep lore.
-**Aldric Brennan.** Leofric's firstborn son by Elen of Varen, born at Foldhall. Killed by the blood ritual before his second nameday — his Nyxen scent was extracted and transferred to Seraphine's son. The court recorded "childhood fever." The Varens remember.
+**Aldric Brennan.** Leofric's firstborn son by Elen of Varen, born at Foldhall. Killed by the blood ritual before his fourth nameday — his Nyxen scent was extracted and transferred to Seraphine's son. The court recorded "childhood fever." The Varens remember.
 **appanage.** Land/rents granted by king to younger kin.
 **Aurouvah.** Wealthy kingdom on the far continent across the warm sea. A culture of ancient magic ranging from permanent cosmetic arts to deeper rituals that reach into blood. Where Leofric received the Cinder, married Seraphine, and commissioned the blood ritual. The Aurouvian belief of rebirth (a child who dies at birth passes its soul to the next) is deeply held and never disproven.
 **Aurouvian.** Of or from Aurouvah. Also: the private language of House Brennan, inherited from Queen Seraphine — used among family for intimacy, profanity, and whispered asides, not ceremony or statecraft.

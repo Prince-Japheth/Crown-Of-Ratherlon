@@ -231,7 +231,8 @@ Lord Kelward = Maera
      └─ Rhea = Donnel of Brennan                          [Eastverge appanage]
          └─ Symond = Jocelyn of Brennan
              └─ Jonos = Alys of Brennan
-                 └─ SIMON = Cora   [Book 1 lord of Eastgirt]
+                 ├─ SIMON = Cora   [Book 1 lord of Eastgirt]
+                 └─ ALTON = ELYRA of Brennan
 ```
 
 ## HOUSE TARNELL OF SALTCROWN

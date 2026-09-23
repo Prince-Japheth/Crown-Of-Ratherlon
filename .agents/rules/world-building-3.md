@@ -32,7 +32,7 @@ Leofric could not accept it. He went to the Aurouvian sorcerers and asked for so
 
 **The sorcerers warned him.** They were forcing foreign magic onto a natural system they did not fully understand — the scent, the maternal inheritance, the way the blood governed itself. Layering sorcery onto something that had worked on its own for two hundred years would break something that could not be unbroken. Leofric paid them anyway.
 
-**The ritual worked. The extraction killed Aldric.** At Foldhall, a healthy child sickened and died of "fever" before his second nameday. No one connected it to anything. Across the sea, Seraphine's son now carried the full scent.
+**The ritual worked. The extraction killed Aldric.** At Foldhall, a healthy child sickened and died of "fever" before his fourth nameday. No one connected it to anything. Across the sea, Seraphine's son now carried the full scent.
 
 **Magic is never clean.**
 
