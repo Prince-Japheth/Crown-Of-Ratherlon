@@ -35,8 +35,8 @@ metadata:
           (no children yet at the opening)
 
     Rodrik's siblings (same generation):
-    ROWAN (unmarried)   EDWYN (unmarried)   ELYRA
-    GARETH (unmarried)  RHAENAYA = OSRIC NORVALEN
+    ROWAN (unmarried)   EDWYN (unmarried)   RHAENAYA = OSRIC NORVALEN
+    ELYRA (unmarried)   GARETH (unmarried)
 ```
 
 Nyxens of note: Hart (king), Briar (Edwyn), Lark (Elyra), Thorn (Gareth).
@@ -161,11 +161,12 @@ ALDREN VIII = Gwyn Selborn
  |
  ├─ ROWAN                    [unmarried / no Nyxen / steward]
  ├─ EDWYN                    [unmarried / rides Briar / performer]
- ├─ ELYRA = (later) ALTON Kelward
  ├─ RHAENAYA = OSRIC Norvalen
  │   |
  │   ├─ ALARIC
  │   └─ BEATRICE
+ |
+ ├─ ELYRA = (later) ALTON Kelward
  |
  └─ GARETH
 ```

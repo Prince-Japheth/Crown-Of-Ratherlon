@@ -16,9 +16,9 @@ The kingdom's fear is NOT "can a Nyxen be killed?" Everyone knows they can. The 
 
 ## HOW NYXENS CAN BE KILLED
 
-NO dedicated "Nyxen-killer weapon" (that mistake makes them stop dominating warfare). Instead, existing weapons used intelligently:
+NO dedicated "Nyxen-killer weapon" (that mistake makes them stop dominating warfare). Instead, intelligent tactics and weapons fashioned from Nyxen bone are used. The first Nyxens were killed without these, until enough Nyxen bones were in circulation for hunters and armies to craft weapons capable of cutting their thick hide:
 
-- **Wing damage (cumulative):** One tear = still flies. Three tears = reduced maneuverability. Five major tears = cannot perform aggressive turns. Heavily damaged wing during high-speed dive = loss of control. Long tears toward wing root or torn leading edge are catastrophic.
+- **Wing damage (cumulative):** Inflicted using arrows or blades tipped with Nyxen bone. One tear = still flies. Three tears = reduced maneuverability. Five major tears = cannot perform aggressive turns. Heavily damaged wing during high-speed dive = loss of control. Long tears toward wing root or torn leading edge are catastrophic.
 - **Weighted nets / entanglement:** Engineered military nets from siege engines. Entangled during a dive → gravity becomes the enemy.
 - **Suffocation:** Gas/fume bombs thrown into dens/caves; fumes suffocate to death.
 - **Impact:** Trapped mid-air (nets + fire), can't flap, drops from sky; impact kills.

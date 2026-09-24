@@ -1,6 +1,6 @@
 ## ROWAN'S SUCCESSION PLAY
 
-When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — in his youth he was occupied solely with ledgers and administration. It was only after he married late and had a family of his own that he grew and began to focus on succession and legacy. Caelen ultimately disobeys his father and rides for Edric.
+When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — in his youth he was occupied solely with ledgers and administration. It was only after he married and had a family of his own that he grew and began to focus on succession and legacy. Caelen ultimately disobeys his father and rides for Edric.
 
 ## ROWAN'S SILENT RESENTMENT TOWARD ELYN
 
@@ -71,7 +71,7 @@ Lords whose seats BORDER troublesome foreign kingdoms. Smaller numbers, harder m
 **Harwin's character:** Broke the tradition that heirs do not go to war until they have children — much like his father Rodrik. Harwin rides to the border when the border bleeds, leading his subjects in battle personally.
 
 **The Tactical Nightmare (The Vice):** 
-Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geographical vice. His supporters are split on the far left and the far right of the map, while Edric (the Diplomatic Prince) holds the entire unified center. If Harwin tries to march his armies to unite, Edric can use the central positioning of Crownfold to cut him off and destroy his factions one by one. This visual layout perfectly emphasizes why Harwin's military IQ tells him he cannot win a conventional war—and why abandoning his armies temporarily to hunt down **Oak**, the mythical, hyper-destructive Grieving Nyxen of Aldren VIII (and VII before him), is his only path to victory.
+Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geographical vice. His supporters are split on the far left and the far right of the map, while Edric (the Diplomatic Prince) holds the entire unified center. If Harwin tries to march his armies to unite, Edric can use the central positioning of Crownfold to cut him off and destroy his factions one by one. This visual layout perfectly emphasizes why Harwin's military IQ tells him he cannot win a conventional war—and why abandoning his armies temporarily to hunt down **Oak**, a grieving beast of Aldren VIII (and VII before him) that flew away to live in solitude and die of its grief, is his only path to victory.
 
 **The counter-argument against Harwin:** His detractors call him rash and quick to action. They fear he would plunge the realm into destruction — that he is overly ambitious and would most likely attempt to bring the neighbouring kingdoms to be united as one under Ratherlon, causing decades of war with no clarity on whether he would actually succeed.
 

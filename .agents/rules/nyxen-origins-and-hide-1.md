@@ -9,6 +9,8 @@
 2. **Phase 2 — greed.** Mankind discovered Nyxen pelt (the thick fur-lined hide) is fireproof, impervious to any steel weapon. Only Nyxen claws/teeth can puncture Nyxen hide. Nyxen bone/claw is sharp enough to cut through hide (workable for armor, tools, weapons). Humans wanted the pelts AND claws/bone.
 3. **Phase 3 — near-extinction.** What began as saving crops became attempted genocide.
 
+**Royal Restoration:** When the Brennans became kings, they made provisions for enough vegetation and fruit plantations to sustain Nyxen populations, drastically reducing raids on farmers. They even brought back and cultivated preserved giant fruits and vegetation plantations that had nearly gone extinct during mankind's expansion.
+
 **Methods of killing Nyxens (historical):**
 - Gas/fume bombs thrown into dens/caves — suffocation
 - Nets (fire-entanglement) while airborne — can't flap, drops from sky, impact kills
@@ -16,7 +18,7 @@
 
 **Farmer Brennan's mercy:** Took pity on a last surviving clan. Sheltered them. This is the founding act of the dynasty (Year 0).
 
-**The firstborn scent — its origin:** Brennan's FATHER already had a relationship with this Nyxen clan, but his siblings did not. Brennan inherited that bond — his own siblings didn't share it. Both Brennan and his father were firstborns. This is the root of the firstborn scent: the bond runs through the direct line, eldest to eldest, and acts as a probability gamble for younger siblings. The firstborn child is guaranteed 100% to have the scent. Everything after that is less guaranteed (e.g., 2nd child 70%, 3rd child 50%). It is all probability, so a 2nd born might hit the 30% failure chance (like Alys and Robert), while a 5th or 6th born might hit their smaller success chance (like Elyra and Gareth).
+**The firstborn scent — its origin:** Brennan's FATHER already had a relationship with this Nyxen clan, but his siblings did not. Brennan inherited that bond — his own siblings didn't share it. Both Brennan and his father were firstborns. This is the root of the firstborn scent: the bond runs through the direct line, eldest to eldest, and acts as a probability gamble for younger siblings. The firstborn child is almost guaranteed to have the scent. After that, no one knows the exact numbers for sure, but the realm knows as a fact that the further down the birth order you are from the firstborn, the weaker your probability of being a rider becomes. It is a descending probability gamble with a few anomalies—meaning a 2nd born (like Alys) or 3rd born (like Robert) might fail despite having high chances, while a 5th or 6th born might hit their much smaller success chance (like Elyra and Gareth).
 
 ## NYXEN ANATOMY
 
