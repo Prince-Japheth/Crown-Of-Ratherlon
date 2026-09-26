@@ -37,6 +37,7 @@ Additional standing rules:
 - Nyxen design: Syrax from HOTD but with fur instead of scales, a shorter neck as it's a mammal and a bat-like head — four-limbed wyvern, NOT cat/fox/gargoyle
 - Art style: highly detailed, realistic, monochromatic fine-line pencil sketching — medieval manuscript meets modern comic book realism
 - Language register: Late Middle Ages English 12th–15th centuries, high medieval European feudal monarchies
+- Timeline rule: Rodrik and Elyn are newlyweds who just took the throne. The lack of an heir is NOT due to barrenness or years of trying; it is just a vulnerability of a brand-new reign. The timeline between Aldren VIII dying (and his fearsome Nyxen Oak fleeing), Rodrik's crowning/marriage, the immediate border tests, and the pregnancy is extremely short and back-to-back.
 - Naming: no *march/marches/Marcher*, no *-hill*, no lazy compound names
 - No *freeman/free folk* — use *smallfolk*, *commonfolk*, or *commoner* (singular). "Freeman" echoes the wildlings from ASOIAF.
 - No *spears* as synecdoche for soldiers — that's Dornish. Use *swords*, *men*, *steel*, or *men-at-arms* (ASOIAF 6 kindoms register, so that exclude dorne).

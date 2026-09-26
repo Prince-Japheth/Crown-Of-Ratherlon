@@ -127,7 +127,7 @@ The survivor should NEVER learn the truth. Not in sequel, not through a secret d
 Make the kingdom sweet enough to hurt when it breaks. Raise the twins in view. Plant the fork without rushing the fall. Tone: adventure, domestic love, rising weather on borders.
 
 **Movements:**
-- I-0: Before the Heirs — Rodrik & Elyn's life with no children. Court, roosts, siblings, progress/border season, marriage as partnership. Pregnancy news at END of this movement.
+- I-0: Before the Heirs — Rodrik & Elyn's life with no children. Rodrik was just crowned and just married Elyn; they are NOT struggling with barrenness. The borders test the new king immediately, emboldened because the terrifying veteran Nyxen (Oak) flew away when Aldren VIII died. Court, roosts, siblings, border season, marriage as a new partnership. Pregnancy news at END of this movement (a very short timeline between crowning, marriage, and pregnancy).
 - I-A: Arrival of the Twins — Pregnancy through birth. King rushes home from war to two cribs. Naming. Birth-order gossip starts as other people's noise.
 - I-B: Boys of Foldhall — Childhood through early youth: yard, first litter, lessons, feast.
 - I-C: Blood and Ink — Young men on campaign; Edric's ink, Harwin's mud; wings earned.
