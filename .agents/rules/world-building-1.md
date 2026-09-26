@@ -24,7 +24,12 @@ People still say "the old crown" or "Rathen days" when they mean the centuries w
 
 **Southern hemisphere** — winter and ice come from the **south**; warmth, wine, and soft living from the **north**.
 
-Ratherlon sits in the **middle of a wide continent** — very elongated east-west, the longest landmass on its axis. The kingdom of Ratherlon is the **longest kingdom** on this continent, bordered by other kingdoms (including the **Ashen Kingdom** / *the Ashlands* to the east, and unnamed **Western Kingdoms** to the west). Author mnemonic only: "rather long" crossing. Do NOT lecture that pun in prose.
+Ratherlon sits in the **middle of a wide continent** — very elongated east-west, the longest landmass on its axis. The kingdom of Ratherlon is the **longest kingdom** on this continent, bordered by other kingdoms (including the **Ashen Kingdom** / *the Ashlands* to the east, and unnamed **Western Kingdoms** to the west). 
+
+**Continent Scale & Travel Times (LOCKED):** The continent is massive, roughly the size of a horizontal Westeros (approx. 3,000 miles across). From the central capital of Foldhall to the Eastverge border is roughly 1,000 miles. 
+- **Infantry:** Marches at 15 miles a day through highland roads (takes ~60 days to reach the border).
+- **Nyxens:** Can cover the same 1,000 miles in about 3 days of sustained flying.
+This vast scale prevents "teleportation" logic errors. When armies march, it takes months. This massive discrepancy highlights the strategic dominance of Nyxen riders.
 
 **Map page orientation (locked):** The book's map page is **landscape-oriented** — the reader turns the book 90° clockwise to view it. Content is rotated on the portrait page accordingly. Map node in Antigravity: rotation=90 (CCW) on the SVG inside the page frame.
 
