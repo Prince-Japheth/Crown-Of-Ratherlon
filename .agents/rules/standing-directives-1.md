@@ -1,11 +1,6 @@
 ---
-name: standing-directives
+trigger: always_on
 description: "User's standing creative directives for Crown of Ratherlon — decision-making authority, spoiler rules, design constraints, language register"
-metadata: 
-  node_type: memory
-  type: feedback
-  originSessionId: fece87fa-d74e-449c-bb83-eed0bc8e155a
-  modified: 2026-09-01T17:41:47.969Z
 ---
 
 "You are not to ask me but choose the best, make the decision and make the edit wherever relevant while maintaining continuity."
@@ -39,12 +34,12 @@ Additional standing rules:
 - No anomaly riders (Twin War reveal only), no Oak, no Queen Seren, no Aldren X/Elowen in appendix
 - No Edric/Harwin twins in appendix — they don't exist at book open
 - Duke for great house heads, Baron for lesser lords; Handler for Nyxen caretakers
-- Nyxen design: Syrax from HOTD but with fur instead of scales and a bat head — four-limbed wyvern, NOT cat/fox/gargoyle
+- Nyxen design: Syrax from HOTD but with fur instead of scales, a shorter neck as it's a mammal and a bat-like head — four-limbed wyvern, NOT cat/fox/gargoyle
 - Art style: highly detailed, realistic, monochromatic fine-line pencil sketching — medieval manuscript meets modern comic book realism
 - Language register: Late Middle Ages English 12th–15th centuries, high medieval European feudal monarchies
 - Naming: no *march/marches/Marcher*, no *-hill*, no lazy compound names
 - No *freeman/free folk* — use *smallfolk*, *commonfolk*, or *commoner* (singular). "Freeman" echoes the wildlings from ASOIAF.
-- No *spears* as synecdoche for soldiers — that's Dornish. Use *swords*, *men*, *steel*, or *men-at-arms* (ASOIAF North/Riverlands register).
+- No *spears* as synecdoche for soldiers — that's Dornish. Use *swords*, *men*, *steel*, or *men-at-arms* (ASOIAF 6 kindoms register, so that exclude dorne).
 - Address for the king: "Your Grace" — NOT "My king"
 - Book order per writer friend Rahma: Dedication → Prologue → Map → Story (chapters). No appendix in final published book (old-fashioned per Rahma). Appendix exists in Antigravity layout for reference only.
 
@@ -75,4 +70,3 @@ Additional standing rules:
 **Character comparisons (user's own):**
 - Edwyn = Littlefinger "but just for the fun of it, no evil motive" — enjoys the political game, doesn't scheme for the throne
 - Rowan = Otto Hightower — patient administrator who makes himself indispensable, waits for the right moment
-
