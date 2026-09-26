@@ -60,6 +60,8 @@ Additional standing rules:
 **ABSOLUTE PROSE BANS (user flagged these across the entire book):**
 - **NO PERSONIFICATION.** Never give inanimate objects or abstract concepts human agency. "The air asked it to be brave," "the silence judged him," "the stone remembered" — ALL BANNED. If the subject is not a person or animal, it does not think, feel, ask, judge, remember, forgive, or decide.
 - **NO obscure or clever metaphors.** If a reader has to stop and decode the metaphor, it is too clever. "I hunt a dye, not a region" — BANNED. All metaphors must land INSTANTLY using feudal, seasonal, or blade imagery that any ASOIAF reader parses without effort. GRRM-style examples: "I seek a single neck for the headsman's axe," "My quarrel is with the wolf who bit, not the forest he runs in," "Words are wind," "A king who must say 'I am the king' is no true king." If it needs Googling, rewrite it.
+- **NO modern or scientific vocabulary.** Words like "kinetic", "thermal", "insulating", "biology", "concussive", "compressed", "inertia" are STRICTLY BANNED. Use high medieval phrasing (e.g., "brute force", "updraft", "furnace heat", "thick down").
+- **NO {animal}-like descriptors.** Do not describe Nyxens or fantasy elements by appending "-like" to real-world animals (e.g., "bat-like", "dog-like", "snake-like"). Treat them as real creatures in this world and describe their physical traits directly (e.g., "broad, blunt head", "full-body shudder").
 - These problems exist throughout the current draft — a full prose audit is required.
 
 **Writing complaints to avoid:**
