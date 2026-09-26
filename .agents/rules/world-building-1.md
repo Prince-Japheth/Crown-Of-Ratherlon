@@ -35,6 +35,7 @@ Like Westeros in *function*, not in copy:
 - **Great houses** who rule large regions almost as kings themselves
 - **Lesser houses** sworn to them
 - Nyxens make the crown uniquely dangerous, but there are too few riders for the king to garrison every province from the air
+- **The King's Guard:** An elite, institutional order of sworn protectors guarding the royal family, echoing the ASOIAF kingsguard. They are a highly visible presence at Foldhall, serving as the crown's shadow.
 
 **Appanage (soft lock):** Younger royal kin may receive land, rents, or a lesser seat from the crown so a sibling can keep a household without carving up the kingdom. They still owe Foldhall. Use at least once as the years turn. **Who gets the first clear appanage: TBD.** Candidate seats from the name bank: Callenby, Elmrick, Fenlow, Pellridge, Quenby, etc.
 
