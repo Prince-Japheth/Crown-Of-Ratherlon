@@ -64,7 +64,13 @@ Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→tw
 | Aldren VIII | — | Gwyn | Selborn (died in peace) |
 | Aldren IX | Rodrik | Elyn | Rathen |
 
-**Queen Seren** — SPOILER for future book. Aldren V's firstborn daughter. War between her and her younger brother Osbert. "The book of the war between the first born daughter and her younger brother is supposed to be a book with stakes, readers not knowing who will win." Her son becomes Aldren VI. She set the law: first child regardless of gender inherits.
+**Queen Seren** — SPOILER for future book. Aldren V's firstborn daughter. War between her and her younger brother Osbert. "The book of the war between the first born daughter and her younger brother is supposed to be a book with stakes, readers not knowing who will win." Her son becomes Aldren VI. She set the law: first child regardless of gender inherits. She lived to 56, ruling with an iron fist for decades after her war, and died in her bed of a severe winter fever (her lungs weakened from inhaling toxic ash during her campaigns).
+
+**Aldren VI** (Seren's son) — Lived to 41. Had a difficult reign putting down minor patriarchal rebellions testing his legitimacy. Killed in the Deepwood during a border skirmish with timber thieves when a stray arrow found a gap in his armor beneath his arm while he was banking his Nyxen.
+
+**Aldren VII** — Lived to 68. The longest-ruling king of this sequence and brought a golden era of stability. First rider of the legendary massive Nyxen, **Oak**. Died peacefully but suddenly of a burst heart while walking through the Foldhall roosts. Oak passed to his son, Aldren VIII.
+
+**Aldren VIII** — Lived to 54. Crowned in his early twenties. A terrifying, commanding presence who kept the realm strictly in line mostly through fear of Oak's massive shadow. Died suddenly in his own bed of a violent stomach illness (likely a ruptured organ) within a week. His unexpected death in his fifties shocked the realm, caused Oak to go mad with grief and flee to the high crags, and left his son Rodrik (Aldren IX) with a highly vulnerable new reign.
 
 **Aldren I origin:** NOT Farmer's son. ~6 generations / ~200 years after Farmer Brennan. The family was NOT noble — they remained in agriculture, mixed trades (haulage, mill, courier, hunter). They used Nyxens for practical work (transporting loads, reaching fields, moving water). When the Great Civil War broke out, the Brennan descendant realized Nyxens could end it. He didn't conquer kingdoms — he ended the war. Surviving nobles acknowledged him as king. He's remembered as "The King Who Ended the War."
 
