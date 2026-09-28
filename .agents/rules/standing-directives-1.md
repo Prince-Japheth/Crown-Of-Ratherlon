@@ -9,7 +9,7 @@ description: "User's standing creative directives for Crown of Ratherlon — dec
 
 **How to apply:** When facing ambiguity in the book's world-building, narrative, or design — make the best decision and execute it. Explain the reasoning after, don't ask permission before.
 
-**Writing style:** ASOIAF. Same institutional vocabulary unless explicitly changed below.
+**Writing style (The Gardener Approach):** ASOIAF style. Always write as a "Gardener" rather than an "Architect". Do not lay down a rigid, macro-level ABT (And, But, Therefore) outline and build exactly to it. Instead, plant character seeds and let them grow naturally. Like George R.R. Martin, write dozens of concurrent, overlapping ABT chains for different characters. The consequence ("Therefore") of one character's story should often serve as the sudden, violent obstacle ("But") for another character miles away. Maintain the same institutional vocabulary unless explicitly changed below.
 
 **POV structure (ASOIAF Multi-POV Third Person Limited):**
 - One POV per chapter — camera locked to that character's perception for the entire chapter

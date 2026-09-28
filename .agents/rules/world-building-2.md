@@ -72,7 +72,7 @@ Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→tw
 
 **Pre-crown noble matchmaking:** Nobles wanted Nyxen blood they could control. Last/spare daughters INTO the farm; second/third sons woo non-firstborn Brennan daughters OUT. Farm rejected cattle-market diplomacy; only a handful of choice matches landed; those branches thinned.
 
-**Farmer-era firstborn rule:** No Brennan firstborn daughter in pre-crown generations (firstborns kept being sons). Spare daughters were the woo-target. This leaves Seren later as the shock firstborn daughter of the royal line.
+**Farmer-era firstborns (Cognatic Descent):** There *were* female firstborns in the pre-crown era. But because they were just commoners—farmers and haulers with no last name—it wasn't a political crisis. The eldest daughter simply kept the farm and the Nyxens, married a local boy, and life went on. The Nyxen biology passed to the firstborn regardless of gender. It wasn't until Aldren I became King that he took the name "Brennan" to pay tribute to their first Nyxen-rider ancestor. He traced his bloodline back through both men and women (cognatic descent), not just unilineal. This becomes a massive political weapon for Queen Seren later: how can the realm deny a woman the throne when the very name Brennan exists because Aldren I acknowledged the bloodline passed through women?
 
 ## ALDREN THE ADVENTUROUS & THE BRENNAN CINDER
 
