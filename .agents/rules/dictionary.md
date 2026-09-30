@@ -77,6 +77,8 @@ Heir’s Own, the. Three sworn swords assigned to the named heir, wearing green 
 
 L
 
+lance. A long, heavy spear used by mounted knights in war and tourneys, designed to strike with the force of a charging horse.
+
 ledger. A bound book of accounts: money owed, money paid, stores counted, harbour dues.
 
 litter. A group of Nyxen young born together. Children of the blood are often shown a litter of pups to choose from.
@@ -84,6 +86,8 @@ litter. A group of Nyxen young born together. Children of the blood are often sh
 lord, lady. Forms of address for ranked nobility. A duke or baron may be called my lord in courtesy; his wife my lady. A woman holding rank in her own right is a lady of her seat.
 
 M
+
+melee. A chaotic, close-quarters battle or a mock-battle event in a tourney where many combatants fight at once.
 
 Merelands, the. Lake and mill country; seat of House Rathen at Stillford. Rathen were kings of Ratherlon before Brennan.
 
@@ -139,7 +143,13 @@ Southfrost, the. Cold southern mountain country; seat of House Norvalen at Frost
 
 steward. The officer who runs a household’s stores, staff, and daily order.
 
+squire. A young man of noble or gentle birth in training for knighthood who attends a knight, managing his armor, horses, and weapons.
+
 Stillford. Seat of House Rathen in the Merelands. Named for the still-waters ford, not for the house.
+
+T
+
+tourney. A grand tournament consisting of martial games, including jousts and melees, held for celebration and to display knightly prowess.
 
 V
 
