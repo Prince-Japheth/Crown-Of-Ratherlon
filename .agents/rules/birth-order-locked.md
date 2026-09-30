@@ -6,6 +6,6 @@ Birth order of Aldren VIII’s children (LOCKED — NAMES SWAPPED 2026-08-10):
 5. Elyra — fifth-born. Wild rider, rides Lark. Unmarried, young energy.
 6. Gareth — youngest (sixth). Frontier loner, rides Thorn, on cold roads. Answers with wings instead of ink.
 
-**Why:** User swapped Edwyn/Rowan roles so that Rowan (father of Caelen) is the patience-play uncle. Edwyn becomes the performer. Caelen’s obedience or disobedience to his father’s order will depend on which twin he’s closest to — to be developed as characters grow.
+**Why:** Writer swapped Edwyn/Rowan roles so that Rowan (father of Caelen) is the patience-play uncle. Edwyn becomes the performer. Caelen’s obedience or disobedience to his father’s order will depend on which twin he’s closest to — to be developed as characters grow.
 
 **How to apply:** All manuscript and appendix text has been swapped (153 replacements across 30 nodes, 2026-08-10). Edwyn anchor is now "the king’s brother after Rowan." Rowan’s children are NOT being groomed from birth — he only tells Caelen to stay out WHEN the war breaks out and Caelen wants to join.

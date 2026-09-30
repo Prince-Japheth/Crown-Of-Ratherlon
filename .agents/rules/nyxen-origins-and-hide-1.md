@@ -86,7 +86,7 @@ Hair is keratin reinforced with silica microfilaments and boron-rich protein cro
 
 ## NYXEN OIL
 
-A grooming substance for Nyxen hide/fur. Rodrik oils Hart's fur as grooming. "The oil on his knuckles" refers to this. Must be established clearly in text — user flagged: "we don't have anything before or after that lets users know what oil is."
+A grooming substance for Nyxen hide/fur. Rodrik oils Hart's fur as grooming. "The oil on his knuckles" refers to this. Must be established clearly in text — writer flagged: "we don't have anything before or after that lets readers know what oil is."
 
 ## THE "BEAST" TERMINOLOGY RULE
 

@@ -1,11 +1,11 @@
 ---
 trigger: always_on
-description: "User's standing creative directives for Crown of Ratherlon — decision-making authority, spoiler rules, design constraints, language register"
+description: "Writer's standing creative directives for Crown of Ratherlon — decision-making authority, spoiler rules, design constraints, language register"
 ---
 
 "You are not to ask me but choose the best, make the decision and make the edit wherever relevant while maintaining continuity."
 
-**Why:** User wants creative momentum, not question-and-answer slowdown. They delegate judgment calls and expect edits to be made directly.
+**Why:** Writer wants creative momentum, not question-and-answer slowdown. They delegate judgment calls and expect edits to be made directly.
 
 **How to apply:** When facing ambiguity in the book's world-building, narrative, or design — make the best decision and execute it. Explain the reasoning after, don't ask permission before.
 
@@ -58,7 +58,7 @@ Additional standing rules:
 - No "oil" overuse (thinned from 28→20 in prior session)
 - **No em dashes (—).** Use commas, semicolons, periods, or colons instead. ASOIAF barely uses them. The only acceptable use is a true mid-sentence interruption where a character is cut off mid-word.
 
-**ABSOLUTE PROSE BANS (user flagged these across the entire book):**
+**ABSOLUTE PROSE BANS (writer flagged these across the entire book):**
 - **NO PERSONIFICATION.** Never give inanimate objects or abstract concepts human agency. "The air asked it to be brave," "the silence judged him," "the stone remembered" — ALL BANNED. If the subject is not a person or animal, it does not think, feel, ask, judge, remember, forgive, or decide.
 - **NO obscure or clever metaphors.** If a reader has to stop and decode the metaphor, it is too clever. "I hunt a dye, not a region" — BANNED. All metaphors must land INSTANTLY using feudal, seasonal, or blade imagery that any ASOIAF reader parses without effort. GRRM-style examples: "I seek a single neck for the headsman's axe," "My quarrel is with the wolf who bit, not the forest he runs in," "Words are wind," "A king who must say 'I am the king' is no true king." If it needs Googling, rewrite it.
 - **NO modern or scientific vocabulary.** Words like "kinetic", "thermal", "insulating", "biology", "concussive", "compressed", "inertia" are STRICTLY BANNED. Use high medieval phrasing (e.g., "brute force", "updraft", "furnace heat", "thick down").
@@ -66,11 +66,11 @@ Additional standing rules:
 - These problems exist throughout the current draft — a full prose audit is required.
 
 **Writing complaints to avoid:**
-- NO terse clipped dialogue like '"Before supper," Elyn said. "As promised."' or '"Names," Harrun said. "Not songs."' — user hates this pattern; it sounds nothing like ASOIAF
+- NO terse clipped dialogue like '"Before supper," Elyn said. "As promised."' or '"Names," Harrun said. "Not songs."' — writer hates this pattern; it sounds nothing like ASOIAF
 - Dialogue attribution must be CLEAR — never leave a quote unattributed when multiple speakers are present
 - NO unrealistic king-sneaks-off beats — "a king doesn't just wake up and leave while everyone is asleep to go fight a war"
 - Character introductions must be reader-friendly — readers should know who is who without flipping to the appendix, especially ebook readers who can't easily flip
 
-**Character comparisons (user's own):**
+**Character comparisons (writer's own):**
 - Edwyn = Littlefinger "but just for the fun of it, no evil motive" — enjoys the political game, doesn't scheme for the throne
 - Rowan = Otto Hightower — patient administrator who makes himself indispensable, waits for the right moment
