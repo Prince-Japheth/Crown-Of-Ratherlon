@@ -45,7 +45,7 @@ Pups are born blind, furred, with folded wing-membranes too soft for flight. The
 
 ## THE FREE-ROAMING COMPOUND (How Pairing Works)
 
-Nyxens are **not** confined to the roost. The roost is merely where they sleep or rest. When you enter the compound of Foldhall, you are welcomed by young Nyxen pups freely roaming around the courtyards—joyous, playful, and curious—like peacocks or hounds in an emperor's garden, with wild adult Nyxens flying up above. 
+Nyxens are **not** confined to the roost. The roost (open cliff-barns or pens) is merely where they willingly go for rest, solitude, or to spend the night. They are never kept in stables waiting for a rider. Foldhall is a beautiful, flamboyant, large luxurious spatial compound with beautiful gardens, florals, and fields where royal Nyxens (and sometimes even wild ones) roam freely. They graze, take off and return whenever they want, or nap on the courtyards—joyous, playful, and curious—like peacocks or hounds in an emperor's garden. Even while roaming, a bonded Nyxen is never far from its rider. Handlers are still around to clean up after them, groom them, and care for the young when a mother Nyxen doesn't want to, though most riders also groom their own beasts to maintain their bond.
 
 There is no formal "presentation ritual." It works naturally: when a member of the bloodline walks through the compound, if a roaming pup takes an interest in them, approaches, and sticks around, they have a connection. If the pup ignores them, walks away, or acts aggressively, the person cannot have it. 
 
