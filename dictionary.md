@@ -120,9 +120,9 @@ rider. One who has raised or been accepted by a Nyxen and flies with it. Riders 
 
 rider roll. The running count of Brennan Nyxen riders since Aldren I.
 
-roar. The Nyxen’s directed sound-blast: a pressure-shout from chest and throat that can stagger or kill at close range. Not flame.
+roar. The Nyxen’s directed sonic blast. Not flame. Three levels: normal, concussive (blows things away like a storm without internal damage), and kill-roar (ruptures internal organs/heads, can literally explode humans at point-blank). Two beasts trading full roars can cripple each other.
 
-roost. Where Nyxens are kept and housed. Also used for the place a beast settles to rest.
+roost. Open cliff-barns or pens where Nyxens willingly go for rest, solitude, or the night. Nyxens are NOT kept or trapped; they roam freely across Foldhall's gardens and skies.
 
 roost-cold. The chill left on a bed when someone rose early and went out to the roosts, not the deeper empty cold of a spouse away at war. Household slang.
 

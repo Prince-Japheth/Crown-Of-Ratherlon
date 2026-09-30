@@ -74,3 +74,6 @@ Additional standing rules:
 **Character comparisons (writer's own):**
 - Edwyn = Littlefinger "but just for the fun of it, no evil motive" — enjoys the political game, doesn't scheme for the throne
 - Rowan = Otto Hightower — patient administrator who makes himself indispensable, waits for the right moment
+
+**CRITICAL SPOILER BAN:**
+NEVER mention Queen Seren, her war, or her victory anywhere in the text of Book 1. Mentioning that Seren became queen or changed the law immediately spoils the stakes of Book 2 (which is a prequel about her war with her brother). In Book 1, characters must refer to succession simply as 'the law' or 'tradition' without dropping her name.

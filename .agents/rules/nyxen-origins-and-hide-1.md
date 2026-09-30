@@ -11,10 +11,11 @@
 
 **Royal Restoration:** When the Brennans became kings, they made provisions for enough vegetation and fruit plantations to sustain Nyxen populations, drastically reducing raids on farmers. They even brought back and cultivated preserved giant fruits and vegetation plantations that had nearly gone extinct during mankind's expansion.
 
-**Methods of killing Nyxens (historical):**
-- Gas/fume bombs thrown into dens/caves — suffocation
-- Nets (fire-entanglement) while airborne — can't flap, drops from sky, impact kills
-- Wing damage — cumulative tears ground them
+**Historical Hunting Methods (Pre-Brennan / Great Civil War era):**
+Nyxens are naturally gentle creatures and hesitated to use their kill-roars against humans in the wild, but were forced to during the hunting days. Hunters used coordinated attacks with high casualty rates before enough Nyxen bone and claws (the only materials capable of penetrating their fireproof hide) went into widespread circulation for easier hunting:
+- **Weighted loop ropes:** Hunters scattered and threw weighted ropes from person to person to form a loop around the Nyxen's head. They pulled from all sides to choke it out before a roar could escape. Nyxens are incredibly strong and would fling multiple men into the air during the struggle, requiring massive numbers of men to hold them down.
+- **Mouth obstructions:** Throwing objects or locally-made gas-releasing items directly into the Nyxen's mouth right as it opened to release a roar (like throwing something into a yawning mouth) to suffocate or disrupt it.
+- **Weighted giant nets:** Used to pin the beast to the ground or suffocate it.
 
 **Farmer Brennan's mercy:** Took pity on a last surviving clan. Sheltered them. This is the founding act of the dynasty (Year 0).
 
@@ -56,25 +57,22 @@ Hair is keratin reinforced with silica microfilaments and boron-rich protein cro
 
 **Vs firedrakes (later plot):** Nyxen fur resists fire (char-shell insulation). Nyxen roar can disrupt a flame-stream (pressure blast → kinetic air displacement). Later spectacle: sound vs fire, not same-beast mirror fight.
 
-## SONIC WEAPON
+## SONIC WEAPON (THE ROAR)
 
-**Anatomy:** Dual-chamber thoracic compressor system connected to a cranial resonance vault. Subwoofer crossed with a shaped charge nozzle. It emits a collimated broadband pressure pulse.
+**Anatomy:** Dual-chamber thoracic compressor system connected to a cranial resonance vault. It emits a collimated broadband pressure pulse. The sound is the byproduct; the pressure wave is the weapon.
 
-**The sound is the byproduct. The pressure wave is the weapon.**
+**Three Levels of Roar:**
+1. **Normal Roar:** Non-lethal communication or warning.
+2. **Concussive Roar (Hurricane/Storm Force):** Strong enough to blow things away—men, carts, debris—like a violent storm or hurricane, without necessarily causing internal explosions. 
+3. **Kill Roar (Concussive + Internal Rupture):** The ultimate weapon. It includes the concussive storm-force blowback, but adds devastating internal pressure. 
+   - *Internal effects:* Causes internal organs to burst and rupture, specifically in the head. Blood leaks heavily from orifices. 
+   - *Point-Blank:* An intentional point-blank kill roar can literally explode a human instantly.
+   - *Infantry Reaction:* When a Nyxen uses a kill roar from the sky, infantrymen instinctively try their hardest to cover their ears. This is mostly ineffective against the internal pressure wave, but it is pure human nature—the desperate instinct to survive. 
 
-**Effects:**
-- Eardrums rupture, sinuses hemorrhage
-- Capillaries in eyes burst
-- Balance destroyed (vestibular disruption, 5-20 Hz)
-- Lungs experience pressure trauma
-- People thrown off walls, horses, siege towers
-- Close range: fatal internal injuries
-- Internal organ vibration (mid-band frequencies)
-- Structural resonance: glass shatters, light metal rattles loose
-- Fear induction: infrasound below 20 Hz triggers anxiety/dread
-- Fire disruption: scatters flames, disrupts fire arrows, pushes fire plumes backward, clears smoke, blows debris
-
-**Sustained blast:** Functions as a shock cannon. At close range, physically overpowers a stream of fire/flame.
+**Other Effects:**
+- Structural resonance: glass shatters, light metal rattles loose.
+- Fear induction: infrasound below 20 Hz triggers extreme dread.
+- Fire disruption: scatters flames, pushes fire plumes backward, clears smoke.
 
 **Nyxen-vs-Nyxen combat uses:**
 - Pressure pulse to disrupt enemy dive

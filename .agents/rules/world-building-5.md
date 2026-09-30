@@ -35,7 +35,7 @@
 **regnal name.** Name used while reigning. Always Aldren for Brennan kings.
 **rider.** One who has raised/been accepted by a Nyxen. Each match written on the rider roll and given a call-pipe. Riders before Aldren III are "riders of the old way" — uncounted, un-piped.
 **rider roll.** Running count of Brennan Nyxen riders since Aldren III. Kept by the Maester of Foldhall. Physical document — vellum, the Maester's hand — stored with the pipe collection in the Foldhall armoury.
-**roar.** The Nyxen's directed pressure-blast. Not flame. Can stagger/kill at close range. Two beasts trading full roars can cripple each other.
+**roar.** The Nyxen's directed sonic blast. Not flame. Three levels: normal, concussive (blows things away like a storm), and kill-roar (ruptures internal organs/heads, can explode humans at point-blank). Two beasts trading full roars can cripple each other.
 **roost.** Open cliff-barns or pens where Nyxens willingly go for rest, solitude, or the night. Nyxens are NOT kept or trapped; they roam freely across Foldhall's gardens and skies.
 **roost-cold.** Chill left on a bed when someone rose early for the roosts. Not the deeper cold of a spouse at war. Household slang.
 **sept-yard.** Open yard beside Foldhall's place of worship. People cut across on errands.

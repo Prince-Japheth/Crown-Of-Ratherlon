@@ -12,13 +12,15 @@ Not a dainty fairy-tale tiara — an ancient, heavy, battle-weathered circlet of
 
 People still say "the old crown" or "Rathen days" when they mean the centuries when House Rathen wore the throne. The land's name did not change when the dynasty did.
 
-**Ratherlon → House Rathen (linguistic drift):**
-1. Early settlers of the central plains: scouts said the crossing was "a rather long piece of land." The phrase hardened into slang: *the Rather-Long*. Scribes smoothed it into **Ratherlon**.
-2. Early border-lords of the crossroads were "X of the Rather-Long" → "the Rather-Long lord."
-3. The ruling line shed *-lon* and became the **Rathen** line (spoken shortening). The family accepted the name the continent already used.
-4. Court polish: heralds locked the spelling **House Rathen** and invented dignified glosses. The muddy walk stayed buried.
+**The Naming of the Continent and Kingdom (Geopolitical Synecdoche):**
+Historically, the continent was unnamed. It had two distinct kingdoms on the far east and west, with a massive, unclaimed center spanning between them.
+1. **The Land Before the Family:** Early scouts settling the central plains described the crossing as "a rather long piece of land." The phrase hardened into slang: *the Rather-Long*, which scribes smoothed into **Ratherlon**. The geographic name *Ratherlon* was born before the family name *Rathen*.
+2. **The Family Name:** The early border-lords of these crossroads became known as "lords of the Rather-Long," which eventually shortened in speech to the **Rathen** line.
+3. **The Kingdom:** As the Rathens eventually united this massive central chunk (through voluntary integration and alliances, never by conquest), they crowned it the **Kingdom of Ratherlon**.
+4. **The Synecdoche Conflict:** Because the central Kingdom of Ratherlon is so massive, dominant, and internationally recognized, outsiders and visitors began using "Ratherlon" as a synecdoche to refer to the *entire continent*.
+5. **The Erased Minorities:** The neighboring sovereign kingdoms (like the Ashen Kingdom to the east, and unnamed kingdoms to the west) absolutely hate this. While they fight wars for completely separate reasons (border security, resources, and fear of the centralized state), they deeply resent being lumped under the geographic umbrella of "Ratherlon," as it culturally erases their independent sovereign identity (similar to how people incorrectly call the entire UK "England," or the entire island of Hispaniola "The Dominican Republic").
 
-**Today:** Land = *Ratherlon*. Old dynasty = *House Rathen*. New dynasty = *House Brennan*, still kings *of Ratherlon* (Aldren I kept the kingdom's name for legitimacy).
+**Today:** Continent = *Ratherlon* (informally/geographically). Kingdom = *Ratherlon*. Old dynasty = *House Rathen*. New dynasty = *House Brennan*, still kings *of Ratherlon* (Aldren I kept the kingdom's name for legitimacy).
 
 ## CLIMATE
 
