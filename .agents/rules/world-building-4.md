@@ -4,7 +4,7 @@
 
 - **Hand of the King**: The seat is EMPTY at book open. Timeline: An old Lord Dorsen of Rivermark served as Hand under Aldren VIII. When Dorsen died, Aldren VIII appointed his eldest son **Rodrik** (Prince Rodrik, not yet king) as Hand. When Aldren VIII died and Rodrik became Aldren IX, he never selected a new Hand — a king cannot be his own Hand. The seat has sat empty since his coronation, and Rowan is slowly filling the vacuum with his own ambition, doing the Hand's work without the title.
 - **Small Council**: Exists in Foldhall, composed of the realm's highest officers who advise the King. The Small Council is currently fractured, lacking a Hand and arguing over permanent appointments, leading to paralysis that forces Rodrik to handle more than a king should.
-- **Master of Coin**: The seat is currently contested. **Prince Rowan** acts in this capacity without the formal title while the Small Council bickers over a permanent appointment. He manages the ledgers, calculates the exact tonnage for marches, and fields the complaints over taxes and dues.
+- **Master of Coin**: The seat is currently contested. **Prince Rowan** acts in this capacity without the formal title while the Small Council bickers over a permanent appointment. He manages the ledgers, calculates the provisioning for marches, and fields the complaints over taxes and dues.
 - **Master of Whisperers**: title exists — Edric will question its wisdom as a character moment (see standing-directives.md). Currently held by **Lord Orston**.
 - **Titles**: Duke (great house heads), Baron (lesser lords), Handler (Nyxen caretakers), Maester, Kingsguard
 - **Address for the king**: "Your Grace" — NOT "My king"
