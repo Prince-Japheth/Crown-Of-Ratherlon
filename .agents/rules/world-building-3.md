@@ -8,7 +8,7 @@ Leofric went incognito. He explored. He was already a handsome man — rich, wel
 
 ### The Brennan Cinder (cosmetic — NOT the curse)
 
-Leofric underwent one of their cosmetic procedures. When the Aurouvian sorcerers asked what he wanted, he did not hesitate — he wanted to look like the creature that had carried him across the world. His Nyxen had been his only companion for months, the only piece of home he had left, and he wanted to wear its colours. The sorcerers permanently changed his hair to a deep, radiant **ash-charcoal** with a gunmetal sheen — not black, not grey, but a luminous dark that caught light like polished steel. The colour of his beast's rare coat, now his own. A rider's tribute, made permanent by foreign magic.
+Leofric underwent one of their cosmetic procedures. When the Aurouvian sorcerers asked what he wanted, he did not hesitate — he wanted to look like the creature that had carried him across the world. His Nyxen had been his only companion for months, the only piece of home he had left, and he wanted to wear its colours. The sorcerers permanently changed his hair to a deep, radiant **ash-charcoal** with a forged iron sheen — not black, not grey, but a luminous dark that caught light like polished steel. The colour of his beast's rare coat, now his own. A rider's tribute, made permanent by foreign magic.
 
 **This was harmless magic.** A vain, beautiful, loving act. The Cinder is NOT the curse. It is a separate magical event with a separate moral weight.
 
@@ -47,8 +47,8 @@ Leofric was crowned. Seraphine became queen. The Cinder — his sentimental ride
 ### The Brennan Cinder (inheritance)
 
 **Inheritance rules (same pattern as the Nyxen riding trait):**
-- Strongest in the firstborn heir of the direct line — full, vivid ash-charcoal with the metallic gunmetal sheen, near-identical to their father's and his father's before him. The firstborn trait is so dominant it overrides the maternal contribution almost entirely
-- In second-born, third-born, and further siblings the Cinder blends with the mother's hair genetics — producing beautiful mixed tones that still carry a metallic radiance (dark brown shot through with steel, warm chestnut with a gunmetal sheen, etc.) but not the pure ash-charcoal. The maternal colour shows through more with each step from firstborn
+- Strongest in the firstborn heir of the direct line — full, vivid ash-charcoal with the sheen of forged iron, near-identical to their father's and his father's before him. The firstborn trait is so dominant it overrides the maternal contribution almost entirely
+- In second-born, third-born, and further siblings the Cinder blends with the mother's hair genetics — producing beautiful mixed tones that still carry a metallic radiance (dark brown shot through with steel, warm chestnut with a forged iron sheen, etc.) but not the pure ash-charcoal. The maternal colour shows through more with each step from firstborn
 - Fades further in cadet branches and distant cousins, until only a faint metallic lustre marks them as Brennan blood at all
 - **Seraphine's teal eyes** appear irregularly — not every heir, but often enough to be remarked upon when they surface
 

@@ -6,10 +6,10 @@ description: "Continuation of standing directives"
 *(Continued from standing-directives-1.md)*
 
 **Brennan hereditary feature — The Brennan Cinder (REPLACES old "Brennan Copper" and "no hereditary feature" rules):**
-- Radiant ash-charcoal hair with a gunmetal sheen: not black, not grey — a deep, luminous dark, as if each strand held a cold fire
+- Radiant ash-charcoal hair with a forged iron sheen: not black, not grey — a deep, luminous dark, as if each strand held a cold fire
 - Leofric (Aldren III) chose the color to match his Nyxen's rare ash-charcoal coat; the Aurouvian sorcerers made it permanent as a harmless cosmetic rider's tribute
 - **The Cinder is NOT the curse.** Two separate magical acts: (1) the Cinder — harmless cosmetic, a vain and loving tribute; (2) the blood ritual — sorcery that transferred the Nyxen heir-scent from Aldric (Leofric's firstborn by Elen of Varen) to Seraphine's son, killing Aldric in the process. The blood ritual is the curse. The Cinder just looks like it.
-- Inheritance pattern mirrors the Nyxen riding trait: strongest in the firstborn heir (full, vivid ash-charcoal with metallic gunmetal sheen, near-identical to their father's), weaker in younger siblings where it blends with the mother's hair genetics — producing beautiful gradients and mixed tones (dark brown shot through with steel, warm chestnut with a metallic radiance, etc.) that still mark them unmistakably Brennan. Fades further in cadet branches and distant cousins
+- Inheritance pattern mirrors the Nyxen riding trait: strongest in the firstborn heir (full, vivid ash-charcoal with sheen of forged iron, near-identical to their father's), weaker in younger siblings where it blends with the mother's hair genetics — producing beautiful gradients and mixed tones (dark brown shot through with steel, warm chestnut with a metallic radiance, etc.) that still mark them unmistakably Brennan. Fades further in cadet branches and distant cousins
 - Every crowned Aldren from III onward carries the ash-charcoal hair at full intensity — the firstborn trait is so dominant it overrides the maternal contribution almost entirely
 - Seraphine's teal eyes appear irregularly in the line — not guaranteed, but often enough to be noted
 - The blood ritual broke the natural maternal inheritance system: every succession crisis after Aldren III is the curse manifesting (deep lore only — characters do not know this)
@@ -19,7 +19,7 @@ description: "Continuation of standing directives"
 - DONE: Book 1 prose updated — Rodrik "ash-charcoal hair" (full Cinder), Rowan "ash-charcoal hair a shade warmer than the king's" (2nd-born, softer sheen), Edwyn "dark hair shot through with steel" (3rd-born, brown dominant with metallic veins), Elyra "tawny-brown hair" (5th-born, nearly maternal, cool pewter in direct light), Hart "tawny-gold in the morning light"
 
 The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by Queen Gwyn Selborn, locked 2026-09-02):
-1. Rodrik (firstborn) — Metallic ash-charcoal with the visual properties of polished metal. Full Cinder. Near-identical to Aldren VIII's. In firelight or sun it catches like hammered gunmetal. No trace of Gwyn's brown.
+1. Rodrik (firstborn) — Metallic ash-charcoal with the visual properties of polished metal. Full Cinder. Near-identical to Aldren VIII's. In firelight or sun it catches like hammered iron. No trace of Gwyn's brown.
 2. Rowan (second-born) — Dark ash-charcoal with a warm umber undertow. Still overwhelmingly Cinder, still metallic, but the sheen is softer — more oil on iron than polished steel. In certain light, Gwyn's warmth shows at the roots and temples.
 3. Edwyn (third-born) — Dark brown shot through with steel. The brown has taken the lead. Gwyn's honey-brown runs the length, but metallic ash-charcoal threads through it like veins of ore in dark wood.
 4. Rhaenaya (fourth-born) — Warm chestnut with a burnished metallic lustre. Gwyn's colour fully dominant, rich and warm, but a cool sheen lingers over the surface. The Cinder shows not as colour but as quality.

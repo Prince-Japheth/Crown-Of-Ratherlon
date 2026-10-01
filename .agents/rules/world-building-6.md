@@ -14,6 +14,6 @@ Leofric proposed a bargain: if he married and produced an heir first, could he g
 
 **Leofric held up his end.** He married Elen. He consummated. He stayed long enough for her to quicken. Then he fled — north across the warm sea, into lands Ratherlon had only heard of through traders. Just he and his Nyxen, leaving behind a pregnant wife and a court that had believed the bargain meant he would stay.
 
-**Leofric's Nyxen was an uncommon beauty** — where most Nyxens wore tawny-gold or wheat-tan fur, his bore a rare coat of radiant ash-charcoal with a gunmetal sheen, dark as storm-cloud but luminous in any light. An uncommon colouring that made the beast unmistakable among the roosts of Foldhall.
+**Leofric's Nyxen was an uncommon beauty** — where most Nyxens wore tawny-gold or wheat-tan fur, his bore a rare coat of radiant ash-charcoal with a forged iron sheen, dark as storm-cloud but luminous in any light. An uncommon colouring that made the beast unmistakable among the roosts of Foldhall.
 
 **Elen bore a son at Foldhall: Aldric Brennan.** Leofric's firstborn. Full Brennan scent. Full legal claim to the crown. The boy was born and raised at the royal seat under the protection of Aldren II and Queen Maris — not at Rosegate. He was the crown's child, acknowledged by the court.

@@ -43,7 +43,7 @@ Three sworn swords assigned to the named heir. Green cloaks with a **silver** cr
 
 **Gareth's whereabouts at story open:** Not missing, not a mystery — just not at court by choice. Last known somewhere along the Southfrost or cold roads ("nearer the cold roads" — Elyra's words), riding with Norvalen patrols or hunting the reaver edge. Ravens reach him. The family knows roughly where he is. He took Thorn and went where the cold was. This matters for the Twin War: Gareth being close to Norvalen (Southfrost) seeds alliance geography early. Elyra's plan in Ch1 is to send word for Gareth to bend east and meet her at the Eastverge with Thorn (note: this Ch1 maneuvering is strictly to respond to a minor border skirmish during Rodrik's early reign, seeding their coordination well before the actual Twin War).
 
-**Geographic confirmation:** Crownfold (Foldhall) is dead center of the kingdom. An overnight Nyxen flight from the Eastverge (eastern border, bordering the Ashlands) to Foldhall is plausible — roughly half the kingdom's width, hours by air vs days on horseback.
+**Geographic confirmation:** Crownfold (Foldhall) is dead center of the kingdom.
 
 ## QUEEN ELYN
 
