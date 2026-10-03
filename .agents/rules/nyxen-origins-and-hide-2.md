@@ -33,7 +33,7 @@ Two overlapping instincts:
 
 A Nyxen isn't property or magically bound — it's an intelligent animal with preferences. Nyxens aren't magical soulmates. Just like a Knight might have his trusty horse, won many battles with it, but could hop on another horse anytime anyday and even have his own horse follow along without a leash because they know each other. Any bloodline member can command one, but the response varies: slower, less coordinated, less trusting than with its own raiser. Like "a military dog that recognizes every member of a family but has a favorite handler."
 
-**Veteran Nyxen:** Has decades of habits, instincts, expectations from previous riders. May be stubborn, refuse risky maneuvers, ignore commands it believes foolish.
+**Veteran Nyxen:** Has decades of habits and expectations from previous riders. It anticipates its rider, answers a knee before the thought is finished, and never defies a command. A veteran may answer a different Brennan a breath slower than it answers its own rider, because it is used to one knee and one voice, but it obeys.
 
 **Companion Nyxen:** Younger, weaker, but reacts almost as an extension of rider's thoughts from growing up together.
 

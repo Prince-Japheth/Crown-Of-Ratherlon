@@ -159,8 +159,32 @@ Beats: Failed almost-parley → Battle; twins fall together; one body comes back
 | D | Elyn | Part I-II, touches after |
 | E | King Rodrik / Aldren IX | Part I (until death) |
 | F | Caelen or Roland | Late I onward |
-| G | Place / minor | Spice only |
+| G | Outside the family: Kingsguard, handlers, lords, ladies, soldiers, smallfolk | Part I regularly, then wherever the war needs a witness |
 | End only | Aldren X / Elowen | Final chapter only |
+
+**Rule: After two royal-family chapters in a row, the next chapter has a non-Brennan POV** (not counting Elyn's Rathen eye as an outsider's, since she lives inside the royal household).
+
+Suggested roster, each with a canon anchor:
+
+| POV | Anchor in the .agents files | What they can show |
+|-----|----------------------------|--------------------|
+| Ser Corren (done, chapter 6) | Lord Commander, left half-ear lost in the First Ashen War | The Kingsguard, the king seen from outside, men who notice |
+| Wynn, a handler | Wynn the handler is the prologue POV in the layout skill | Roost life, the pup, pipes, what handlers see of Hart's calling north |
+| Lord Merecroft | The weeping lord of the council quarrel (chapters 5 and 15) | The man who said yes, from inside his fear |
+| Lady Isolde Yarben | Merecroft's widowed sister (chapter 15) | Vine Shore, a woman who reads men and has a brother to keep |
+| Duke Roland Varen | Lane F, "Caelen or Roland," late Part I | Rosegate, grain, the Vine Shore's view of the crown |
+| Helena Tarnell | Settler of quarrels at Foldhall, harbor dues | The Western Shore and the dues feud |
+| A Kelward watch-stone sergeant | The outline's "Kelward watchtower" place chapter | The Ashen seen from the ground, the night before the Redcut |
+| Maester Osmund | Keeps the rider roll and crafts the pipes | Pipes, the roll, what the Maester of Foldhall actually knows |
+
+Suggested order for slots 7 to 10:
+
+| Slot | POV | Purpose |
+|------|-----|---------|
+| 7 | Wynn, the handler | Roost life after the hunt, the pup, Hart's calls north, pipes in daily use |
+| 8 | Lord Merecroft | What he agreed to, shown as fear, without naming Pell's master |
+| 9 | Lady Isolde Yarben | Fenlow's household from outside, her brother's silence |
+| 10 | A Kelward sergeant at the watch-stone | The night before the Redcut falls, from the wall |
 
 Part I may use short place chapters (Vine Shore harvest, Kelward watchtower) without permanent POV characters.
 
