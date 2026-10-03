@@ -63,3 +63,9 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 - DO NOT make the beast a generic reptile/dragon; DO NOT spoil "Twin Heirs"; AVOID neon "high-magic" glows
 
 **Show, do not tell.** Events happen in scene, in the order the reader would see them. Do not open a chapter or scene by reporting a situation that already happened ("X had been told to Y"); open on the moment itself and let the reader work out the rest. Do not narrate what a moment means or how the reader should feel about it ("it was the oldest lie a Kingsguard knew"). Do not give a character's feeling as a statement ("he felt the weight of the crown") when an action, an object or a line of dialogue can carry it. Backstory comes in one concrete image or one remembered line, never a paragraph of summary. Raven letters and council reports are the exception only when the reader needs the facts and the chapter's drama is in how they land.
+
+**No Twin Foreshadowing:** There is no reliable way to know a mother is carrying twins until the moment of birth. Never build tension or dramatic irony regarding twins before they are born. Any tension before their birth must solely be about immediate realm politics and the border wars, as Rodrik and Elyn are newlyweds who conceive almost immediately.
+
+**Lethal Consequences (Pre-Twin War):** No character is safe. Non-royal characters (and possibly even a royal in the future) can die suddenly before the Twin War. Readers must feel real fear and tension as soon as a sword is drawn or arrows are fired. Emphasize the suddenness of violence without telegraphing character deaths.
+
+**No "Price of Sorcery":** Never mention or hint at a "price" for the Brennan Cinder or sorcery in the text. Readers are meant to figure out the price of the blood ritual entirely on their own across the whole book series, or not at all.

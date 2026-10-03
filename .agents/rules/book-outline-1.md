@@ -33,6 +33,8 @@ To ensure the cousins are all old enough to ride in the Twin War, their births h
 5. **Edwyn** consummates with a noblewoman (having his first bastard, Tristan) around the time of those weddings. His second bastard (Cassia) is born shortly after.
 *(Result: The entire cousin generation is practically the same age, making them all late teens/early 20s when the Twin War erupts.)*
 
+**No Time Skips:** There will be no massive time skips. The twins and all their cousins (including bastards) must have their lives and distinct personalities explored on the page. Readers must live with them as they grow, so every death in the Twin War is felt.
+
 ## WHAT THE STORY IS NOT
 
 - Not a memoir announced on page one
@@ -185,9 +187,9 @@ Current sequence:
 | 5 | Rowan | done, Brennan |
 | 6 | Corren | done, outsider |
 | 7 | Wynn | done, outsider |
-| 8 | Lord Merecroft | next suggested |
-| 9 | Lady Isolde Yarben | suggested |
-| 10 | A Kelward sergeant at the watch-stone | suggested |
+| 8 | Lord Merecroft | done, outsider |
+| 9 | Lady Isolde Yarben | done, outsider |
+| 10 | A Kelward sergeant at the watch-stone | next suggested |
 
 Part I may use short place chapters (Vine Shore harvest, Kelward watchtower) without permanent POV characters.
 
