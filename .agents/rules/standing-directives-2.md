@@ -61,3 +61,5 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 - Title "CROWN OF RATHERLON" embossed gold across top
 - Colors: Deep Crownfold Green (#1B3323), Weathered Gold (#C5A059), Wet Castle Slate (#24282F), Cold Mereland Indigo (#1D2D44), Amber (#E09F3E)
 - DO NOT make the beast a generic reptile/dragon; DO NOT spoil "Twin Heirs"; AVOID neon "high-magic" glows
+
+**Show, do not tell.** Events happen in scene, in the order the reader would see them. Do not open a chapter or scene by reporting a situation that already happened ("X had been told to Y"); open on the moment itself and let the reader work out the rest. Do not narrate what a moment means or how the reader should feel about it ("it was the oldest lie a Kingsguard knew"). Do not give a character's feeling as a statement ("he felt the weight of the crown") when an action, an object or a line of dialogue can carry it. Backstory comes in one concrete image or one remembered line, never a paragraph of summary. Raven letters and council reports are the exception only when the reader needs the facts and the chapter's drama is in how they land.

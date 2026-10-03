@@ -177,14 +177,17 @@ Suggested roster, each with a canon anchor:
 | A Kelward watch-stone sergeant | The outline's "Kelward watchtower" place chapter | The Ashen seen from the ground, the night before the Redcut |
 | Maester Osmund | Keeps the rider roll and crafts the pipes | Pipes, the roll, what the Maester of Foldhall actually knows |
 
-Suggested order for slots 7 to 10:
+Current sequence:
 
-| Slot | POV | Purpose |
-|------|-----|---------|
-| 7 | Wynn, the handler | Roost life after the hunt, the pup, Hart's calls north, pipes in daily use |
-| 8 | Lord Merecroft | What he agreed to, shown as fear, without naming Pell's master |
-| 9 | Lady Isolde Yarben | Fenlow's household from outside, her brother's silence |
-| 10 | A Kelward sergeant at the watch-stone | The night before the Redcut falls, from the wall |
+| Slot | POV | State |
+|------|-----|-------|
+| 4 | Elyra | done, Brennan |
+| 5 | Rowan | done, Brennan |
+| 6 | Corren | done, outsider |
+| 7 | Wynn | done, outsider |
+| 8 | Lord Merecroft | next suggested |
+| 9 | Lady Isolde Yarben | suggested |
+| 10 | A Kelward sergeant at the watch-stone | suggested |
 
 Part I may use short place chapters (Vine Shore harvest, Kelward watchtower) without permanent POV characters.
 

@@ -45,3 +45,10 @@
 **steward.** Officer who runs household stores, staff, daily order.
 **wall-walk.** Path along top of castle wall.
 **yard.** Open court inside castle walls.
+
+## HANDLER LORE
+- Handlers carry a wooden clapper for feeding. The pipes belong to the riders.
+- A handler's code: what is said to a Nyxen in the dark is said to a Nyxen, and the roost does not hear it.
+- Handlers sleep in lofts built across the rafters above the bays, a hatch in the floor above each bay, one night in three.
+- Fruit costs are now watched by the counting-house. Hart alone eats a bushel to a bushel and a half a day.
+- Handlers cannot ride and cannot bond. Old Oren's rule for young handlers is "love them with your hands open."
