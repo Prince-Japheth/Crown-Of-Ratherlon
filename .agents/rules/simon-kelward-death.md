@@ -20,7 +20,7 @@ To satisfy the rule that "no character is safe" and that a royal bloodline membe
 - **The Narrative Purpose:** 
   1. It proves to the reader that arrows and ropes can still kill a rider even when a massive Nyxen is overhead, destroying the illusion of safety.
   2. It happens during a victory, maximizing the shock value.
-  3. It cleanly elevates Alton Kelward (Simon's relative and Elyra's husband) to become the new Duke of Eastgirt, perfectly positioning House Kelward for the upcoming Twin War.
+  3. It cleanly elevates Alton Kelward (Simon's younger brother and Elyra's future husband) to become the new Duke of Eastgirt, perfectly positioning House Kelward for the upcoming Twin War.
 
 ## Notes on the Siblings (Locked)
 Because the above characters must survive until the Twin War, they are locked from premature death:
