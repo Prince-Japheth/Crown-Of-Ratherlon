@@ -62,12 +62,12 @@ Not labeled by narrator fiat — earned under Rodrik's reign through border, for
 ### Edric (peace-craft, ink, quantity)
 1. **Harbor peace:** settles Vine Shore / Western Shore dues quarrel (Varen vs Tarnell) without steel
 2. **Mere ink:** mediates Rathen-cousin mill/hunt feud
-3. **Truce words:** after First Ashen War, carries Foldhall's terms / hostage exchange to Eastverge
+3. **Truce words:** after the Second Ashen War, carries Foldhall's terms / hostage exchange to Eastverge
 4. **Progress ear:** listens, names petitioners, buys loyalty with fairness
 
 ### Harwin (grit, quality, field)
 1. **Eastverge seasons:** rides with Kelward — raid-answers, gullies, watch-stones, learned to sit a bront before most princes learn to sit a destrier
-2. **First Ashen War:** at Rodrik's side in hard campaign while Edric's ink is elsewhere
+2. **Second Ashen War:** at Rodrik's side in hard campaign while Edric's ink is elsewhere
 3. **Icewide bruise:** cold-shore fight with Gareth / reavers
 4. **Quality quarrel:** insists tallies without grit are corpses
 

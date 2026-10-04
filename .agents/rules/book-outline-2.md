@@ -43,7 +43,7 @@ Use sparingly. Not every chapter. When a passage of living history would teach t
 - [ ] Faith / religion (leaned away from copy-paste Christianity, still undefined)
 - [ ] Drawn map art
 - [ ] Appanage: who gets first (Rowan / Edwyn / Elyra / Gareth or later kin)
-- [ ] Firedrake appearance timing (Twin War opportunism vs later book)
+- [x] Decided: see ashen-wars-and-firedrakes.md
 - [ ] Cause/spark of Aldren I's civil war (shape locked; exact trigger open)
 
 ### Book / Series

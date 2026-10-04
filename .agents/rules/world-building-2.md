@@ -22,13 +22,13 @@
 
 - **The Southern Sea / Icewide** — sailors fear it; pack ice in hard years
 - **The Basalt Teeth** — forbidden Nyxen withdrawal country
-- **Eastverge → Ashen Kingdom** (folk: *the Ashlands*): eastern neighbor. Hostile because the Rathen expansion turned a fragmented interior into a massive centralized state on their border. Wants containment, not conquest. LATER rides fire-breathing **firedrakes** / great lizards to war (show: dinosaurs; never that word in prose). In-world names: *great lizards*, *firedrakes*, *ash-wyrms*, *worms of the hills that breathe furnace-wind*
+- **Eastverge → Ashen Kingdom** (folk: *the Ashlands*): eastern neighbor. Hostile because the Rathen expansion turned a fragmented interior into a massive centralized state on their border. Wants containment, not conquest, until the Opening. After it, wants the Rathen lands. Rides fire-breathing firedrakes / great lizards to war from about the fourth year of Rodrik's reign. (show: dinosaurs; never that word in prose). In-world names: *great lizards*, *firedrakes*, *ash-wyrms*, *worms of the hills that breathe furnace-wind*
 - **Western Shore → Vaelcross Kingdom** (folk: *Vaelcross*): western neighbor. Already a functioning kingdom when the Rathens arrived. Same containment logic as Ashen — once the scattered interior became Ratherlon, the strategic calculation changed. The Rathens could not attack Vaelcross; now Vaelcross watches the kingdom that grew between it and Ashen.
 - **Southern ice / reaver pressure** beyond Norvalen
 - **Warm Sea / trade crowns** beyond northern water: name when plot needs; do not invent a "Reach"
 - **Aurouvah** — wealthy kingdom on the far continent across the warm sea. Ancient magic ranging from permanent cosmetic arts (hair, eyes, bone structure) to deeper rituals that can reach into blood itself. Great riches and beauty. Where Aldren III (Leofric the Adventurous) fled, received the Cinder (cosmetic), married Seraphine, and commissioned the blood ritual that killed his firstborn Aldric and cursed the Brennan line. The Aurouvian belief of rebirth (a child who dies at birth passes its soul to the next) is deeply held and never disproven. Ratherlon has limited contact with Aurouvah — traders know of it, but few have crossed the warm sea and returned. The Brennan royal family still speaks Aurouvian as a private tongue, inherited from Seraphine
 
-Do not overbuild foreign courts in early chapters. Border *fear* can show; firedrakes wait.
+Do not overbuild foreign courts in early chapters. Border *fear* can show; firedrakes wait until the Opening.
 
 **The NW Island:** Visible on the continent map (top-left). Diplomatically brought into the Kingdom of Ratherlon by Rodrik (Aldren IX) as one of his great diplomatic achievements, and recently secured further by Prince Edric. The island is Edric's proof that diplomacy wins land without blood — his argument in stone against the warrior path. Belongs administratively to the Western Shore or directly to the crown.
 
