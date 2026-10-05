@@ -69,3 +69,5 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 **Lethal Consequences (Pre-Twin War):** No character is safe. Non-royal characters (and possibly even a royal in the future) can die suddenly before the Twin War. Readers must feel real fear and tension as soon as a sword is drawn or arrows are fired. Emphasize the suddenness of violence without telegraphing character deaths.
 
 **No "Price of Sorcery":** Never mention or hint at a "price" for the Brennan Cinder or sorcery in the text. Readers are meant to figure out the price of the blood ritual entirely on their own across the whole book series, or not at all.
+
+**Do not telegraph future deaths.** No scene may hint that a named character will die in the Twin War, the Frostglow War or any other future event. Characters live on the page with a future the reader believes in.

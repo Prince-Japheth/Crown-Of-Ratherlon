@@ -42,7 +42,7 @@ Neither considers himself evil. Caelen rides anyway — loyalty matters more tha
 
 The warrior twin is genuinely cold by nature. No trauma, no scar, no mistreatment, no forsaken childhood. He is just like that. Family recognizes it because they've seen it before in Gareth (youngest uncle). Dialogue like "He has his uncle's manner" or "Gareth was the same at that age" — said without alarm, as observation. This is what makes him unsettling to readers: there's no backstory to unlock.
 
-**Why Gareth works as the template:** Gareth is the youngest sibling, closest to Rodrik's children in age (Rodrik became king in his early 20s, so Gareth could be only 12-15 years older than the twins). More like an older cousin than a distant uncle. Gareth isn't cruel — just cold-forged from birth. He chose cold roads and Thorn over court life. The difference: Gareth had no claim worth fighting for. The warrior twin does.
+**Why Gareth works as the template:** Gareth is the youngest sibling, closest to Rodrik's children in age (Rodrik became king in his early 20s, so Gareth could be only 12-15 years older than the twins; he is about fifteen at the start of Book 1). More like an older cousin than a distant uncle. Gareth isn't cruel — just cold-forged from birth. He chose cold roads and Thorn over court life. The difference: Gareth had no claim worth fighting for. The warrior twin does.
 
 ## TWIN COALITIONS (Locked)
 
@@ -52,7 +52,7 @@ When the succession splits:
 
 Lords of rich, inward country at peace: largest levies because they have NOT been bled by border war. They want sustained peace, trade, full granaries, a king who prevents war by ink and marriage.
 
-**Geography:** The Capital Core (Crownfold) which holds the largest standing infantry; the Coastlines (Western Shore & Vine Shore) controlling shipping lanes and global trade; and the Frozen South (Southfrost), which is tucked safely away behind a massive wall of mountains. These regions are geographically insulated from foreign boots. They have enjoyed decades of untroubled economic growth and favor a peaceful ruler. A chaotic, aggressive king like the Rogue Prince threatens their trade contracts.
+**Geography:** The Capital Core (Crownfold) which holds the largest standing infantry; the Coastlines (Western Shore & Vine Shore) controlling shipping lanes and global trade; and the Frozen South (Southfrost), which is tucked safely away behind a massive wall of mountains. These regions are geographically insulated from foreign boots. They have enjoyed decades of untroubled economic growth, broken only by the Frostglow War, and favor a peaceful ruler. The Frostglow War has made the South want peace even more. A chaotic, aggressive king like the Rogue Prince threatens their trade contracts.
 
 **Argument:** "The late king gave us prosperity. We need another who keeps the peace."
 

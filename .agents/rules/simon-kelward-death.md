@@ -11,7 +11,7 @@ To satisfy the rule that "no character is safe" and that a royal bloodline membe
 ## Who is Simon Kelward?
 - **Duke of Eastgirt:** He is the paramount lord of the Eastverge.
 - **Royal Blood:** He is a Brennan grandson (first cousin to King Rodrik and Elyra) through their aunt Alys. 
-- **Family:** He is married to Cora. He has no children.
+- **Family:** He is 28, married to Cora, with no children. His father Jonos died in the First Ashen War when Simon was eighteen, and his mother Alys is the Dowager Duchess of Eastgirt.
 
 ## How and When He Dies
 - **The Event:** The retaking of the Redcut watch-stone (which falls during the early Eastverge troubles/Ashen border raids in the opening years of Rodrik's reign).

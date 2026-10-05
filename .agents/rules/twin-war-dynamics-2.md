@@ -21,7 +21,7 @@ Because of this terrifying silence, no one bothers looking for another suspect. 
 
 The kingdom's fear is NOT "can a Nyxen be killed?" Everyone knows they can. The fear is: "What happens after you kill one?"
 
-**The precedent:** The last time a Nyxen was killed in war, the rider who was king at that time intentionally tracked the killer, took him hostage, and subjected him to days of starvation and excruciating torture, then returned the remains. Since then, every soldier fears harming a Nyxen — they'd rather die in war than live to face a grieving rider's vengeance.
+**The precedent:** The last time a Nyxen was killed in war (Aldren VI's first Nyxen, in the Deepwood), the rider who was king at that time intentionally tracked the killer, took him hostage, and subjected him to days of starvation and excruciating torture, then returned the remains. Since then, every soldier fears harming a Nyxen — they'd rather die in war than live to face a grieving rider's vengeance.
 
 **Cultural taboo:** Songs, folktales, military superstitions. Mothers tell sons: "If you find yourself beneath a Nyxen, pray the rider kills you." Commanders order: "Bring it down if you must. But pray someone else fired the shot."
 
@@ -59,7 +59,7 @@ Both absolute loyalty and familial rebellion happen simultaneously. A Duke canno
 **1. Alaric Norvalen (The Southfrost Rebellion):**
 - **The Region:** Duke Osric Norvalen declares for **Edric** (Diplomatic). He looks at his massive mountain walls and wants to keep Southfrost out of the bloodshed.
 - **The Rebel:** His son, **Alaric Norvalen** (riding *Frost*).
-- **The Reason:** Alaric has spent his youth patrolling the freezing "cold roads" and fighting off wild mountain reavers alongside his Uncle Gareth. Because Alaric actually bleeds on the icy frontier, he respects Harwin's grit and thinks Edric is too soft. Alaric openly defies his father, mounts *Frost*, and flies north to join Harwin's war camp.
+- **The Reason:** Alaric has spent his youth patrolling the freezing "cold roads" and fighting off wild mountain reavers alongside his Uncle Gareth, and fights beside Harwin in the Frostglow War. Because Alaric actually bleeds on the icy frontier, he respects Harwin's grit and thinks Edric is too soft. Alaric openly defies his father, mounts *Frost*, and flies north to join Harwin's war camp.
 
 **2. Caelen Brennan (The Steward's Rebellion):**
 - **The Father:** Rowan is the ambitious ledger-keeper who orders his household to remain cautious or neutral to survive.

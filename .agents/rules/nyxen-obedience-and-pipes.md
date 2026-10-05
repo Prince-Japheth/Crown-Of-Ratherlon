@@ -8,3 +8,4 @@
 - A rider tells a Nyxen to stay put only when something urgent or important is happening, and the Nyxen then holds still until released.
 - Nyxens are very intelligent. In a tense situation (a fight in the yard, a frightened child, a bad day in the keep, a crowd with weapons) a Nyxen reads the room and holds back on its own, with no command at all. A Nyxen never takes off and roams into a tense scene.
 - Another bloodline member can command a Nyxen that is not his own. It answers, a breath slower and with less ease than it answers its own rider.
+- In battle a rider may give a Nyxen a **standing order** (for example, to keep harrying the enemy) before dismounting. The Nyxen carries it out until recalled by the rider's pipe. That is obedience, not choice.

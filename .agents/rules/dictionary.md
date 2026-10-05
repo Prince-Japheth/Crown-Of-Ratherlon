@@ -23,6 +23,8 @@ birth name. The name a royal person carries before crowning. King Aldren IX’s 
 
 C
 
+Cold roads, the. The mountain passes of Southfrost, patrolled all year against reavers.
+
 Crownfold, the. The countryside and river-country around Foldhall. Foldhall is the seat; the Crownfold is the land that answers it first.
 
 crown's watchman. A man sworn to hold the outer watch under the king's authority, not a lord's household guard. To kill a crown's watchman is to strike at the throne itself.
@@ -48,17 +50,29 @@ smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkee
 
 frugivore. An animal that lives chiefly on fruit. Nyxens are frugivores and browse-eaters, not meat-hunters by nature.
 
+Frost-Glow. A luminous mineral moss from the hot deeps of the southern mountains. Burns blue, long and smokeless, with no smell. A necessity in Southfrost and a luxury everywhere else.
+
+Frostglow War, the. The Islanders' attempt to seize Southfrost, in the sixteenth year of Rodrik's reign.
+
 G
 
 gate-warden. The officer who keeps a castle gate: who enters, who leaves, who is announced.
+
+Glow-digger. A Southfrost smallfolk miner of Frost-Glow.
 
 good-brother. A brother-in-law. Queen Elyn’s good-brother is her husband’s brother. Likewise: good-sister, good-father, good-mother. These are kinship words, not praise.
 
 great house. One of the paramount houses of the realm. Its head holds the rank of duke and rules a wide region under the king.
 
+Greyfang Isles, the. The rocky island chain south and west of Southfrost, united under one crown.
+
+Greywater. Tower and mill-lands on the upper Fold; seat of the cadet branch of House Brennan.
+
 H
 
 holdfast. A strong dwelling or small fortified place; broader than castle.
+
+Hostage Hall. The part of Foldhall where Aldren I kept the heirs of great houses.
 
 house. A noble family and all who swear to its name. Spoken as House Brennan, House Varen, and so on.
 
@@ -96,6 +110,10 @@ N
 Nyxen. A great flying beast of the realm. Docile by nature; eats fruit and browse. Recognizes a rare scent in the old farmer’s bloodline. Raised from a pup, named by its raiser, trained until it can be ridden. Keen of ear and nose. Flight uses learned weight-lightening. A rider summons their own with a call-pipe. Most die of grief if their human dies.
 
 Nyxen oil. Oil used in the roosts for hide, tackle, and care. Its smell clings to Foldhall’s stones.
+
+O
+
+Opening, the. The event in the Ashen mountains when the firedrakes first appeared.
 
 P
 
@@ -137,6 +155,8 @@ shutters. Wooden panels that close over a window. Open for air and light; shut a
 
 sigil. A house’s badge on banners, shields, and seals. House Brennan’s sigil is a Nyxen on green.
 
+Skarholt. Seat of the traitor lord of western Southfrost; home of the Weeping Vein mine.
+
 solar. A private upper chamber in a castle, often well-lit, used by the lord or lady for quiet work and family, not the great hall.
 
 Southfrost, the. Cold southern mountain country; seat of House Norvalen at Frostholt. Winter comes from this direction.
@@ -166,6 +186,8 @@ warden. A keeper or guardian of a place or duty.
 Warm Sea, the. The warm northern water off the Vine Shore. Trade crowns lie beyond it.
 
 Western Shore, the. The realm’s western sea-coast; seat of House Tarnell at Saltcrown.
+
+Winter Knights. The white-armored knights of Southfrost, lent by treaty to lords across the kingdom.
 
 words. See house words.
 

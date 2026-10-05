@@ -68,7 +68,7 @@ Not labeled by narrator fiat — earned under Rodrik's reign through border, for
 ### Harwin (grit, quality, field)
 1. **Eastverge seasons:** rides with Kelward — raid-answers, gullies, watch-stones, learned to sit a bront before most princes learn to sit a destrier
 2. **Second Ashen War:** at Rodrik's side in hard campaign while Edric's ink is elsewhere
-3. **Icewide bruise:** cold-shore fight with Gareth / reavers
+3. **Icewide bruise / the Frostglow War:** cold-shore and mountain fight with Gareth and Alaric against the Islanders and the reavers, when the twins are about sixteen
 4. **Quality quarrel:** insists tallies without grit are corpses
 
 Both true: Edric's peace is real; Harwin's grit is real. Camps form from *which fear* you trust after IX dies.
