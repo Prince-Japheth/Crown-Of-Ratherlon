@@ -1,5 +1,5 @@
 ---
-name: aurouvian-language-and-names
+trigger: always_on
 description: "The root structure of the Aurouvian language, brought by Queen Seraphine, and the meanings of common Aurouvian names."
 ---
 
@@ -16,15 +16,8 @@ Linguistically, Aurouvian is tied heavily to the elements—fire, sky, deep wate
 * **Fay / Faya:** Wind, breath, or the gale.
 * **El / Ely:** Silver, twilight, or the shifting of light.
 * **Cae:** Stone, foundation, or bedrock.
-* **Qaen:** Storm, lightning, or sudden violence.
+* **Qaen:** Storm, lightning, or sudden violence..
 * **Hein:** Memory, truth, or the past.
-* **Vael / Val:** Blood, life, or the red hour (dusk).
-* **Aur / Our:** Gold, sun, or sovereignty. (The root of "Aurouvah").
-* **Nym / Ny:** Shadow, silence, or the deep forest.
-* **Bael / Bae:** Sorrow, winter, or ice.
-* **Thaen / Thae:** Song, history, or the spoken word.
-* **Kael / Kae:** Spear, wrath, or a sharp edge.
-* **Ann:** Dawn, beginning, or first light.
 
 ## 2. The Suffixes
 * **-ya / -naya:** "Daughter of" or "Bringer of" (feminine).
@@ -34,10 +27,6 @@ Linguistically, Aurouvian is tied heavily to the elements—fire, sky, deep wate
 * **-sehn:** "Iron" or "Truth" (often used as a mid-root).
 * **-heara:** "Crown" or "Queen."
 * **-es:** "Warden" or "Keeper."
-* **-en / -ren:** "Blood of" or "Born to" (Neutral/Masculine).
-* **-lys / -alys:** "Tears of" or "Sorrow of" (Feminine/Neutral).
-* **-thas / -tas:** "Blade" or "Hand" (Masculine).
-* **-ira / -vira:** "Light" or "Eye" (Feminine).
 
 ## 3. Name Etymologies
 
@@ -60,6 +49,10 @@ Linguistically, Aurouvian is tied heavily to the elements—fire, sky, deep wate
 **Aeian** *(Ae + ian)*
 *Meaning:* "Watcher of the Heavens."
 *Lore:* A softer variation of Aeion. Where Aeion is the light itself, Aeian is the scholar or priest who observes it. 
+
+**Aeien** *(Ae + ien)*
+*Meaning:* "The Sky's Breath," "Wanderer of the Heavens," or "Falling Star."
+*Lore:* The third variation of the Ae- masculine root. Its exact meaning shifts depending on context—it can mean a traveler who doesn't stay in one place, or a sharper, more martial "arrow from the sky."
 
 **Elyra** *(Ely + ra)*
 *Meaning:* "The Silver Voice" or "Song of the Twilight."
@@ -88,39 +81,3 @@ Linguistically, Aurouvian is tied heavily to the elements—fire, sky, deep wate
 **Qaenys** *(Qaen + ys)*
 *Meaning:* "Born of the Storm" or "The Lightning's Edge."
 *Lore:* A sharp, dangerous, volatile name. You give this name to a child you expect to be a warrior, someone who strikes fast and leaves ruin behind them.
-
-**Annaell** *(Ann + ae + ell)*
-*Meaning:* "The Silver Dawn" or "Beginning of Light."
-*Lore:* A soft, bell-like name that feels ancient and pristine. Often given to the first daughter born after a long winter or war.
-
-**Nymaella** *(Nym + ae + ella)*
-*Meaning:* "Little Shadow" or "Beloved of the Forest."
-*Lore:* A quiet, watchful name. It was traditionally given to girls who were born in the dead of night or during a new moon.
-
-**Vaelean** *(Vael + ean)*
-*Meaning:* "The Red Sky" or "Blood of the Heavens."
-*Lore:* An ancient martial name, often given to boys born during wartime under a red dawn. It carries the weight of sacrifice and fierce loyalty.
-
-**Thaeleys** *(Thae + leys)*
-*Meaning:* "Born of the Song" or "The Spoken History."
-*Lore:* A highly respected, scholarly name. In the old kingdom, a Thaeleys would have been expected to memorize the lineages and treaties of their house.
-
-**Baelalys** *(Bae + el + alys)*
-*Meaning:* "Tears of the Silver Winter."
-*Lore:* A haunting, melancholic name. Aurouvians did not shy away from grief, and a name like Baelalys was seen as a way of acknowledging hardship so it would not break you.
-
-**Kaeknor** *(Kae + k + nor)*
-*Meaning:* "Silver Spear Shield" or "The Unbroken Blade."
-*Lore:* A sharp, aggressive masculine name with a silent second 'k'. It implies not just a brutal fighter, but a graceful, peerless swordsman.
-
-**Ourys** *(Our + ys)*
-*Meaning:* "Born of Gold" or "The Sovereign Son."
-*Lore:* This is a strictly royal name in the old empire, likely an ancestor of Seraphine's line. It is grand, heavy, and meant to project absolute authority.
-
-**Rhaevira** *(Rhae + vira)*
-*Meaning:* "Eye of the Flame" or "The Star's Light."
-*Lore:* A brilliant, shining name. It implies someone who is a beacon or a guide. A beautiful alternative to Rhaenaya.
-
-**Ouraen** *(Aur/Our + aen)*
-*Meaning:* "The Golden Sky" or "High Heaven."
-*Lore:* A sweeping, majestic masculine name. It implies endless possibility and a commanding presence.

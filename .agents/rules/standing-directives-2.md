@@ -71,3 +71,4 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 **No "Price of Sorcery":** Never mention or hint at a "price" for the Brennan Cinder or sorcery in the text. Readers are meant to figure out the price of the blood ritual entirely on their own across the whole book series, or not at all.
 
 **Do not telegraph future deaths.** No scene may hint that a named character will die in the Twin War, the Frostglow War or any other future event. Characters live on the page with a future the reader believes in.
+> **Check geography before any campaign.** Before writing a march, siege, blockade, flight or war, write the route and the time using `geography-and-logistics.md`. No conflict between two regions that do not touch unless the chapter says what lies between them and what the army does about it. Ravens, riders and Nyxens use the speeds in that file.

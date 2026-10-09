@@ -56,7 +56,7 @@ Lords of rich, inward country at peace: largest levies because they have NOT bee
 
 **Argument:** "The late king gave us prosperity. We need another who keeps the peace."
 
-**Edric's signature deed:** Recently brought the NW island (visible top-left of the continent map) into the kingdom through diplomacy — no blood spilled. This echoes his father Rodrik, who was one of the most diplomatic kings the realm ever had. The island is proof that ink and patience win land that swords only burn.
+**Edric's signature deed:** Recently brought the northern island (top centre of the continent map, off the Vine Shore coast) into the kingdom through diplomacy — no blood spilled. This echoes his father Rodrik, who was one of the most diplomatic kings the realm ever had. The island is proof that ink and patience win land that swords only burn.
 
 ### Harwin (warrior) — QUALITY (The Border Shields)
 

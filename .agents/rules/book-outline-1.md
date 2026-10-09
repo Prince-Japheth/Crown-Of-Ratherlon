@@ -75,10 +75,10 @@ Both true: Edric's peace is real; Harwin's grit is real. Camps form from *which 
 
 ## WHY NO HEIR COMPETITION
 
-1. Rodrik will not settle it while he lives — naming one splits the realm early. Then dies unexpectedly on campaign with no named heir.
-2. A queen-mother cannot run a competence contest over adult princes. Both are of age, both riders, both with paramounts leaning. Elyn naming one = choosing a side.
-3. The "first to sire an heir" rumor is already poison.
-4. Readers who ask "why not a trial?" get this answer in lived politics, not a lecture.
+1. **The Opportunity of Choice:** In a feudal monarchy, a kingdom usually gets what it's given—if the firstborn is terrible, the realm suffers. Because the midwives mixed up the twins at birth while Rodrik was away at war, the "firstborn" rule was broken. Instead of a crisis, Rodrik saw this as a miraculous, unprecedented opportunity: he had two highly qualified, healthy sons, and for the first time in history, a king could actually *evaluate* them as they grew and choose the absolute best man for the realm.
+2. **The Tension of Uncertainty:** The tension in the book is NOT "a civil war is coming." The tension is the fascinating uncertainty of watching two princes excel in their distinct fields (ink vs. mud). The reader, the parents, and the realm get to evaluate them in real-time. Rodrik delays his choice because both are so incredibly qualified, and he wants to see who they truly become.
+3. **The Rise of Factions:** As Rodrik waits and evaluates, Harwin's martial exploits earn him a fierce following. The parents recognize Harwin is a bit rash and unpredictable, but still highly qualified. 
+4. **The Tragedy:** Rodrik's fatal mistake is that he evaluates them for too long and dies before making the final choice, leaving a realm that has already organically split its loyalties between the two exceptional princes.
 
 ## QUEEN ELYN'S FATE
 

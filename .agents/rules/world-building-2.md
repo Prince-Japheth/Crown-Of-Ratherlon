@@ -8,7 +8,7 @@
 
 **The Vine Shore (Varen):** Warm north. Harvest festivals, green glass, ships heavy with wine. Roselyn is this world's idea of spring. Killing her is killing the soft future Edric promised.
 
-**The Southfrost (Norvalen):** Winter rides up from here. Fur in months the Vine Shore wears linen. Iron, timber, and Frost-Glow. Tucked safely away at the bottom of the map, guarded by a massive wall of mountains. They are physically removed from the Ashen and Vaelcross threats and have no appetite for a devastating, aggressive war.
+**The Southfrost (Norvalen):** Winter rides up from here. Fur in months the Vine Shore wears linen. Iron, stunted-pine timber, and Frost-Glow. (Building pine only, never fuel; fuel timber was always bought from Deepwood.) Tucked safely away at the bottom of the map, guarded by a massive wall of mountains. They are physically removed from the Ashen and Vaelcross threats and have no appetite for a devastating, aggressive war.
 
 **The Western Shore (Tarnell):** Salt, rope, and ship-kings. They care about trade lanes more than which twin quotes better law. Dangerous neutrals.
 

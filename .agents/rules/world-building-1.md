@@ -28,7 +28,7 @@ Historically, the continent was unnamed. It had two distinct kingdoms on the far
 
 Ratherlon sits in the **middle of a wide continent** — very elongated east-west, the longest landmass on its axis. The kingdom of Ratherlon is the **longest kingdom** on this continent, bordered by other kingdoms (including the **Ashen Kingdom** / *the Ashlands* to the east, and unnamed **Western Kingdoms** to the west). 
 
-**Continent Scale & Travel Times (LOCKED):** The continent is massive, roughly the size of a horizontal Westeros (approx. 3,000 miles across). From the central capital of Foldhall to the Eastverge border is roughly 1,000 miles. 
+**Continent Scale & Travel Times (LOCKED):** The continent is massive, roughly the size of a horizontal Westeros (approx. 3,000 miles across). From the central capital of Foldhall to the Eastverge border is roughly 1,000 miles. (Read "Eastverge border" as the Eastverge's eastern frontier with the Ashen Kingdom; Foldhall to Eastgirt is about 770 miles straight and about 920 by road. Map scale: 1 pixel is about 1.42 miles. See geography-and-logistics.md.) 
 - **Infantry:** Marches at 15 miles a day through highland roads (takes ~60 days to reach the border).
 - **Nyxens:** Can cover the same 1,000 miles in about 3 days of sustained flying.
 This vast scale prevents "teleportation" logic errors. When armies march, it takes months. This massive discrepancy highlights the strategic dominance of Nyxen riders.

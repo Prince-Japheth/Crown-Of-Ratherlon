@@ -5,7 +5,7 @@ Words you may meet in the telling.
 49
 A
 
-Aldren. The regnal name taken by every crowned king of House Brennan in the Kingdom of Ratherlon. A man may be born Rodrik, or another name; once crowned, the realm calls him Aldren, with a number.
+Aldren. The regnal name taken by every crowned king of House Brennan in the Kingdom of Ratherlon. A prince may be born Rodrik, or another name; once crowned, the realm calls him Aldren, with a number.
 
 appanage. Land, rents, or a seat granted by the king to a younger child or close kin so they can keep their own household, without splitting the whole realm. The grantee still owes the crown.
 
@@ -70,6 +70,7 @@ Greywater. Tower and mill-lands on the upper Fold; seat of the cadet branch of H
 
 H
 
+Hallow Ford. A dry-stream crossing and waystation on the Eastverge road, six leagues west of the Redcut.
 holdfast. A strong dwelling or small fortified place; broader than castle.
 
 Hostage Hall. The part of Foldhall where Aldren I kept the heirs of great houses.
@@ -129,6 +130,8 @@ R
 Ratherlon. The kingdom’s formal name. Everyday speech often says only the realm. The land’s name is older than House Brennan; it stayed when the dynasty changed.
 
 realm, the. Everyday speech for the Kingdom of Ratherlon.
+
+Redcut, the. A dry river-gully in the eastern Eastverge, about sixty miles east of Eastgirt, where the Ashen road enters the Kelward lands. A watch-stone and holdfast stand above its narrows.
 
 reeve. A village officer appointed to manage the day-to-day running of a manor’s farmland. He tracks planting, debts, and small disputes on behalf of the lord. Not noble — a trusted commoner with local authority.
 
