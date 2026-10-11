@@ -12,15 +12,15 @@ Leofric underwent one of their cosmetic procedures. When the Aurouvian sorcerers
 
 **This was harmless magic.** A vain, beautiful, loving act. The Cinder is NOT the curse. It is a separate magical event with a separate moral weight.
 
-### Seraphine
+### Saeraphyn
 
-In Aurouvah he met a woman: **Seraphine.** Noble-born, ash-dark hair of her own (natural in Aurouvah, where the colouring was common among the highborn), and eyes of deep teal — the same blue-green that lived in the Brennan sigil. He fell in love instantly.
+In Aurouvah he met a woman: **Saeraphyn.** Noble-born, ash-dark hair of her own (natural in Aurouvah, where the colouring was common among the highborn), and eyes of deep teal — the same blue-green that lived in the Brennan sigil. He fell in love instantly.
 
-They married. Seraphine conceived. **Her first child died during birth** — a stillbirth or dead within moments.
+They married. Saeraphyn conceived. **Her first child died during birth** — a stillbirth or dead within moments.
 
-**The Aurouvian belief of rebirth:** The people of Aurouvah hold that a child who dies at birth passes its soul into the next child born to the same mother. This is not called superstition — it is a deeply held belief of a sophisticated magical culture, never proven false. Seraphine believed it. Her people believed it. Leofric, who had come to love Aurouvah and its ways, adopted the belief.
+**The Aurouvian belief of rebirth:** The people of Aurouvah hold that a child who dies at birth passes its soul into the next child born to the same mother. This is not called superstition — it is a deeply held belief of a sophisticated magical culture, never proven false. Saeraphyn believed it. Her people believed it. Leofric, who had come to love Aurouvah and its ways, adopted the belief.
 
-Seraphine conceived again and bore a living son. In Aurouvian tradition, this boy IS the first child — reincarnated, continuous, unbroken.
+Saeraphyn conceived again and bore a living son. In Aurouvian tradition, this boy IS the first child — reincarnated, continuous, unbroken.
 
 **But Leofric had doubts.** He knew the Nyxen scent runs through the body, not the soul. He knew that carrying a child nearly to term and losing it changes the mother's blood (the same way later pregnancies always produce weaker scent — the mother's body has been exposed). This living son might register to the Nyxens as a second child, not a first — weaker scent — regardless of what the Aurouvian beliefs said about his soul.
 
@@ -28,21 +28,21 @@ And even if the boy's scent was strong enough — there was still **Aldric** at 
 
 ### The Blood Ritual (the curse)
 
-Leofric could not accept it. He went to the Aurouvian sorcerers and asked for something far beyond cosmetic arts. He asked them to **transfer the heir's Nyxen scent from Aldric to Seraphine's living son.** To reach across the warm sea into his firstborn's blood and tear out the thing the Nyxens recognise — and give it to his love child instead.
+Leofric could not accept it. He went to the Aurouvian sorcerers and asked for something far beyond cosmetic arts. He asked them to **transfer the heir's Nyxen scent from Aldric to Saeraphyn's living son.** To reach across the warm sea into his firstborn's blood and tear out the thing the Nyxens recognise — and give it to his love child instead.
 
 **The sorcerers warned him.** They were forcing foreign magic onto a natural system they did not fully understand — the scent, the maternal inheritance, the way the blood governed itself. Layering sorcery onto something that had worked on its own for two hundred years would break something that could not be unbroken. Leofric paid them anyway.
 
-**The ritual worked. The extraction killed Aldric.** At Foldhall, a healthy child sickened and died of "fever" before his fourth nameday. No one connected it to anything. Across the sea, Seraphine's son now carried the full scent.
+**The ritual worked. The extraction killed Aldric.** At Foldhall, a healthy child sickened and died of "fever" before his fourth nameday. No one connected it to anything. Across the sea, Saeraphyn's son now carried the full scent.
 
 **Magic is never clean.**
 
 ### Leofric Returns
 
-Leofric sailed home with Seraphine and their son, back to a kingdom that had spent years grieving a vanished heir and now mourning a dead grandson. **When he returned, the realm barely recognised him.** Many swore it was an impostor — that the true prince had died in those distant northern lands. Leofric climbed down from his Nyxen looking like a living god. The Cinder magic had not merely changed his hair — it had seized upon the flawless beauty he already possessed, sharpened it, and burned it deeper into his flesh. The most beautiful prince in the realm had left; something almost unhuman had come back.
+Leofric sailed home with Saeraphyn and their son, back to a kingdom that had spent years grieving a vanished heir and now mourning a dead grandson. **When he returned, the realm barely recognised him.** Many swore it was an impostor — that the true prince had died in those distant northern lands. Leofric climbed down from his Nyxen looking like a living god. The Cinder magic had not merely changed his hair — it had seized upon the flawless beauty he already possessed, sharpened it, and burned it deeper into his flesh. The most beautiful prince in the realm had left; something almost unhuman had come back.
 
-The Nyxens accepted Seraphine's boy without hesitation. The court accepted what the beasts accepted — because in Ratherlon, the beasts had always been the final word.
+The Nyxens accepted Saeraphyn's boy without hesitation. The court accepted what the beasts accepted — because in Ratherlon, the beasts had always been the final word.
 
-Leofric was crowned. Seraphine became queen. The Cinder — his sentimental rider's tribute — and Seraphine's Aurouvian blood combined with the Brennan bloodline to produce the hereditary ash-charcoal hair that would mark every Aldren from III onward. **The magic did not stop at hair.** It enhanced the existing Brennan beauty and made that enhancement hereditary — every generation after carried not just the metallic ash-charcoal hair but an almost otherworldly physical beauty that set them visibly apart from every other house in the realm. This is why the Brennans look "almost unhuman" — too fair, too striking, like statues of ancient legends rather than men of common blood. The farmer's blood is real. The beauty was made permanent by foreign magic that rewrote what "Brennan" looked like forever.
+Leofric was crowned. Saeraphyn became queen. The Cinder — his sentimental rider's tribute — and Saeraphyn's Aurouvian blood combined with the Brennan bloodline to produce the hereditary ash-charcoal hair that would mark every Aldren from III onward. **The magic did not stop at hair.** It enhanced the existing Brennan beauty and made that enhancement hereditary — every generation after carried not just the metallic ash-charcoal hair but an almost otherworldly physical beauty that set them visibly apart from every other house in the realm. This is why the Brennans look "almost unhuman" — too fair, too striking, like statues of ancient legends rather than men of common blood. The farmer's blood is real. The beauty was made permanent by foreign magic that rewrote what "Brennan" looked like forever.
 
 ### The Brennan Cinder (inheritance)
 
@@ -50,7 +50,7 @@ Leofric was crowned. Seraphine became queen. The Cinder — his sentimental ride
 - Strongest in the firstborn heir of the direct line — full, vivid ash-charcoal with the sheen of forged iron, near-identical to their father's and his father's before him. The firstborn trait is so dominant it overrides the maternal contribution almost entirely
 - In second-born, third-born, and further siblings the Cinder blends with the mother's hair genetics — producing beautiful mixed tones that still carry a metallic radiance (dark brown shot through with steel, warm chestnut with a forged iron sheen, etc.) but not the pure ash-charcoal. The maternal colour shows through more with each step from firstborn
 - Fades further in cadet branches and distant cousins, until only a faint metallic lustre marks them as Brennan blood at all
-- **Seraphine's teal eyes** appear irregularly — not every heir, but often enough to be remarked upon when they surface
+- **Saeraphyn's teal eyes** appear irregularly — not every heir, but often enough to be remarked upon when they surface
 
 **In-world, people remember Aldren the Adventurous as a romantic figure** — the prince who flew across the sea and brought home a beautiful foreign queen. The ash-charcoal hair is a point of pride: "He loved his beast so much he wore its colours." No one in Ratherlon knows the truth. Only the readers know the cost.
 
@@ -75,12 +75,12 @@ The pattern: Leofric fled his pregnant wife and killed his own son with sorcery.
 
 ### The Aurouvian Reincarnation Belief
 
-Stays **ambiguous forever.** Never confirmed, never denied. The reader holds both frameworks — the natural (scent, maternal inheritance) and the spiritual (soul-passage) — and decides for themselves whether Seraphine's living son truly was the dead firstborn reborn. Leofric chose to believe it. The sorcerers neither confirmed nor denied. The Nyxens can't tell a soul from a scent.
+Stays **ambiguous forever.** Never confirmed, never denied. The reader holds both frameworks — the natural (scent, maternal inheritance) and the spiritual (soul-passage) — and decides for themselves whether Saeraphyn's living son truly was the dead firstborn reborn. Leofric chose to believe it. The sorcerers neither confirmed nor denied. The Nyxens can't tell a soul from a scent.
 
 ### The Aurouvian Language in House Brennan
 
-Seraphine brought her mother tongue to Foldhall, and it never left. The Brennan royal family speaks **Aurouvian** as a private language — passed down through generations not as statecraft or ceremony, but as family intimacy. Unlike the Targaryens with High Valyrian, the Brennans do not use Aurouvian to command their Nyxens or impress foreign courts. They use it among themselves: in the nursery, in whispered asides, in muttered profanity after council meetings. A brother swearing under his breath in Aurouvian while his sibling snorts because he understood every word.
+Saeraphyn brought her mother tongue to Foldhall, and it never left. The Brennan royal family speaks **Aurouvian** as a private language — passed down through generations not as statecraft or ceremony, but as family intimacy. Unlike the Targaryens with High Valyrian, the Brennans do not use Aurouvian to command their Nyxens or impress foreign courts. They use it among themselves: in the nursery, in whispered asides, in muttered profanity after council meetings. A brother swearing under his breath in Aurouvian while his sibling snorts because he understood every word.
 
-Leofric himself was terrible at the language — he mangled pronunciation and Seraphine laughed at him for it. The warmth of that comedy survived in the family long after both were gone.
+Leofric himself was terrible at the language — he mangled pronunciation and Saeraphyn laughed at him for it. The warmth of that comedy survived in the family long after both were gone.
 
 *(Continued in [world-building-4.md](world-building-4.md))*

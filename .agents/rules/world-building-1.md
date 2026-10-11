@@ -18,7 +18,7 @@ Historically, the continent was unnamed. It had two distinct kingdoms on the far
 2. **The Family Name:** The early border-lords of these crossroads became known as "lords of the Rather-Long," which eventually shortened in speech to the **Rathen** line.
 3. **The Kingdom:** As the Rathens eventually united this massive central chunk (through voluntary integration and alliances, never by conquest), they crowned it the **Kingdom of Ratherlon**.
 4. **The Synecdoche Conflict:** Because the central Kingdom of Ratherlon is so massive, dominant, and internationally recognized, outsiders and visitors began using "Ratherlon" as a synecdoche to refer to the *entire continent*.
-5. **The Erased Minorities:** The neighboring sovereign kingdoms (like the Ashen Kingdom to the east, and unnamed kingdoms to the west) absolutely hate this. While they fight wars for completely separate reasons (border security, resources, and fear of the centralized state), they deeply resent being lumped under the geographic umbrella of "Ratherlon," as it culturally erases their independent sovereign identity (similar to how people incorrectly call the entire UK "England," or the entire island of Hispaniola "The Dominican Republic").
+5. **The Erased Minorities:** The neighboring sovereign kingdoms (like the Ashen Kingdom to the east, and Vaelcross to the west) absolutely hate this. While they fight wars for completely separate reasons (border security, resources, and fear of the centralized state), they deeply resent being lumped under the geographic umbrella of "Ratherlon," as it culturally erases their independent sovereign identity. This is directly identical to how the continent of **Australia** contains the dominant mainland country of Australia alongside independent nations like New Zealand, Fiji, Papua New Guinea, and Samoa, yet people casually refer to the whole landmass as "Australia," erasing the sovereignty of its neighbors.
 
 **Today:** Continent = *Ratherlon* (informally/geographically). Kingdom = *Ratherlon*. Old dynasty = *House Rathen*. New dynasty = *House Brennan*, still kings *of Ratherlon* (Aldren I kept the kingdom's name for legitimacy).
 
@@ -61,29 +61,47 @@ Like Westeros in *function*, not in copy:
 
 ## PRE-RATHEN HISTORY & RATHEN ORIGIN
 
-**House Rathen's original name is lost.** They sailed from a distant land in the far northwest of the known world (beyond Vaelcross, not yet on the map). They landed in the Merelands — lakes, black soil, and no unified state to stop them.
+**The Dawn Age & The Golgathi (Dawn Giants):**
+Long before mortal men built timber forts or forged iron, Ratherlon was inhabited by **the Golgathi** (The Dawn Giants). Massive cyclopean gate-lintels in Southfrost, primeval standing barrow-rings in Deepwood, and colossal bones unearthed by farmers' plows attest to their ancient presence. Songs claim they vanished in an ancient world-deluge or earth-cataclysm, leaving the continent to scattered human tribes.
 
-**Why they expanded outwards into the fragmented interior:**
+**The Great Silence (~1,000 Years Ago):**
+In the earliest fragments of Ratherlon's annals—centuries before House Rathen sailed—chronicles record the *Still Dawn*. Prior to that spring, ancient lore claimed the gods actively murmured from caves and shook the earth. On a single recorded spring day roughly a thousand years ago, every oracle across the continent went dumb. Since that day, no god has spoken aloud, leaving the realms to survive purely on memory, written rolls, and knightly vows.
+
+**The Age of Petty Realms (The Pre-Rathen Era):**
+Before the Rathens arrived, Ratherlon had no unified kingdom. Much like Westeros during the Age of the Hundred Kingdoms, it was a fragmented patchwork of hundreds of petty realms ruled by local headmen, chieftains, and regional councils. There was no established system of knighthood, and the scattered peoples practiced various local animist faiths, worshipping different gods.
+
+However, in the far west along the borders of the ancient **Vaelcross Kingdom**, the **Faith of Vael** had already begun spreading eastward. Its religious structure, written laws, and cultural influence were gradually reaching the westernmost borders of Ratherlon.
+
+**The Rathen Arrival & Strategic Conversion:**
+House Rathen's original name is lost. They sailed from a distant land in the far northwest of the known world (beyond Vaelcross, not yet on the map) and arrived in the north-west of Ratherlon without a faith of their own. They looked down upon the predominant local folk-faith of the Merelands where they first settled, but immediately recognized the immense political and administrative potential of the **Faith of Vael** and its established religious hierarchy (the literate Lectors, written law, and sacred oaths). 
+
+Seeking to ally themselves with the local petty rulers, the Rathens adopted the Faith of Vael, using its existing religious hierarchy and moral authority to bring the fragmented realms together under a single crown.
+
+**Diplomatic Expansion (The Accidental Superpower):**
+Their strategy succeeded. Through political alliances and the gradual absorption of neighbouring territories, the Rathens consolidated their influence across the Merelands until they reached the borders of other established powers:
 - West: Vaelcross — a functioning kingdom with army, king, fortified settlements, established borders. Attacking it was unrealistic.
-- East/inland: Ashen Kingdom — another established kingdom.
-- The interior: Between these two lay politically fragmented land. Villages, farming communities, local headmen, regional councils — no unified state capable of resisting incorporation.
+- East/inland: Ashen Kingdom — another established foreign kingdom.
+- The interior: A political vacuum of fragmented communities. Rather than conquering these lands outright, the Rathens offered the mutual benefits of being under one crown—protection, written law, trade, and political organization—incorporating them through diplomacy and voluntary integration over generations.
 
-**The expansion was gradual, entirely voluntary, and never a conquest plan.** Over generations:
-- Communities joined for protection, law, trade, and political organization
-- Headmen swore allegiance because unity made life better, not because swords compelled them
-- No one was forced, defeated, or coerced into joining — the Rathens did not fight their way outwards
-- The Rathens simply offered what fragmented communities could not provide alone, and people chose it
+**The Origin of Knighthood in Ratherlon:**
+Under the first Rathen king's reign, the **first knights of Ratherlon** were formally established. Knighthood became the primary institution through which the kingdom extended its influence eastwards, carrying its political authority, chivalric traditions, and religious structure into new territories.
 
-**Expansion order (over generations):** Merelands (landing point) → Western Shore & Deepwood (securing the western and southern flanks) → Vine Shore & Rivermark (moving east) → Southfrost (securing the far south) → Eastverge (reaching the eastern border). Seven regions under the Rathen crown, expanding in all directions until they hit the hard borders of Vaelcross and Ashen.
+As the kingdom expanded, the Faith of Vael spread with it. More realms adopted the faith and its institutions, drawn to the order, stability, and unity they offered in a continent that had once been divided among hundreds of petty kingdoms. Over time, the faith became dominant throughout Ratherlon, and the fragmented realms gradually developed into the massive unified kingdom it would eventually become.
 
-**The accidental superpower:** The Rathens didn't set out to build an empire. They entered the political vacuum because it was available. But by the time they finished, they had accidentally created the largest centralized state on the continent.
+**Religious Harmony in the South:**
+While the Rathens brought the Faith of Vael and knighthood across the Merelands, Western Shore, Vine Shore, and Rivermark, they never attempted to change the south. When forming alliances with **Deepwood** and **Southfrost**, the Rathens respected the indigenous **Faith of the Deep**, allowing House Selborn and House Norvalen to swear fealty on their own ancient oath-stones rather than before Sanctuaries of Vael. Southfrost developed its own formidable order of heavy cavalry (the **Winter Knights** sworn on the Deep Stone and cold iron), while Deepwood fought on foot with axes and bows.
 
-**Before Ratherlon:** Ashen Kingdom | scattered communities | Vaelcross Kingdom
-**After Ratherlon:** Ashen Kingdom | massive unified kingdom | Vaelcross Kingdom
+**The Balance of Power & The Vaelcross Schism:**
+- **Before Ratherlon:** Ashen Kingdom | scattered petty communities | Vaelcross Kingdom
+- **After Ratherlon:** Ashen Kingdom | massive unified kingdom | Vaelcross Kingdom
+Neither neighbor had cared about the fragmented interior. Now both had an enormous foreign power on their border. *"We should have dealt with this before it became a kingdom,"* became the essential Ashen and Vaelcross calculation, arrived at too late.
 
-This changed the balance of power overnight. Neither neighbor had cared about the fragmented interior. Now both had an enormous foreign kingdom on their border. They didn't necessarily want to conquer Ratherlon — they wanted to contain it: border territory, river control, port access, trade privileges, buffer zones, tribute, preventing Ratherlon from becoming dominant. Centuries of border friction without requiring either neighbor to attempt full conquest.
-
-*"We should have dealt with this before it became a kingdom."* — the essential Ashen and Vaelcross calculation, arrived at too late.
+**Theology of War & The Vaelcross Schism:**
+- *When Ratherlon regions fight each other:* They handle it the exact same way real-world medieval nations did: both sides believe Vael is completely on their side, and that Vael will grant victory to whichever cause is righteous.
+- *When Ratherlon goes to war with Vaelcross:* Because they share the same faith, both claim divine backing, but **Vaelcross views Ratherlon with bitter ideological contempt**:
+  - **"Trimming the Weed" & Faith-Boosted Pride:** Vaelcross believes the faith is theirs by divine birthright and only borrowed and corrupted by Ratherlon. Like a chosen people believing the land was promised to them, Vaelcross believes all lands under Vael rightfully belong to their crown. Their pride is almost absurd: a smaller kingdom persistently trying to conquer an empire whose individual regions (like the Merelands or Deepwood) are almost as large as Vaelcross itself! This audacious confidence is entirely fueled by fanatical faith—they genuinely believe Vael will grant divine victory to their pure, uncorrupted altars over the bloated, bastard empire next door.
+  - **Mini-Successes That Never Last:** Throughout the centuries, Vaelcross has had short-lived, mini-successes from time to time—sacking a border watch-keep, burning a Western Shore wharf, or occupying a strip of the Merelands for a summer or two during Ratherlon's internal crises (such as the Reed Summer). But their victories never last; Ratherlon's sheer mass and armies inevitably push them back across the frontier.
+  - **Ratherlon's Retort ("The Bastard's Inheritance"):** In all their holy crusades, Vaelcross has never once managed to break Ratherlon. Sometime during the Rathen era and reinforced under the Brennans, Ratherlon's kings and Lectors threw this boast directly in Vaelcross's face: *"You call us bastards? You claim Vael is yours alone? In every war you marched against us, your lances shattered against our gates. If we are bastards, then Vael grew disgusted with your withered pride, abandoned your altars, and chose the bastard to inherit the earth!"*
 
 **The 8th region — the Crownfold:** When the Great Civil War broke out (~Y200) and Aldren I (Torrhen Brennan) ended it, he was crowned king. The Rathens had ruled 7 regions. Aldren I carved an 8th — the Crownfold — by taking a strip of land from every surrounding region, creating a neutral royal district at the heart of the kingdom. The Brennan family's Foldstead (farm + Nyxen roosts) was already there. The farmer's fields became the seat of the new dynasty.
 

@@ -8,10 +8,10 @@ description: "Continuation of standing directives"
 **Brennan hereditary feature — The Brennan Cinder (REPLACES old "Brennan Copper" and "no hereditary feature" rules):**
 - Radiant ash-charcoal hair with a forged iron sheen: not black, not grey — a deep, luminous dark, as if each strand held a cold fire
 - Leofric (Aldren III) chose the color to match his Nyxen's rare ash-charcoal coat; the Aurouvian sorcerers made it permanent as a harmless cosmetic rider's tribute
-- **The Cinder is NOT the curse.** Two separate magical acts: (1) the Cinder — harmless cosmetic, a vain and loving tribute; (2) the blood ritual — sorcery that transferred the Nyxen heir-scent from Aldric (Leofric's firstborn by Elen of Varen) to Seraphine's son, killing Aldric in the process. The blood ritual is the curse. The Cinder just looks like it.
+- **The Cinder is NOT the curse.** Two separate magical acts: (1) the Cinder — harmless cosmetic, a vain and loving tribute; (2) the blood ritual — sorcery that transferred the Nyxen heir-scent from Aldric (Leofric's firstborn by Elen of Varen) to Saeraphyn's son, killing Aldric in the process. The blood ritual is the curse. The Cinder just looks like it.
 - Inheritance pattern mirrors the Nyxen riding trait: strongest in the firstborn heir (full, vivid ash-charcoal with sheen of forged iron, near-identical to their father's), weaker in younger siblings where it blends with the mother's hair genetics — producing beautiful gradients and mixed tones (dark brown shot through with steel, warm chestnut with a metallic radiance, etc.) that still mark them unmistakably Brennan. Fades further in cadet branches and distant cousins
 - Every crowned Aldren from III onward carries the ash-charcoal hair at full intensity — the firstborn trait is so dominant it overrides the maternal contribution almost entirely
-- Seraphine's teal eyes appear irregularly in the line — not guaranteed, but often enough to be noted
+- Saeraphyn's teal eyes appear irregularly in the line — not guaranteed, but often enough to be noted
 - The blood ritual broke the natural maternal inheritance system: every succession crisis after Aldren III is the curse manifesting (deep lore only — characters do not know this)
 - In-world, the Brennan Cinder is a point of pride ("He loved his beast so much he wore its colours"); readers see it as the visible mark of a cursed house
 - **Aldric Brennan:** Leofric's firstborn by Elen, born at Foldhall, killed by the blood ritual extraction ("childhood fever"). The Varens remember.
@@ -27,9 +27,9 @@ The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by
 6. Gareth (sixth-born, last) — Deep warm brown with only a ghost of metallic sheen — visible only when light hits at an angle, a fleeting silver flash like a fish turning beneath dark water.
 
 **The Aurouvian language in House Brennan:**
-- Seraphine brought her mother tongue to Foldhall; the royal family still speaks Aurouvian as a private language
+- Saeraphyn brought her mother tongue to Foldhall; the royal family still speaks Aurouvian as a private language
 - Used for intimacy, whispered asides, muttered profanity after council meetings — NOT for ceremony, statecraft, or commanding Nyxens
-- Leofric was terrible at pronunciation; Seraphine laughed at him for it
+- Leofric was terrible at pronunciation; Saeraphyn laughed at him for it
 - Comedy and warmth, not gravity — brothers swearing under their breath in Aurouvian while siblings snort
 
 **Naming convention (ASOIAF rules for "of"):**
@@ -38,7 +38,7 @@ The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by
 - **"FirstName of SeatName"** — refers to the castle/seat, NOT the family: "Arya of Winterfell," "Elyn of Stillford." Valid when emphasising where someone is from.
 - **NEVER "FirstName of HouseName"** without "House" — "Hilda of Dorsen" is wrong because it reads as "Hilda of [the castle Dorsen]" and Dorsen is not the castle (Rivermark is). If using "of," always include "House."
 - Commoners from villages: "Mera of the Fold," "Bess of Quenby" — fine, they are literally "of" that place.
-- Foreign nationals: "Seraphine of Aurouvah" — fine, foreign kingdom.
+- Foreign nationals: "Saeraphyn of Aurouvah" — fine, foreign kingdom.
 
 **Language rule: no anachronistic vocabulary in prose.** Words that did not exist in the medieval period must not appear in narrative text. Known banned words:
 - **"biological"** — use "natural" or equivalent
@@ -72,3 +72,4 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 
 **Do not telegraph future deaths.** No scene may hint that a named character will die in the Twin War, the Frostglow War or any other future event. Characters live on the page with a future the reader believes in.
 > **Check geography before any campaign.** Before writing a march, siege, blockade, flight or war, write the route and the time using `geography-and-logistics.md`. No conflict between two regions that do not touch unless the chapter says what lies between them and what the army does about it. Ravens, riders and Nyxens use the speeds in that file.
+> **Faith guardrails.** The book never says whether any power is real and never shows one as good. No deity speaks, appears or acts on the page, no miracle is confirmed, and the narrator never calls anything holy. Use `faiths-of-ratherlon.md` for the traditions and the vocabulary swaps. Never write the words Watchers, elohim, angel or demon.

@@ -55,7 +55,7 @@ Three sworn swords assigned to the named heir. Green cloaks with a **silver** cr
 
 ## FOLDHALL DETAILS
 
-Slate stone ramparts, eastern cliff-barns (roost yards for Nyxens), a solar, a yard, a lesser hall, a gate, a sept-yard. Wakes "ovens first, then the yard, then the roosts." Petition ribbons (color-coded). Lesser hall used for minor court business.
+Slate stone ramparts, eastern cliff-barns (roost yards for Nyxens), a solar, a yard, a lesser hall, a gate, an oath-yard. Wakes "ovens first, then the yard, then the roosts." Petition ribbons (color-coded). Lesser hall used for minor court business.
 
 ## NAMING RULES
 
@@ -92,7 +92,7 @@ Slate stone ramparts, eastern cliff-barns (roost yards for Nyxens), a solar, a y
 
 ### Inventor & Origin
 
-**Aldren III (the Adventurous) brought the call-pipe concept from Aurouvah.** During his years abroad, Leofric saw Aurouvian beast-keepers summon specific creatures from miles away using tuned mouth instruments whose tones encoded identity. He brought the idea home alongside Seraphine and the Cinder. Upon his restoration as king, he commissioned the first call-pipes for the Brennan riders.
+**Aldren III (the Adventurous) brought the call-pipe concept from Aurouvah.** During his years abroad, Leofric saw Aurouvian beast-keepers summon specific creatures from miles away using tuned mouth instruments whose tones encoded identity. He brought the idea home alongside Saeraphyn and the Cinder. Upon his restoration as king, he commissioned the first call-pipes for the Brennan riders.
 
 **The Maester of Foldhall engineered the craft.** Maesters are an ancient institution in Ratherlon, predating any Brennan king (like the Citadel predates Aegon). What Aldren III imported was the concept; the Maester solved the acoustics — boring the interior, cutting protruding notches whose count shapes the harmonic. Only the Maester of Foldhall holds the bore geometry and notching technique. The knowledge passes by oral apprenticeship, Maester to Maester. No written blueprint exists.
 
@@ -113,6 +113,8 @@ Certain notch-counts produce a tone so pure that even the human ear hears the di
 **Twin War political cue:** When the twins receive their ordinals, if one twin's count falls on a fair number, partisans will seize the coincidence as proof of divine favor — "even his pipe sings true." The Sunfyre principle: the world deals coincidences; people weaponize them into legitimacy. **Which twin: TBD with ordinal map.**
 
 ### Remake, Theft & Death Rules
+
+- **The Heir's Cage (War Tradition):** The Brennans have an unspoken tradition: because the crown relies on air superiority, a reigning king will bring his younger riding children with him to war for air support. However, he will **strictly forbid the heir** from riding to battle, terrified of losing the fragile firstborn Nyxen-scent lineage. This creates a deeply toxic family dynamic: the heir feels restless, emasculated, and jealous of being locked in Foldhall's halls while their siblings earn glory. Meanwhile, the younger siblings feel a bitter envy, realizing their father treats them as disposable weapons of war who can die in the mud, while guarding his "precious" heir at all costs. (This perfectly explains why Rodrik, the moment he becomes king, rushes out to fight his own wars—he spent his youth locked up while his father dragged Edwyn, Elyra, and Gareth to the borders. It also explains why Rodrik breaks this exact tradition by refusing to stop Harwin from fighting, not wanting to inflict the same cage on his son.)
 
 - **Rider dies:** The pipe is kept in the Foldhall armoury as a relic. Never destroyed, never reassigned. The ordinal is retired permanently.
 - **Pipe lost:** A replacement is made by the Maester of Foldhall — same ordinal, same notch-count, same tone. But this barely ever happens; pipes are kept close and rarely leave a rider's person.

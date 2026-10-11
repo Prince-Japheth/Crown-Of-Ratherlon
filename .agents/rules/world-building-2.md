@@ -26,7 +26,7 @@
 - **Western Shore → Vaelcross Kingdom** (folk: *Vaelcross*): western neighbor. Already a functioning kingdom when the Rathens arrived. Same containment logic as Ashen — once the scattered interior became Ratherlon, the strategic calculation changed. The Rathens could not attack Vaelcross; now Vaelcross watches the kingdom that grew between it and Ashen.
 - **Southern ice / reaver pressure** beyond Norvalen
 - **Warm Sea / trade crowns** beyond northern water: name when plot needs; do not invent a "Reach"
-- **Aurouvah** — wealthy kingdom on the far continent across the warm sea. Ancient magic ranging from permanent cosmetic arts (hair, eyes, bone structure) to deeper rituals that can reach into blood itself. Great riches and beauty. Where Aldren III (Leofric the Adventurous) fled, received the Cinder (cosmetic), married Seraphine, and commissioned the blood ritual that killed his firstborn Aldric and cursed the Brennan line. The Aurouvian belief of rebirth (a child who dies at birth passes its soul to the next) is deeply held and never disproven. Ratherlon has limited contact with Aurouvah — traders know of it, but few have crossed the warm sea and returned. The Brennan royal family still speaks Aurouvian as a private tongue, inherited from Seraphine
+- **Aurouvah** — wealthy kingdom on the far continent across the warm sea. Ancient magic ranging from permanent cosmetic arts (hair, eyes, bone structure) to deeper rituals that can reach into blood itself. Great riches and beauty. Where Aldren III (Leofric the Adventurous) fled, received the Cinder (cosmetic), married Saeraphyn, and commissioned the blood ritual that killed his firstborn Aldric and cursed the Brennan line. The Aurouvian belief of rebirth (a child who dies at birth passes its soul to the next) is deeply held and never disproven. Ratherlon has limited contact with Aurouvah — traders know of it, but few have crossed the warm sea and returned. The Brennan royal family still speaks Aurouvian as a private tongue, inherited from Saeraphyn
 
 Do not overbuild foreign courts in early chapters. Border *fear* can show; firedrakes wait until the Opening.
 
@@ -55,7 +55,7 @@ Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→tw
 |------|-----------|-------|---------------|
 | Aldren I | Torrhen | Lysa | Kelward |
 | Aldren II | — | Maris | Rathen |
-| Aldren III | Leofric ("the Adventurous") | Seraphine | Aurouvah (foreign); first wife Elen of Varen (consummated, bore Aldric, died by ritual) |
+| Aldren III | Leofric ("the Adventurous") | Saeraphyn | Aurouvah (foreign); first wife Elen of Varen (consummated, bore Aldric, died by ritual) |
 | Aldren IV | — | Hilda | Dorsen |
 | Aldren V | — | Catelyn | Rathen |
 | (Queen Seren) | — | Corwyn | Yarben (husband) |

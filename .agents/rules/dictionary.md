@@ -5,6 +5,10 @@ Words you may meet in the telling.
 49
 A
 
+Aeian. Private Aurouvian name Rodrik gave the white-ribbon twin (Harwin). Rendered "Reader of the Heavens."
+
+Aeion. Private Aurouvian name Rodrik gave the blue-ribbon twin (Edric). Rendered "Shield of the Heavens" or "Son of the Sky."
+
 Aldren. The regnal name taken by every crowned king of House Brennan in the Kingdom of Ratherlon. a prince may be born Rodrik, or another name; once crowned, the realm calls him Aldren, with a number.
 
 appanage. Land, rents, or a seat granted by the king to a younger child or close kin so they can keep their own household, without splitting the whole realm. The grantee still owes the crown.
@@ -34,6 +38,9 @@ D
 Deepwood, the. Southern forest country under the mountain shadow; seat of House Selborn at Pinefall.
 
 demesne. Land held directly by a duke or the king, not merely watched over through lesser vassals.
+
+destrier. A heavy, spirited warhorse bred for armored knights and the charge.
+
 duke. The head of a great house; highest rank beneath the king. A duke rules his seat and the wide country around it.
 
 E
@@ -45,6 +52,8 @@ Eastverge, the. Dry eastern frontier of towers and gullies. Beyond it lies the A
 F
 
 Follhall. The royal seat of House Brennan: castle, household, and the city tight about them.
+
+Forty-days feast. The feast on the fortieth day after a lying-in, when the mother is shown to the dead in the oath-yard.
 
 smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkeepers — anyone without noble blood or title. Also called commonfolk.
 
@@ -71,6 +80,8 @@ Greywater. Tower and mill-lands on the upper Fold; seat of the cadet branch of H
 H
 
 Hallow Ford. A dry-stream crossing and waystation on the Eastverge road, six leagues west of the Redcut.
+Hearth-keeper. An old widow who tends the great hearth in the oath-yard. Has no authority.
+
 holdfast. A strong dwelling or small fortified place; broader than castle.
 
 Hostage Hall. The part of Foldhall where Aldren I kept the heirs of great houses.
@@ -149,9 +160,11 @@ roost-cold. The chill left on a bed when someone rose early and went out to the 
 
 S
 
+scion. A descendant or heir of a noble house. Often used to refer to the younger children, cousins, or cadet branch members of a great lineage who carry the blood but not the primary title.
+
 seat. A house’s chief home, the castle or hall from which it rules.
 
-sept-yard. The open yard or walk beside Foldhall’s place of worship. People cut across it on errands; it is not only for prayer.
+oath-yard. The walled burial ground and oath ground beside Foldhall’s hearth-hall, where the dead are laid and oaths sworn on bread and salt.
 shout upwind. To call so the wind carries your voice toward someone. A half-joke for go find him where the beasts are.
 
 shutters. Wooden panels that close over a window. Open for air and light; shut against cold, storm, or night.
@@ -161,6 +174,8 @@ sigil. A house’s badge on banners, shields, and seals. House Brennan’s sigil
 Skarholt. Seat of the traitor lord of western Southfrost; home of the Weeping Vein mine.
 
 solar. A private upper chamber in a castle, often well-lit, used by the lord or lady for quiet work and family, not the great hall.
+
+Southerlin. A slur for a Southerner, used by hostile neighbors. Polite people say Southerner.
 
 Southfrost, the. Cold southern mountain country; seat of House Norvalen at Frostholt. Winter comes from this direction.
 

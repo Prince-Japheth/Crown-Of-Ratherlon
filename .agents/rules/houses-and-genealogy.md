@@ -99,10 +99,10 @@ ALDREN I (Torrhen) = Lysa Kelward
  |
  ├─ ALDREN II = Maris Rathen
  │   |
- │   ├─ ALDREN III (Leofric "the Adventurous") = (1st) Elen Varen; (2nd) Seraphine of Aurouvah
+ │   ├─ ALDREN III (Leofric "the Adventurous") = (1st) Elen Varen; (2nd) Saeraphyn of Aurouvah
  │   │   |
  │   │   ├─ Aldric Brennan (by Elen; born Foldhall; d. "fever" — killed by blood ritual)
- │   │   ├─ ALDREN IV (by Seraphine) = Hilda Dorsen
+ │   │   ├─ ALDREN IV (by Saeraphyn) = Hilda Dorsen
  │   │   │   |
  │   │   │   ├─ ALDREN V = Catelyn Rathen        [Book 2 father]
  │   │   │   ├─ Elaena = Damon Varen

@@ -40,7 +40,7 @@ Use sparingly. Not every chapter. When a passage of living history would teach t
 
 ### Realm
 - [ ] Bannermen lists for each great house (use name bank)
-- [ ] Faith / religion (leaned away from copy-paste Christianity, still undefined)
+- [x] Faith / religion: decided, see faiths-of-ratherlon.md
 - [ ] Drawn map art
 - [ ] Appanage: who gets first (Rowan / Edwyn / Elyra / Gareth or later kin)
 - [x] Decided: see ashen-wars-and-firedrakes.md

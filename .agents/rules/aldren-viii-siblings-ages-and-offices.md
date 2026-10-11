@@ -81,4 +81,4 @@ See `corrections-round-11.md` for three small edits (Simon's age, Gareth's age, 
 
 ## 7. Death variety (new standing rule)
 
-The canon already has several deaths by sickness (Aldren VIII's "violent stomach illness," Seren's winter fever). **Do not give any further named character a death by illness unless the story needs it.** Use accidents (Lansor), battle (Jonos, Aldren I, Aldren VI), murder, drowning, falls, exposure, poison, childbirth (Rowan's wife, already canon), or being killed by a person.
+The canon already has several deaths by sickness (Aldren VIII's "violent stomach illness," Seren's winter fever). **Do not give any further named character a death by illness unless the story needs it.** Use accidents (Lansor), battle (Jonos, Aldren I, Aldren VI), murder, drowning, falls, exposure, poison, childbirth (Rowan's wife, which occurs on the page during Book 1), or being killed by a person.

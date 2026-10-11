@@ -23,7 +23,7 @@ Nyxens are naturally gentle creatures and hesitated to use their kill-roars agai
 
 ## NYXEN ANATOMY
 
-**Appearance:** "Basically Syrax from HOTD but with fur instead of scales and a bat head." Four-limbed wyvern (NOT six-limbed dragon). Wyvern-style winged forearms with strong clawed knuckles for ground support. Long furred tail. Bat-like upright pointed ears, short dignified muzzle, dark intelligent eyes. Dense thick fur (tawny-gold, wheat-tan, or slate-brown/cinder-grey).
+**Appearance:** "Basically Syrax from HOTD but with fur instead of scales and a bat head." Four-limbed wyvern (NOT six-limbed dragon). Wyvern-style winged forearms with strong clawed knuckles for ground support. Long furred tail. Bat-like upright pointed ears, short dignified muzzle, dark intelligent eyes. Dense thick fur. **Coat patterns and colors:** Just like cats have entirely unique coats (tabby, solid, calico, tortoiseshell, rosetted), Nyxens have wildly varied and highly unique coat patterns. While solid tawny-gold and wheat-tan are common (just like ginger in cats), Nyxens can be heavily spotted, distinctly striped, mottled, or bear striking asymmetric gradients and markings.
 
 **Size:** Pups start near Golden Retriever puppy size (bigger counting folded wingspan). Adults large enough to carry a human rider.
 

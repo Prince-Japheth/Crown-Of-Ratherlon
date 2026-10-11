@@ -60,7 +60,7 @@ At no time in 260 years has the realm gone more than about 35 years without a na
 
 ## 4. The Nyxenless king: Aldren IV, the Grounded King
 
-- Son of Leofric and Seraphine. Grew up in the shadow of a father who flew across the sea and left his mother weeping.
+- Son of Leofric and Saeraphyn. Grew up in the shadow of a father who flew across the sea and left his mother weeping.
 - At nineteen, flying with his first Nyxen **Fennel** over the Rivermark, he fell. Fennel caught him badly and broke a forelimb in doing so. The beast lived and never flew again. Aldren IV broke three ribs and, worse, his nerve. He developed a terror of heights.
 - He **refused a second Nyxen**, saying he would not replace a friend. The old beast lived in the Foldhall roosts until it died, and the king visited it every morning.
 - He never flew to war in his lifetime. His brother, **Prince Hallan**, flew in his stead and was the realm's real sword. The crown relied on ground heavy cavalry and loaned knights, above all the **Winter Knights** of the South, whose prestige grew in these years.

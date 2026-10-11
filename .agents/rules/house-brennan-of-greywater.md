@@ -9,13 +9,13 @@ Names and place names are placeholders.
 
 ## Origin
 
-- Founded by **Garlan Brennan**, the younger brother of **Aldren IV**. `houses-and-genealogy.md` already has him: Garlan, third child of Aldren III and Seraphine, married to **Mina Selborn**.
+- Founded by **Garlan Brennan**, the younger brother of **Aldren IV**. `houses-and-genealogy.md` already has him: Garlan, third child of Aldren III and Saeraphyn, married to **Mina Selborn**.
 - Aldren IV was the Grounded King (see `brennan-kings-and-internal-strife.md`). Garlan flew the royal Nyxen in his brother's place and was the realm's real sword for thirty years.
 - When the Three Dukes' Quarrel ended, Garlan refused the regency that some lords urged on him. He said he would not take a crown his brother was still alive to wear. Aldren IV rewarded him with a tower and mill-lands on the upper Fold, a day's ride north of Foldhall: **Greywater**. Garlan's sons kept the surname **Brennan** by royal licence, which is why the branch has never become Selborn. (The tree shows Garlan's marriage but not this.)
 
 ## What they kept and what they lost
 
-- **Aurouvian.** Seraphine lived into old age and raised Garlan's children as her favorites. The Greywater Brennans have spoken Aurouvian at home ever since, and they alone outside the royal family still do.
+- **Aurouvian.** Saeraphyn lived into old age and raised Garlan's children as her favorites. The Greywater Brennans have spoken Aurouvian at home ever since, and they alone outside the royal family still do.
 - **The drift.** Two hundred years apart, their Aurouvian and the royal family's have drifted. The Greywaters speak the older, gentler form. Royal brothers who swear in Aurouvian at one another in public have sometimes been answered, politely and in the same tongue, by a cousin standing six feet away.
 - **The Cinder.** Gone. A Greywater Brennan's hair is a plain dark brown that, in strong sun, shows a faint warm umber. It is a ghost of the family color, and people notice it only if they are looking for it.
 - **The scent.** Gone for five generations. No Greywater has bonded with a Nyxen in living memory.
