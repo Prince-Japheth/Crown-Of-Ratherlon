@@ -10,7 +10,9 @@ metadata:
 
 **Slim-tree rule (locked):** Keep the royal line lean (Aegon→Rhaenyra density). Do not phone-book every cousin. Name riders only when story needs them.
 
-**Call-pipe:** Numbered pipes begin under Aldren I. Ordinal map TBD.
+**Reading old trees:** Any tree link older than Aldren VII is a line of descent with unnamed generations omitted, not a parent-child step. Example: Symond Kelward and Jocelyn of Brennan (born about Y-185) cannot be the parents of Jonos (born Y-73). Only the ages in aldren-viii-siblings-ages-and-offices.md are fixed.
+
+**Call-pipe:** Numbered pipes begin under Aldren III (Ordinal 1). Aldren I and II are riders of the old way. Ordinal map TBD.
 
 **Spoiler rule:** Births and marriages only. No who wins which war.
 

@@ -164,7 +164,7 @@ Beats: Failed almost-parley → Battle; twins fall together; one body comes back
 | G | Outside the family: Kingsguard, handlers, lords, ladies, soldiers, smallfolk | Part I regularly, then wherever the war needs a witness |
 | End only | Aldren X / Elowen | Final chapter only |
 
-**Rule: After two royal-family chapters in a row, the next chapter has a non-Brennan POV** (not counting Elyn's Rathen eye as an outsider's, since she lives inside the royal household).
+**Rule:** never more than two household POV chapters in a row. If a birth, death or crisis forces a longer run, the next three chapters are outsiders. See death-design-and-pov-rotation.md.
 
 Suggested roster, each with a canon anchor:
 
@@ -181,15 +181,27 @@ Suggested roster, each with a canon anchor:
 
 Current sequence:
 
-| Slot | POV | State |
-|------|-----|-------|
-| 4 | Elyra | done, Brennan |
-| 5 | Rowan | done, Brennan |
-| 6 | Corren | done, outsider |
-| 7 | Wynn | done, outsider |
-| 8 | Lord Merecroft | done, outsider |
-| 9 | Lady Isolde Yarben | done, outsider |
-| 10 | A Kelward sergeant at the watch-stone | next suggested |
+| Slot | POV | Kind |
+|------|-----|------|
+| 1 | Elyn | household |
+| 2 | Rodrik | household |
+| 3 | Elyra | household |
+| 4 | Elyra | household (Redcut, first half) |
+| 5 | Rowan | household |
+| 6 | Corren | outsider |
+| 7 | Wynn | outsider |
+| 8 | Hamo Merecroft | outsider |
+| 9 | Isolde Yarben | outsider |
+| 10 | Simon Kelward | outsider |
+| 11 | Elyra | household (Redcut, second half) |
+| 12 | Elyn | household |
+| 13 | Elyn | household |
+| 14 | Rowan | household |
+| 15 | Edwyn | household |
+| 16 | Alton Kelward | outsider |
+| 17 | Harrun | outsider |
+| 18 | Isolde Yarben | outsider (next) |
+| 19 | Wynn | outsider (next) |
 
 Part I may use short place chapters (Vine Shore harvest, Kelward watchtower) without permanent POV characters.
 

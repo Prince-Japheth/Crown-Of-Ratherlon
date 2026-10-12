@@ -9,7 +9,7 @@ Aeian. Private Aurouvian name Rodrik gave the white-ribbon twin (Harwin). Render
 
 Aeion. Private Aurouvian name Rodrik gave the blue-ribbon twin (Edric). Rendered "Shield of the Heavens" or "Son of the Sky."
 
-Aldren. The regnal name taken by every crowned king of House Brennan in the Kingdom of Ratherlon. a prince may be born Rodrik, or another name; once crowned, the realm calls him Aldren, with a number.
+Aldren. The regnal name taken by every crowned king of House Brennan in the Kingdom of Ratherlon. A prince may be born Rodrik, or another name; once crowned, the realm calls him Aldren, with a number.
 
 appanage. Land, rents, or a seat granted by the king to a younger child or close kin so they can keep their own household, without splitting the whole realm. The grantee still owes the crown.
 
@@ -51,11 +51,9 @@ Eastverge, the. Dry eastern frontier of towers and gullies. Beyond it lies the A
 
 F
 
-Follhall. The royal seat of House Brennan: castle, household, and the city tight about them.
+Foldhall. The royal seat of House Brennan: castle, household, and the city tight about them.
 
-Forty-days feast. The feast on the fortieth day after a lying-in, when the mother is shown to the dead in the oath-yard.
-
-smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkeepers — anyone without noble blood or title. Also called commonfolk.
+Forty-days feast. The feast on the fortieth day after a lying-in, when mother and child are presented at the Sanctuary and written into the rolls.
 
 frugivore. An animal that lives chiefly on fruit. Nyxens are frugivores and browse-eaters, not meat-hunters by nature.
 
@@ -152,9 +150,9 @@ rider. One who has raised or been accepted by a Nyxen and flies with it. Riders 
 
 rider roll. The running count of Brennan Nyxen riders since Aldren I.
 
-roar. The Nyxen’s directed sound-blast: a pressure-shout from chest and throat that can stagger or kill at close range. Not flame.
+roar. The Nyxen’s directed sonic blast. Not flame. Three levels: normal, concussive (blows things away like a storm without internal damage), and kill-roar (ruptures internal organs/heads, can literally explode humans at point-blank). Two beasts trading full roars can cripple each other.
 
-roost. Where Nyxens are kept and housed. Also used for the place a beast settles to rest.
+roost. Open cliff-barns or pens where Nyxens willingly go for rest, solitude, or the night. Nyxens are NOT kept or trapped; they roam freely across Foldhall's gardens and skies.
 
 roost-cold. The chill left on a bed when someone rose early and went out to the roosts, not the deeper empty cold of a spouse away at war. Household slang.
 
@@ -172,6 +170,8 @@ shutters. Wooden panels that close over a window. Open for air and light; shut a
 sigil. A house’s badge on banners, shields, and seals. House Brennan’s sigil is a Nyxen on green.
 
 Skarholt. Seat of the traitor lord of western Southfrost; home of the Weeping Vein mine.
+
+smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkeepers — anyone without noble blood or title. Also called commonfolk.
 
 solar. A private upper chamber in a castle, often well-lit, used by the lord or lady for quiet work and family, not the great hall.
 
@@ -202,6 +202,8 @@ wall-walk. The path along the top of a castle wall, where watchers stand.
 warden. A keeper or guardian of a place or duty.
 
 Warm Sea, the. The warm northern water off the Vine Shore. Trade crowns lie beyond it.
+
+washed-out ford. A river crossing where floodwaters, heavy rains, or spring melt have torn away the firm bed and banks, turning an ordinary shallow passage into deep mud and treacherous current that can drown carts, coaches, and horses.
 
 Western Shore, the. The realm’s western sea-coast; seat of House Tarnell at Saltcrown.
 

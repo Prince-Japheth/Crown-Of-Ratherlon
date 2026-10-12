@@ -82,4 +82,4 @@ Describe, never explain. Northerners put it down to "the cold" or "the old blood
 
 ## 9. Updates this file implies elsewhere
 
-See `rules-edits-round-11.md` for the exact lines in older rule files that need changing.
+All changes in older rule files have been applied.

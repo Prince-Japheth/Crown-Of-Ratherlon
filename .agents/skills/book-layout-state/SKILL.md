@@ -45,24 +45,24 @@ world-building.md (Part 3 of 3)
 - Full appendix (Houses, Heraldry, Genealogy, Dictionary) completed
 - Page renumbering done (chapter opener = page 1)
 - Name anchor audit complete across all 3 chapters
-- Name swap Edwin↔Rowan executed (153 swaps, 30 nodes)
+- Name swap Edwyn↔Rowan executed (153 swaps, 30 nodes)
 - Birth order locked (see [[birth-order-locked]])
 - Horizontal rearrangement complete (2026-08-11)
 - Dedication page written: "For the firstborn" (EB Garamond Italic 16pt, centered) — node 145:2
 - Map page (145:4) — PLACEHOLDER. Old SVG map (218:2) and Nortantis screenshot (231:2) both lost to undo cycles. Writer is building the final map in Nortantis (external tool). Clean Nortantis reference map uploaded as node 241:2 at (-200, -1200), 1400×865, with annotated region labels and dashed border lines (grouped as "MAP REFERENCE GUIDE"). Once writer exports final map from Nortantis, it will be placed in frame 145:4, rotated 90° CCW for landscape reading.
 - Prologue page written (~525 words, Wynn the handler POV) — node 148:3
 - Helena Tarnell context line added to Ch1 page 3 (node 9:79): harbour dues motivation
-- Name swap role verification: prose & appendix consistent (Edwin = ambitious rider/Briar, Rowan = administrator/non-rider). External cast file (05-CAST.md) is INVERTED — writer needs to update it manually.
+- Name swap role verification: prose & appendix consistent (Edwyn = ambitious rider/Briar, Rowan = administrator/non-rider). External cast file (05-CAST.md) is INVERTED — writer needs to update it manually.
 
 **Post-swap character roles (canonical, matches birth-order-locked.md + prose + appendix):**
 - Rowan Brennan: 2nd-born, non-rider, steward/ledger, ambitious patience-play uncle, father of Cedric, orders Cedric to stay out of Twin War
-- Edwin Brennan: 3rd-born, rider (Briar), performer, political stirrer
+- Edwyn Brennan: 3rd-born, rider (Briar), performer, political stirrer
 
 **Pending:**
 - Map illustration — writer building in Nortantis; reference guide (node 241:2) shows region assignments; awaiting final export from writer
 - Chapter illustration (Nyxen image — writer generating externally)
 - Book cover still has "[Author Name]" and invented series title
-- ~~External cast file 05-CAST.md~~ DONE — Edwin/Rowan swapped, Cedric note updated, active riders list corrected
+- ~~External cast file 05-CAST.md~~ DONE — Edwyn/Rowan swapped, Cedric note updated, active riders list corrected
 - ~~chatgpt-share-prose.json~~ READ — ChatGPT worldbuilding transcript (187 entries), covers house naming evolution, Nyxen biology, Twin War cliff battle, framing device, Book 5 setup. No chapter prose (that lives in the chapter .md files).
 
 **Memory Files Export page (363:2):**

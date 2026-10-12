@@ -35,7 +35,7 @@ You said the names must not fit the men they become, because a name that matches
 
 It was assigned by **ribbon**, which was tied in the dark by a frightened girl, so it carries no judgment of either boy. The mismatch also matters because the survivor cannot say whether his father once called him the Shield or the Reader.
 
-I changed "Watcher" to "Reader" in the Aurouvian file (see `rules-edits-round-13.md`). "Watcher" would hint at the Watchers of Enoch, and the later reveal should not be foreshadowed.
+I changed "Watcher" to "Reader" in the Aurouvian file. "Watcher" would hint at the Watchers of Enoch, and the later reveal should not be foreshadowed.
 
 ## 4. Why he hopes never to remember
 

@@ -51,11 +51,9 @@ Eastverge, the. Dry eastern frontier of towers and gullies. Beyond it lies the A
 
 F
 
-Follhall. The royal seat of House Brennan: castle, household, and the city tight about them.
+Foldhall. The royal seat of House Brennan: castle, household, and the city tight about them.
 
-Forty-days feast. The feast on the fortieth day after a lying-in, when the mother is shown to the dead in the oath-yard.
-
-smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkeepers — anyone without noble blood or title. Also called commonfolk.
+Forty-days feast. The feast on the fortieth day after a lying-in, when mother and child are presented at the Sanctuary and written into the rolls.
 
 frugivore. An animal that lives chiefly on fruit. Nyxens are frugivores and browse-eaters, not meat-hunters by nature.
 
@@ -173,6 +171,8 @@ sigil. A house’s badge on banners, shields, and seals. House Brennan’s sigil
 
 Skarholt. Seat of the traitor lord of western Southfrost; home of the Weeping Vein mine.
 
+smallfolk. The common people of Ratherlon: farmers, tradesmen, fishermen, innkeepers — anyone without noble blood or title. Also called commonfolk.
+
 solar. A private upper chamber in a castle, often well-lit, used by the lord or lady for quiet work and family, not the great hall.
 
 Southerlin. A slur for a Southerner, used by hostile neighbors. Polite people say Southerner.
@@ -202,6 +202,8 @@ wall-walk. The path along the top of a castle wall, where watchers stand.
 warden. A keeper or guardian of a place or duty.
 
 Warm Sea, the. The warm northern water off the Vine Shore. Trade crowns lie beyond it.
+
+washed-out ford. A river crossing where floodwaters, heavy rains, or spring melt have torn away the firm bed and banks, turning an ordinary shallow passage into deep mud and treacherous current that can drown carts, coaches, and horses.
 
 Western Shore, the. The realm’s western sea-coast; seat of House Tarnell at Saltcrown.
 

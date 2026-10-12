@@ -30,7 +30,7 @@
 
 Do not overbuild foreign courts in early chapters. Border *fear* can show; firedrakes wait until the Opening.
 
-**The NW Island:** Visible on the continent map (top-left). Diplomatically brought into the Kingdom of Ratherlon by Rodrik (Aldren IX) as one of his great diplomatic achievements, and recently secured further by Prince Edric. The island is Edric's proof that diplomacy wins land without blood — his argument in stone against the warrior path. Belongs administratively to the Western Shore or directly to the crown.
+**The Northern Island (Wrenholm):** Visible on the continent map (top centre, off the Vine Shore coast). Diplomatically brought into the Kingdom of Ratherlon by Rodrik (Aldren IX) as one of his great diplomatic achievements, and recently secured further by Prince Edric. The island is Edric's proof that diplomacy wins land without blood — his argument in stone against the warrior path. Belongs administratively to the Western Shore or directly to the crown.
 
 **Firedrakes vs Nyxens:** Nyxen fur resists fire (char-shell insulation). Nyxen roar can disrupt a flame-stream (pressure blast). Later spectacle: sound vs fire. Nyxens remain frugivores; firedrakes are the foreign nightmare that makes border lords demand a warrior crown.
 ## THE DYNASTY

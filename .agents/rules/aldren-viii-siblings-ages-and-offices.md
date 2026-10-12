@@ -43,7 +43,7 @@ Because Jonos fell in the First Ashen War when Simon was eighteen, and the Duchy
 
 ## 4. Age table at Y0
 
-Chapters already agree with most of this. The few that do not are listed in `corrections-round-11.md`.
+Chapters already agree with most of this.
 
 | Person | Age at Y0 | Notes |
 |--------|-----------|-------|
@@ -77,7 +77,7 @@ At the Twin War the twins are about 20 or 21. Rodrik is about 44, Gareth about 3
 
 ## 6. Where this changes the chapters
 
-See `corrections-round-11.md` for three small edits (Simon's age, Gareth's age, one line in chapter 5 about Lansor).
+The edits (Simon's age, Gareth's age, one line in chapter 5 about Lansor) were applied.
 
 ## 7. Death variety (new standing rule)
 

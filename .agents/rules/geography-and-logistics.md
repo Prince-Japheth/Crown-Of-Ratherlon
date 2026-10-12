@@ -36,7 +36,7 @@ Measured from `map_compressed.jpg` (2048 by 1265 pixels). Read this before writi
 | Stillford (Merelands, Rathen) | 555, 471 | West of Crownfold |
 | Pinefall (Deepwood, Selborn) | 563, 687 | South-west of Crownfold, forest country |
 | **Eastgirt** (Eastverge, Kelward) | 1415, 490 | **Decision:** the eastern castle icon, near the Ashen frontier |
-| Second Kelward holding | 1250, 446 | **Decision:** the western icon in the Eastverge. Placeholder name Harrow Hold. A day or two nearer Foldhall |
+| Second Kelward holding | 1250, 446 | **Decision:** the western icon in the Eastverge. Placeholder name Harrow Hold. About 235 miles west of Eastgirt by the straight line, 280 by road. A cart takes about 17 days, a bront column about 9. Name locked: Harrow Hold. |
 | Rivermark seat (Dorsen) | 1250, 600 | The western icon. The eastern one, at 1430, 690, is a frontier fort facing the Ashen |
 | **Frostholt** (Southfrost, Norvalen) | 895, 968 | Centre of the south |
 | Skarholt (traitor lord, west Southfrost) | 585, 905 | West coast, beside the Deepwood border |
@@ -139,8 +139,8 @@ For each, the route and the time, so no battle is impossible.
 3. **Letters, ravens, riders and Nyxens** must use the times in section 2.
 4. **Do not invent a distance** that contradicts the table. If a chapter needs a different distance, update this file.
 
-## 10. Open questions for you
+## 10. Decisions
 
-1. Is the eastern icon Eastgirt, or the western one? (My recommendation: eastern.)
-2. The northern island: name it, or leave it? (Placeholder idea: a smugglers' and pirates' isle, connected to the Pirate Wars.)
-3. **Elyn is a Rathen of Stillford, in the Merelands.** `twin-war-dynamics-1.md` puts the Merelands in Harwin's West. Which side do the Rathens take, and what does that do to Elyn?
+1. The eastern icon is Eastgirt (chapters already use it).
+2. The northern island is Wrenholm, a smugglers' and pirates' isle tied to the Pirate Wars, taken into the crown by Rodrik's treaty.
+3. Elyn's Rathens: Duke Edmund of Stillford declares for Edric, so Harwin's West is split. A cadet line of Rathens (the Pellridge branch) holds for Harwin and strikes at Stillford in the Merelands engagement, which is why Elyra dies on that road (see `twin-war-campaign-structure.md`).
