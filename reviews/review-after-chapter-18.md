@@ -1844,7 +1844,7 @@ Harrun will be with us in ten days
 With:
 
 ```text
-Harrun will be with us in a fortnight
+Harrun will be with us in ten days
 ```
 
 ### 109. chapters/3.md
@@ -2906,3 +2906,8 @@ With:
 ```text
 "Fenlow thinks his three hundred men give him leave to tell me how to rule," Rodrik whispered, leaning his forehead against Hart's broad brow. "I still have you, Hart."
 ```
+
+
+## Mounted first reinforcement correction
+
+The initial twenty Crownfold men under Harrun ride ordinary horses, with three packhorses, along the kingsroad via Eastgirt. They take about thirty-four days to the outer watch, then serve on foot. Chapters 1–5 have been corrected for mounts, provisions, twenty days elapsed in chapter 2, Elyra’s departure after three weeks and ten-day arrival estimate, and Harrun’s on-page arrival in chapter 4. Later mass infantry reinforcement and its sixty-day costs remain unchanged. The riders are not a cavalry combat unit and do not use courier relays.
