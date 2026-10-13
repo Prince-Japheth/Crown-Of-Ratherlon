@@ -26,7 +26,7 @@ Counted back from the day Rodrik is crowned (YBR = years before Rodrik). Reign l
 
 | Reign | Approx. years | Flaw or event | How it ended |
 |-------|---------------|----------------|--------------|
-| **Aldren I** (Torrhen) | 260 to 232 YBR | The "King Who Ended the War." His peace rested on terror: he kept the heirs of every great house as "guests" in Foldhall's **Hostage Hall**, a practice later kings abused. | Killed by a **sling stone** at the siege of a Rosegate holdout, a year after the oath-taking. A founder dying to a peasant's weapon shocked the realm and is why riders wear face-guarded helms. |
+| **Aldren I** (Torrhen) | 260 to 232 YBR | The "King Who Ended the War." His peace rested on terror: he kept the heirs of every great house as "guests" in Foldhall's **Hostage Hall**, a practice later kings abused. | Killed by a **sling stone** at the siege of a Rosegate holdout near the end of his reign, twenty-eight years after the oath-taking. A founder dying to a peasant's weapon shocked the realm and is why riders wear face-guarded helms. |
 | **Aldren II** (Maris of Rathen) | 232 to 204 | A calculating king who traded crown revenue to the Rathens for their loyalty. The Rathen Concession weakened the treasury for generations. | Died of age. |
 | **Aldren III** (Leofric) | 204 to 176 (including his absence) | Canon. | Canon. |
 | **Aldren IV** (Hilda of Dorsen) | 176 to 148 | **The Grounded King.** See section 4. | Died old and heavy in his bed. |
@@ -37,6 +37,15 @@ Counted back from the day Rodrik is crowned (YBR = years before Rodrik). Reign l
 | **Aldren VIII** | 32 to 0 | Ruled through fear of Oak, kept his sons unbetrothed as leverage, and married Rhaenaya off for the ice frontier. | Died suddenly in bed. |
 
 **Kings who died in war:** Aldren I (sling stone) and Aldren VI (arrow). **Kings tainted:** Aldren I, II, III, IV, V, VI, VII, VIII. Rodrik is the exception, and he is allowed to be.
+
+### Aldren VIII, Elsehnor, and Queen Gwyn (locked)
+
+- **Elsehnor Brennan** (EL-seh-nor) is Aldren VIII's birth name. He took **Aldren VIII** at coronation; Elsehnor is not a secret or an additional private name.
+- His wife, **Queen Gwyn Selborn of Pinefall**, was a lady of the common tongue. He loved her deeply throughout their marriage. This affection does not erase his coercive statecraft or his severity toward his children.
+- They chose **Rodrik**, a common-tongue name, for their firstborn because Gwyn preferred it and Elsehnor wanted their heir to bear a name she loved. No invented ancestor or lost linguistic meaning is needed. Their later children likewise mix common-tongue and Aurouvian names.
+- Rodrik has his mother's eyes: the resemblance includes their shape and expression and does not alter any established eye colour. In anger at Rodrik's defiance, Elsehnor sometimes stopped himself with a remark such as: **“I'd smack you in the face if you didn't have your mother's eyes.”** This is an angry father's threat checked by love for his wife, not a stock refrain or proof that his temper was harmless. Use sparingly in remembered dialogue.
+- **Gwyn died in peace at Y-3**, three years before Rodrik's coronation, after a short illness. No assassination, childbirth death, or hidden disappearance. Rodrik was twenty, Rowan nineteen, Edwyn seventeen, Rhaenaya sixteen, Elyra fifteen, and Gareth twelve. She was alive during the First Ashen War at Y-10. Elsehnor did not remarry in the three years before his own death.
+- Reader delivery: reveal Gwyn through brief, relevant family memories rather than a genealogy speech. An early memory can connect Rodrik's likeness to Elsehnor's checked anger; a later sibling exchange can establish her absence and her part in naming Rodrik. These are planned disclosures, not scenes already added to the manuscript.
 
 ## 3. Internal wars, so there is never a century of peace
 
@@ -63,7 +72,7 @@ At no time in 260 years has the realm gone more than about 35 years without a na
 - Son of Leofric and Saeraphyn. Grew up in the shadow of a father who flew across the sea and left his mother weeping.
 - At nineteen, flying with his first Nyxen **Fennel** over the Rivermark, he fell. Fennel caught him badly and broke a forelimb in doing so. The beast lived and never flew again. Aldren IV broke three ribs and, worse, his nerve. He developed a terror of heights.
 - He **refused a second Nyxen**, saying he would not replace a friend. The old beast lived in the Foldhall roosts until it died, and the king visited it every morning.
-- He never flew to war in his lifetime. His brother, **Prince Hallan**, flew in his stead and was the realm's real sword. The crown relied on ground heavy cavalry and loaned knights, above all the **Winter Knights** of the South, whose prestige grew in these years.
+- He never flew to war in his lifetime. His brother, **Prince Garlan Brennan**, flew in his stead and was the realm's real sword. The crown relied on ground heavy cavalry and loaned knights, above all the **Winter Knights** of the South, whose prestige grew in these years.
 - The result: the Three Dukes' Quarrel, which the crown could only mediate. Lords took note that a king without wings could be defied.
 - He was a kind man and a poor king. Both facts are true. His reign is why the realm still remembers that a Brennan without a beast is half a king.
 

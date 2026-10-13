@@ -12,10 +12,10 @@
 
 **How it works — the genetics:**
 
-The farmer possessed a rare mutation — a gene cluster causing production of a distinctive protein complex (skin oil / pheromone precursor). The Nyxens evolved to recognize this molecule as "friend." They smell molecules, not family trees. 
+The farmer possessed a rare mutation — a gene cluster causing production of a distinctive protein complex (skin oil / pheromone precursor). The Nyxens evolved to recognize this molecule as "friend." They smell molecules, not family trees.
 
 **Why birth order matters:**
-The scent flows mainly in the first child. It gets weaker the more you go down the line. However, genetics are unpredictable — there are rare anomalies where the scent gets too thin in some older children, but remains abundant enough in the younger ones. 
+The scent flows mainly in the first child. It gets weaker the more you go down the line. However, genetics are unpredictable — there are rare anomalies where the scent gets too thin in some older children, but remains abundant enough in the younger ones.
 
 **Thin Scent & Anomalies:** The scent gets weaker the further down the line from the firstborn. It can be too thin in some children for a normal pup to notice (like Rhaenaya, who cannot ride) and manifest strongly in others further down the line (like Elyra and Gareth). Sometimes anomalies even exist where nieces and nephews of the heir become riders.
 
@@ -23,7 +23,7 @@ The scent flows mainly in the first child. It gets weaker the more you go down t
 
 **The Brennan Cinder is visible but cosmetic; the curse is invisible.** Two separate Aurouvian magical acts sit on the Brennan bloodline: (1) the Cinder — a harmless cosmetic procedure Leofric chose to match his Nyxen's rare ash-charcoal coat, a rider's tribute made permanent by sorcery; and (2) the blood ritual — the sorcery that transferred the Nyxen heir-scent from Aldric (Leofric's firstborn by Elen of Varen, born at Foldhall) to Saeraphyn's son, killing Aldric in the process. The scent itself is entirely natural. The blood ritual forced foreign magic onto that natural system, and the sorcerers warned Leofric they were breaking something that could not be unbroken. **The Cinder is NOT the curse.** The scent cannot be faked, cannot be seen, and makes the dynasty's claim rest on whether an animal accepts you. The visible trait (Cinder) is a vain man's love letter to his beast; the invisible trait (scent) is the natural connection that was broken by sorcery and now fights itself every generation.
 
-**Anomalies:** Rare cases of the heir's immediate nieces/nephews being able to ride. Even rarer for more distant relations. For anomaly riders: both the human must inherit an unusually intact version of the trait AND the Nyxen must possess unusually sensitive smell. When both anomalies occur, a connection forms. These riders are paired to ONE Nyxen only. The scent is NOT about intermarriage spreading Brennan blood — strictly about birth order proximity to the firstborn line. The raiser names the beast and receives a call-pipe.
+**Anomalies:** Rare cases of the heir's immediate nieces/nephews being able to ride. Exceptions are confined to the immediate children, siblings (including those far down the birth order), and nieces or nephews of a reigning or former king or queen. Distant cousins and remote cadet descendants are excluded; ancient shared Brennan ancestry does not confer riding eligibility. For anomaly riders: both the human must inherit an unusually intact version of the trait AND the Nyxen must possess unusually sensitive smell. When both anomalies occur, a connection forms. These riders are paired to ONE Nyxen only. The scent is NOT about intermarriage spreading Brennan blood — strictly about birth order proximity to the firstborn line. The raiser names the beast and receives a call-pipe.
 
 ## NYXEN LOYALTY LAYERS
 
@@ -45,29 +45,31 @@ Pups are born blind, furred, with folded wing-membranes too soft for flight. The
 
 ## THE FREE-ROAMING COMPOUND (How Pairing Works)
 
+**Visual reference:** Highgarden with a much larger estate compound. See `world-building-4.md`, Foldhall Details, for the locked grounds and terrain.
+
 Nyxens are **not** confined to the roost. The roost (open cliff-barns or pens) is merely where they willingly go for rest, solitude, or to spend the night. They are never kept in stables waiting for a rider. Foldhall is a beautiful, flamboyant, large luxurious spatial compound with beautiful gardens, florals, and fields where royal Nyxens (and sometimes even wild ones) roam freely. They graze, take off and return whenever they want, or nap on the courtyards—joyous, playful, and curious. Even while roaming, a bonded Nyxen is never far from its rider. Handlers are still around to clean up after them, groom them, and care for the young when a mother Nyxen doesn't want to, though many riders also groom their own beasts simply because they share a close bond (though not all riders do, and not all the time).
 
-There is no formal "presentation ritual." It works naturally: when a member of the bloodline walks through the compound, if a roaming pup takes an interest in them, approaches, and sticks around, they have a connection. If the pup ignores them, walks away, or acts aggressively, the person cannot have it. 
+There is no formal "presentation ritual." It works naturally: when a member of the bloodline walks through the compound, if a roaming pup takes an interest in them, approaches, and sticks around, they have a connection. If the pup ignores them, walks away, or acts aggressively, the person cannot have it.
 
 If a noble tries to force a connection—taking a pup home that didn't choose them—it will end in disaster. When the beast comes of age to fly, it will break all hell loose, destroy its confines, and go feral.
 
 ## THE UNNAMED PUP & THE TWINS
 
-**Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen). 
+**Mother:** Lark (Elyra's Nyxen). **Sire:** Hart (Rodrik's Nyxen).
 
 **The Pairing Attempts:**
 1. **Rowan** (2nd-born) — As a child, he walked the compound looking for a connection, but was simply never accepted by any pup (his scent was too thin, much like his sister Rhaenaya; though a sensitive Nyxen might have accepted him, none ever did). He never tried again as an adult. He has a kingdom's arithmetic to keep, and considers himself too occupied with ledgers to start training a Nyxen pup anyway.
-2. **Rhaenaya** (4th-born) — on a visit home, she walks the courtyards where the Unnamed Pup is roaming. She tries to coax it. The pup sniffs her and wanders away. Her scent is too thin. 
+2. **Rhaenaya** (4th-born) — on a visit home, she walks the courtyards where the Unnamed Pup is roaming. She tries to coax it. The pup sniffs her and wanders away. Her scent is too thin.
 3. **Alaric (Rhaenaya's son)** — When Rhaenaya brings her infant son Alaric to visit Foldhall, she takes him out into the compound. The Unnamed Pup ignores the baby completely. (Alaric later proves to be an anomaly rider and pairs with *Frost* from a different litter).
 
-**The Pups:** 
-The Unnamed Pup continues to freely roam the Foldhall courtyards, unattached. The roost follows its own natural, unmanaged cycles, and it is entirely normal for several females to have pups over the span of a few years without any human interference. Right on the heels of the Unnamed Pup's birth, King Rodrik rushes home from a campaign to discover his wife has given birth to twin sons (Edric and Harwin). 
+**The Pups:**
+The Unnamed Pup continues to freely roam the Foldhall courtyards, unattached. The roost follows its own natural, unmanaged cycles, and it is entirely normal for several females to have pups over the span of a few years without any human interference. Months after the Unnamed Pup’s spring birth, King Rodrik rushes home from a campaign to discover twin sons (Aeion and Aeian). This female pup is not Ash or Storm and does not bond Brenna. Her eventual rider, if any, is unassigned.
 
 Two of the pups born during this natural window grow up playing with the twin toddlers in the courtyard, eventually connecting with them to become **Ash** and **Storm**. The other pups born across the roosts during this time would go on to pair with the cousins born around the same time. Of course, not all pups paired; some never chose anyone and, as is usual, were left to fly off to the wild when they were old enough. The roost simply produced its normal numbers, and the royal family happened to have enough children at the right time to bond with them.
 
 ## NYXEN GRIEF & LIFESPAN
 
-Usually die of grief in solitude after their rider's death. Lifespan unknown — no Nyxen has ever died of old age in recorded history; they either die in battle, in mating duels, or of grief. **Oak** = only known grief-survivor (Aldren VII's mount → second rider Aldren VIII; solitary after VIII's death; Harwin fetches in Twin War for promised death).
+Usually die of grief in solitude after their rider's death. Lifespan unknown — no Nyxen has ever died of old age in recorded history; they either die in battle, in mating duels, or of grief. **Oak** = only known grief-survivor (Aldren VII's mount → second rider Aldren VIII; solitary after VIII's death; Aeian fetches in Twin War for promised death).
 
 Grief is about the **rider connection only.** Nyxens do not grieve mates (mating is seasonal, not paired for life — see below). A nursing dam who loses pups may grieve maternally, but this is rare and usually not fatal.
 

@@ -58,7 +58,7 @@ Leofric was crowned. Saeraphyn became queen. The Cinder — his sentimental ride
 
 Not just a jilted bride — a dead grandson. **Aldric Brennan** was born at Foldhall, died at Foldhall of "fever." The Varens can't prove anything, but they watched their daughter's child — a healthy boy with strong Brennan scent — sicken and die, and then a foreign queen's son sailed in and was accepted by every Nyxen in the roost. Two hundred years of quiet suspicion.
 
-The betrothal of Roselyn Varen to Prince Edric ~200 years later is partly healing that ancient wound: Brennan blood returning to the line it was stolen from. When Harwin kills Roselyn, he rips open something far older than a broken engagement.
+The betrothal of Roselyn Varen to Prince Aeion ~200 years later is partly healing that ancient wound: Brennan blood returning to the line it was stolen from. When Roselyn is murdered and Aeian is blamed, that older wound reopens. His authorship of the murder is never confirmed.
 
 ### The Curse (deep lore — readers know, characters do not)
 
@@ -69,7 +69,7 @@ The blood ritual broke the natural order. The maternal inheritance — the self-
 - The Twin War (Book 1): two equal heirs, the realm splits — the curse at its worst, twin firstborns where the broken blood literally cannot choose
 - The Returned Heir (Book 5): a descendant who refuses the crown and flees the continent — echoing Leofric's own flight, the restlessness repeating
 
-The pattern: Leofric fled his pregnant wife and killed his own son with sorcery. Aldren X's great-grandson will flee his crown. The adventurous ancestor's crime echoes down the centuries because the magic demands it.
+The pattern: Leofric fled his pregnant wife and killed his own son with sorcery. Aldren X's great-great-grandson will flee his crown. The adventurous ancestor's crime echoes down the centuries because the magic demands it.
 
 **This is NOT known within the realm.** No character will say "Aldren the Adventurous cursed us." The lore parallel is the Doom following the Targaryens — succession crisis after crisis, early deaths, bloodline self-destruction, no cadet branches that survive long. We the readers see the pattern. The characters see only their own war.
 
@@ -79,7 +79,7 @@ Stays **ambiguous forever.** Never confirmed, never denied. The reader holds bot
 
 ### The Aurouvian Language in House Brennan
 
-Saeraphyn brought her mother tongue to Foldhall, and it never left. The Brennan royal family speaks **Aurouvian** as a private language — passed down through generations not as statecraft or ceremony, but as family intimacy. Unlike the Targaryens with High Valyrian, the Brennans do not use Aurouvian to command their Nyxens or impress foreign courts. They use it among themselves: in the nursery, in whispered asides, in muttered profanity after council meetings. A brother swearing under his breath in Aurouvian while his sibling snorts because he understood every word.
+Saeraphyn brought her mother tongue to Foldhall, and it never left. The Brennan royal family speaks **Aurouvian** as a private language — passed down through generations not as statecraft or ceremony, but as family intimacy. Like the Targaryens with High Valyrian, the Brennans command their Nyxens in it, with the two roar-words and a handful of short orders, but they do not use it to impress foreign courts. They use it among themselves: in the nursery, in whispered asides, in muttered profanity after council meetings. A brother swearing under his breath in Aurouvian while his sibling snorts because he understood every word.
 
 Leofric himself was terrible at the language — he mangled pronunciation and Saeraphyn laughed at him for it. The warmth of that comedy survived in the family long after both were gone.
 

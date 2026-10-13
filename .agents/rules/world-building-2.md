@@ -6,13 +6,13 @@
 
 **The Merelands (Rathen):** Where the Rathens first landed, sailing from a distant land in the far northwest. Former royal house. Lakes and black soil. Seat Stillford. The first Rathen region and the base from which they expanded east. After the Great Civil War they kept Stillford as paramounts under Brennan. They sit on the Western Front, looking directly across at the Vaelcross Kingdom, dealing with forest skirmishes, mountain raids, and constant border tension. Queens into the Aldren line (Maris, Catelyn, Elyn) are old royal blood marrying the Nyxen dynasty.
 
-**The Vine Shore (Varen):** Warm north. Harvest festivals, green glass, ships heavy with wine. Roselyn is this world's idea of spring. Killing her is killing the soft future Edric promised.
+**The Vine Shore (Varen):** Warm north. Harvest festivals, green glass, ships heavy with wine. Roselyn is this world's idea of spring. Killing her is killing the soft future Aeion promised.
 
 **The Southfrost (Norvalen):** Winter rides up from here. Fur in months the Vine Shore wears linen. Iron, stunted-pine timber, and Frost-Glow. (Building pine only, never fuel; fuel timber was always bought from Deepwood.) Tucked safely away at the bottom of the map, guarded by a massive wall of mountains. They are physically removed from the Ashen and Vaelcross threats and have no appetite for a devastating, aggressive war.
 
 **The Western Shore (Tarnell):** Salt, rope, and ship-kings. They care about trade lanes more than which twin quotes better law. Dangerous neutrals.
 
-**The Eastverge (Kelward):** Dust, watchtowers, and raid seasons. Harwin's kind of country. Seat: Eastgirt. The eastern scrublands are home to the **bront** — a massive single-horned beast, taller than any horse, endemic to the Eastverge grasslands. Kelward broke bronts to the saddle generations ago, and their border cavalry rides them instead of horses. A charging bront-line is a living shield wall; nothing stops them short of massed pikes or a Nyxen from the air. Other regions ride horses — bronts are a Kelward thing, and Kelward lords bring them when called to Foldhall, which is how the rest of the kingdom knows the animals.
+**The Eastverge (Kelward):** Dust, watchtowers, and raid seasons. Aeian's kind of country. Seat: Eastgirt. The eastern scrublands are home to the **bront** — a massive single-horned beast, taller than any horse, endemic to the Eastverge grasslands. Kelward broke bronts to the saddle generations ago, and their border cavalry rides them instead of horses. A charging bront-line is a living shield wall; nothing stops them short of massed pikes or a Nyxen from the air. Other regions ride horses — bronts are a Kelward thing, and Kelward lords bring them when called to Foldhall, which is how the rest of the kingdom knows the animals.
 
 **The Rivermark (Dorsen):** Whoever feeds the armies wins the long war. Both twins will send envoys here first. It sits on the Eastern Front, buffering the Ashen Kingdom. With a major river system snaking right out of the Ashen mountains through Rivermark, it is a prime highway for enemy naval or infantry invasions.
 
@@ -30,7 +30,7 @@
 
 Do not overbuild foreign courts in early chapters. Border *fear* can show; firedrakes wait until the Opening.
 
-**The Northern Island (Wrenholm):** Visible on the continent map (top centre, off the Vine Shore coast). Diplomatically brought into the Kingdom of Ratherlon by Rodrik (Aldren IX) as one of his great diplomatic achievements, and recently secured further by Prince Edric. The island is Edric's proof that diplomacy wins land without blood — his argument in stone against the warrior path. Belongs administratively to the Western Shore or directly to the crown.
+**The Northern Island (Wrenholm):** Visible on the continent map (top centre, off the Vine Shore coast). Diplomatically brought into the Kingdom of Ratherlon by Rodrik (Aldren IX) as one of his great diplomatic achievements, and recently secured further by Prince Aeion. The island is Aeion's proof that diplomacy wins land without blood — his argument in stone against the warrior path. Belongs directly to the crown.
 
 **Firedrakes vs Nyxens:** Nyxen fur resists fire (char-shell insulation). Nyxen roar can disrupt a flame-stream (pressure blast). Later spectacle: sound vs fire. Nyxens remain frugivores; firedrakes are the foreign nightmare that makes border lords demand a warrior crown.
 ## THE DYNASTY
@@ -61,7 +61,7 @@ Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→tw
 | (Queen Seren) | — | Corwyn | Yarben (husband) |
 | Aldren VI | (son of Seren) | Nysa | Tarnell |
 | Aldren VII | — | Freya | Norvalen |
-| Aldren VIII | — | Gwyn | Selborn (died in peace) |
+| Aldren VIII | Elsehnor | Gwyn | Selborn (died in peace at Y-3) |
 | Aldren IX | Rodrik | Elyn | Rathen |
 
 **Queen Seren** — SPOILER for future book. Aldren V's firstborn daughter. War between her and her younger brother Osbert. "The book of the war between the first born daughter and her younger brother is supposed to be a book with stakes, readers not knowing who will win." Her son becomes Aldren VI. She set the law: first child regardless of gender inherits. She lived to 56, ruling with an iron fist for decades after her war, and died in her bed of a severe winter fever (her lungs weakened from inhaling toxic ash during her campaigns).

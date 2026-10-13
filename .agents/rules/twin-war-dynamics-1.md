@@ -1,6 +1,6 @@
 ## ROWAN'S SUCCESSION PLAY
 
-When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Edric and Harwin) are. Rowan's move: when the Twin War breaks out and his son Caelen wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caelen after him. This is NOT a lifelong grooming plan — in his youth he was occupied solely with ledgers and administration. It was only after he married and had a family of his own that he grew and began to focus on succession and legacy. Caelen ultimately disobeys his father and rides for Edric.
+When Rodrik dies, Rowan (second-born, no Nyxen) is NOT next in line — the twins (Aeion and Aeian) are. Rowan's move: when the Twin War breaks out and his son Caeylehn wants to join to support his favorite twin, Rowan tells him to stay out. Let the boys destroy each other, and then Rowan becomes king, Caeylehn after him. This is NOT a lifelong grooming plan — in his youth he was occupied solely with ledgers and administration. It was only after he married and had a family of his own that he grew and began to focus on succession and legacy. Caeylehn ultimately disobeys his father and rides for Aeion.
 
 ## ROWAN'S SILENT RESENTMENT TOWARD ELYN
 
@@ -12,7 +12,7 @@ Rowan resents Elyn — quietly, never spoken. The Hand's seat is empty. Rowan is
 
 **How it feeds his succession play:** This isn't just about a title. It's years of feeling passed over by his own brother, watching Elyn (not even Brennan blood) stand where he should stand. When the twins' war erupts, Rowan's "let them destroy each other" calculation isn't cold pragmatism from nowhere — it's a man who already believed the family owed him something and never paid.
 
-**The twins as Elyn's children:** Rowan's hatred of the twins isn't just political rivalry — they are the children of his replacement. Elyn took his place in court, and now her sons stand between him and the crown. When war breaks out, he *wants* them to obliterate each other. His pitch to Caelen isn't purely "save the kingdom" — it's also "if they destroy each other, I'm king, and you're king after me." The succession prize is the perk he dangles to keep Caelen out of the war. The political reasoning ("neither twin deserves the throne") is real, but underneath it is a man who has wanted Elyn's line out of his way for years.
+**The twins as Elyn's children:** Rowan's hatred of the twins isn't just political rivalry — they are the children of his replacement. Elyn took his place in court, and now her sons stand between him and the crown. When war breaks out, he *wants* them to obliterate each other. His pitch to Caeylehn isn't purely "save the kingdom" — it's also "if they destroy each other, I'm king, and you're king after me." The succession prize is the perk he dangles to keep Caeylehn out of the war. The political reasoning ("neither twin deserves the throne") is real, but underneath it is a man who has wanted Elyn's line out of his way for years.
 
 **Rowan is the Otto Hightower parallel:** patient administrator who makes himself indispensable, waits for the right moment. He fills the vacuum left by the empty Hand of the King seat, doing the Hand's work without the title, all without anyone formally giving him the authority.
 
@@ -21,12 +21,12 @@ His reasoning is not simple ambition — he genuinely believes neither twin shou
 - Diplomatic twin = well-meaning idealist who has already failed to prevent civil war
 - "Both have already proven unworthy. The kingdom burns because of them."
 
-His argument to Caelen: "You think you're helping your cousin. You're helping him destroy the realm. Every rider who joins a side prolongs this war. Let them exhaust themselves. Let the war end. Then we rebuild."
+His argument to Caeylehn: "You think you're helping your cousin. You're helping him destroy the realm. Every rider who joins a side prolongs this war. Let them exhaust themselves. Let the war end. Then we rebuild."
 
-**Caelen hears:** "Wait for your cousins to die."
+**Caeylehn hears:** "Wait for your cousins to die."
 **Rowan hears:** "Save the kingdom."
 
-Neither considers himself evil. Caelen rides anyway — loyalty matters more than political calculation.
+Neither considers himself evil. Caeylehn rides anyway — loyalty matters more than political calculation.
 
 ## THE HEIR-AT-WAR TRADITION (Locked)
 
@@ -34,9 +34,9 @@ Neither considers himself evil. Caelen rides anyway — loyalty matters more tha
 
 **Rodrik broke it as prince:** Went to war a few times against his father Aldren VIII's explicit commands. During the First Ashen War, he defied his father's orders to stay safely in Foldhall, taking his own massive Nyxen (Hart) to join the king (who was fighting on Oak) in the vanguard because he couldn't stomach leaving his men to bleed alone. He defied his father because his heart was with his people and his men in tough times — he wanted to fight for his men and take the skies. He even broke it as King, being away at war when the twins were born because as the oldest rider on the largest living Nyxen (Hart, who is older than Rodrik), his presence could turn any battle. Rodrik was one of the most diplomatic kings the realm ever had, but he was always the best of both worlds: a master diplomat to the court, and a fierce warrior to his men.
 
-**Harwin breaks it too:** Like his father. This is the warrior twin's defining character trait — he rides to the border when the border bleeds, tradition be damned, because his heart is with his men. His supporters see courage and praise him for being exactly like his father in battle; his detractors see recklessness. Unlike Aldren VIII, Rodrik never reprimanded Harwin for flying into fights as an heir, raising rumors that Rodrik hopes one of the twins dies to make the succession easy. Harwin lowkey believes this, but doesn't care — he only cares for the fight and believes he will always win.
+**Aeian breaks it too:** Like his father. This is the warrior twin's defining character trait — he rides to the border when the border bleeds, tradition be damned, because his heart is with his men. His supporters see courage and praise him for being exactly like his father in battle; his detractors see recklessness. Unlike Aldren VIII, Rodrik never reprimanded Aeian for flying into fights as an heir, raising rumors that Rodrik hopes one of the twins dies to make the succession easy. Aeian lowkey believes this, but doesn't care — he only cares for the fight and believes he will always win.
 
-**The irony:** Rodrik was always both a fierce warrior and a diplomatic ruler, from a prince to his eventual death on campaign. Harwin's supporters argue the warrior twin will show that same balance in time. Edric's supporters counter: Rodrik had *time* to grow. A succession war won't give Harwin that luxury.
+**The irony:** Rodrik was always both a fierce warrior and a diplomatic ruler, from a prince to his eventual death on campaign. Aeian's supporters argue the warrior twin will show that same balance in time. Aeion's supporters counter: Rodrik had *time* to grow. A succession war won't give Aeian that luxury.
 
 ## WARRIOR TWIN'S COLDNESS — THE GARETH MIRROR
 
@@ -48,7 +48,7 @@ The warrior twin is genuinely cold by nature. No trauma, no scar, no mistreatmen
 
 When the succession splits:
 
-### Edric (diplomatic) — QUANTITY (The Sheltered Interior)
+### Aeion (diplomatic) — QUANTITY (The Sheltered Interior)
 
 Lords of rich, inward country at peace: largest levies because they have NOT been bled by border war. They want sustained peace, trade, full granaries, a king who prevents war by ink and marriage.
 
@@ -56,24 +56,24 @@ Lords of rich, inward country at peace: largest levies because they have NOT bee
 
 **Argument:** "The late king gave us prosperity. We need another who keeps the peace."
 
-**Edric's signature deed:** Recently brought the northern island (top centre of the continent map, off the Vine Shore coast) into the kingdom through diplomacy — no blood spilled. This echoes his father Rodrik, who was one of the most diplomatic kings the realm ever had. The island is proof that ink and patience win land that swords only burn.
+**Aeion's signature deed:** Recently brought the northern island (top centre of the continent map, off the Vine Shore coast) into the kingdom through diplomacy — no blood spilled. This echoes his father Rodrik, who was one of the most diplomatic kings the realm ever had. The island is proof that ink and patience win land that swords only burn.
 
-### Harwin (warrior) — QUALITY (The Border Shields)
+### Aeian (warrior) — QUALITY (The Border Shields)
 
 Lords whose seats BORDER troublesome foreign kingdoms. Smaller numbers, harder men: survivors of raid seasons. They want a king who can WIN when the neighbors test the realm after Aldren IX dies. They know these kingdoms will see the crown's vacancy as invitation — and their raids will be *worse* than what they've endured under a reigning king.
 
 **Geography:** The Western Front (Deepwood & Merelands) looking directly across at Vaelcross; and the Eastern Front (Eastverge & Rivermark) buffering the Ashen Kingdom. These border lords deal with forest skirmishes, mountain raids, and constant border tension. With major river systems snaking through Rivermark, it is a prime highway for enemy invasion. They fiercely support the battle-tested Rogue Prince to fortify their banks.
 
-**Kelward bronts:** When Kelward (Eastverge) declares for Harwin, they bring their bront cavalry — massive single-horned beasts endemic to the Eastverge, ridden instead of horses. A charging bront-line is a living shield wall. This is part of Harwin's "quality" advantage: fewer men, but some of those men ride bronts.
+**Kelward bronts:** When Kelward (Eastverge) declares for Aeian, they bring their bront cavalry — massive single-horned beasts endemic to the Eastverge, ridden instead of horses. A charging bront-line is a living shield wall. This is part of Aeian's "quality" advantage: fewer men, but some of those men ride bronts.
 
 **Argument:** "Peace was bought with blood. The neighbors will come. We need a warrior."
 
-**Harwin's character:** Broke the tradition that heirs do not go to war until they have children — much like his father Rodrik. Harwin rides to the border when the border bleeds, leading his subjects in battle personally.
+**Aeian's character:** Broke the tradition that heirs do not go to war until they have children — much like his father Rodrik. Aeian rides to the border when the border bleeds, leading his subjects in battle personally.
 
 **The Tactical Nightmare (The Vice):** 
-Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geographical vice. His supporters are split on the far left and the far right of the map, while Edric (the Diplomatic Prince) holds the entire unified center. If Harwin tries to march his armies to unite, Edric can use the central positioning of Crownfold to cut him off and destroy his factions one by one. This visual layout perfectly emphasizes why Harwin's military IQ tells him he cannot win a conventional war—and why abandoning his armies temporarily to hunt down **Oak**, a grieving beast of Aldren VIII (and VII before him) that flew away to live in solitude and die of its grief, is his only path to victory.
+Looking at this layout, Aeian (the Rogue Prince) is caught in a brutal geographical vice. His supporters are split on the far left and the far right of the map, while Aeion (the Diplomatic Prince) holds the entire unified center. If Aeian tries to march his armies to unite, Aeion can use the central positioning of Crownfold to cut him off and destroy his factions one by one. This visual layout perfectly emphasizes why Aeian's military IQ tells him he cannot win a conventional war—and why abandoning his armies temporarily to hunt down **Oak**, a solitary beast of Aldren VIII (and VII before him), still alive after years in the crags, is his only path to victory.
 
-**The counter-argument against Harwin:** His detractors call him rash and quick to action. They fear he would plunge the realm into destruction — that he is overly ambitious and would most likely attempt to bring the neighbouring kingdoms to be united as one under Ratherlon, causing decades of war with no clarity on whether he would actually succeed.
+**The counter-argument against Aeian:** His detractors call him rash and quick to action. They fear he would plunge the realm into destruction — that he is overly ambitious and would most likely attempt to bring the neighbouring kingdoms to be united as one under Ratherlon, causing decades of war with no clarity on whether he would actually succeed.
 
 **Both arguments are true.** That is the politics.
 
@@ -81,14 +81,14 @@ Looking at this layout, Harwin (the Rogue Prince) is caught in a brutal geograph
 
 | House | Default lean | Why |
 |-------|-------------|-----|
-| Varen | Edric | Soft north, trade, Roselyn |
-| Rathen | Edric (split possible) | Mere wealth; queen's blood complicates |
-| Kelward | Harwin | Eastern border / raid country |
-| Norvalen | Harwin (split possible) | Southern ice frontier; Rhaenaya tie cuts both ways |
+| Varen | Aeion | Soft north, trade, Roselyn |
+| Rathen | Aeion (split possible) | Mere wealth; queen's blood complicates |
+| Kelward | Aeian | Eastern border / raid country |
+| Norvalen | Aeion; Alaric defects to Aeian | Osric wants peace after the Frostglow War; his son follows his campaign loyalties |
 | Dorsen | Swing | Grain feeds whoever looks like winning |
 | Tarnell | Swing | Ships / dues; trade lanes over philosophy |
 | Selborn | Split | Chaos-fear vs hard-wood survivors |
 
-Rider camps can cut across this: a Kelward cousin may still ride for Edric, etc.
+Rider camps can cut across this: a Kelward cousin may still ride for Aeion, etc.
 
 *(Continued in [twin-war-dynamics-2.md](twin-war-dynamics-2.md))*

@@ -30,7 +30,7 @@ Ratherlon sits in the **middle of a wide continent** — very elongated east-wes
 
 **Continent Scale & Travel Times (LOCKED):** The continent is massive, roughly the size of a horizontal Westeros (approx. 3,000 miles across). From the central capital of Foldhall to the Eastverge border is roughly 1,000 miles. (Read "Eastverge border" as the Eastverge's eastern frontier with the Ashen Kingdom; Foldhall to Eastgirt is about 770 miles straight and about 920 by road. Map scale: 1 pixel is about 1.42 miles. See geography-and-logistics.md.) 
 - **Infantry:** Marches at 15 miles a day through highland roads (takes ~60 days to reach the border).
-- **Nyxens:** Can cover the same 1,000 miles in about 3 days of sustained flying.
+- **Nyxens:** Cover about 270 miles per flying day: Foldhall to Eastgirt in about three days; a full 1,000 miles in about four, allowing rest.
 This vast scale prevents "teleportation" logic errors. When armies march, it takes months. This massive discrepancy highlights the strategic dominance of Nyxen riders.
 
 **Map page orientation (locked):** The book's map page is **landscape-oriented** — the reader turns the book 90° clockwise to view it. Content is rotated on the portrait page accordingly. Map node in Antigravity: rotation=90 (CCW) on the SVG inside the page frame.
@@ -88,8 +88,8 @@ Under the first Rathen king's reign, the **first knights of Ratherlon** were for
 
 As the kingdom expanded, the Faith of Vael spread with it. More realms adopted the faith and its institutions, drawn to the order, stability, and unity they offered in a continent that had once been divided among hundreds of petty kingdoms. Over time, the faith became dominant throughout Ratherlon, and the fragmented realms gradually developed into the massive unified kingdom it would eventually become.
 
-**Religious Harmony in the South:**
-While the Rathens brought the Faith of Vael and knighthood across the Merelands, Western Shore, Vine Shore, and Rivermark, they never attempted to change the south. When forming alliances with **Deepwood** and **Southfrost**, the Rathens respected the indigenous **Faith of the Deep**, allowing House Selborn and House Norvalen to swear fealty on their own ancient oath-stones rather than before Sanctuaries of Vael. Southfrost developed its own formidable order of heavy cavalry (the **Winter Knights** sworn on the Deep Stone and cold iron), while Deepwood fought on foot with axes and bows.
+**Vael and Knighthood throughout the Realm:**
+The Rathens extended their order east and south through alliances, diplomatic integration, security, and the prestige of knighthood. Becoming a knight meant adopting Vael, knightly vows, the chivalric code, and laws of the realm. Over the centuries, Vael became dominant throughout Ratherlon, including Deepwood and Southfrost. Deepwood's forest tactics do not exclude knights; Southfrost's Winter Knights belong to the same Vael-sworn chivalric order.
 
 **The Balance of Power & The Vaelcross Schism:**
 - **Before Ratherlon:** Ashen Kingdom | scattered petty communities | Vaelcross Kingdom

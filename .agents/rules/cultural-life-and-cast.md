@@ -16,3 +16,7 @@ The world is not just war and quiet rooms. It is a living, breathing feudal soci
 - **Ceremonies & Court Mechanics:** Petitions, royal hunts, knightings, and the grinding machinery of feudal governance. 
 
 When writing chapters, weave these elements into the background and foreground to ensure the world never feels empty or strictly focused on just the main protagonists. The setting *is* a character.
+
+## Deepwood working name
+
+**Men of Timber and Caliber:** a proud name used by Deepwood timber crews, especially the men who cut, measure, raft and fit the crown’s timber. “Caliber” denotes the quality of their work and their reliability, with no firearm meaning. It is a working boast, not a house motto, military order or exclusion of women from the trade. First used by **Master Ralf**, a Deepwood timber foreman, in chapter 19. Ralf and his crew are Vael’s people within the unified realm; forest work does not imply a separate faith or an absence of knighthood.

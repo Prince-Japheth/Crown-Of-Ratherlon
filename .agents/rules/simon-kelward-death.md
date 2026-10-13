@@ -26,7 +26,7 @@ To satisfy the rule that "no character is safe" and that a royal bloodline membe
 Because the above characters must survive until the Twin War, they are locked from premature death:
 - **Elyra:** Marries Alton Kelward, mother of Aderyn and Isabelle.
 - **Rhaenaya:** Married to Osric, mother of Alaric.
-- **Rowan:** Marries, father of Caelen and Leraeyna.
+- **Rowan:** Marries, father of Caeylehn and Leraeyna.
 - **Edwyn:** Father of two bastards, Tristan and Cassia.
 
 Executed in chapter 16. Simon asks the king not to order him to the rear and gives the Kelward custom (the duke leads bareheaded so every man sees his face). He dies of an arrow under the jaw from the north rim, in plain sight of Elyra and Gareth, Gareth having used the kill-roar on the rim at Elyra's earlier example. Alton becomes Duke. He cuts SIMON KELWARD. DUKE. under his father's name.

@@ -52,7 +52,7 @@ Chapters already agree with most of this.
 | Elyn | 20 | |
 | Rowan | 22 | |
 | Edwyn | 20 | |
-| Rhaenaya | 19 | Married at 17 or 18. Alaric is born in the first year of the book |
+| Rhaenaya | 19 | Married at 17 or 18. Alaric is born about five months after coronation |
 | Elyra | 18 | |
 | Gareth | 15 | Canon: 12 to 15 years older than the twins. A 15-year-old on Thorn fits the "older cousin" role |
 | Simon Kelward | 28 | Not 35. Became Duke at 18 |
@@ -62,14 +62,14 @@ Chapters already agree with most of this.
 | Corren | about 60 | |
 | Oren (head handler) | about 60 | |
 | The twins | born Y0 + about 8 months | |
-| Alaric | born Y0 + about 3 months | Three months older than the twins |
+| Alaric | born Y0 + about 5 months | Three months older than the twins |
 
 At the Twin War the twins are about 20 or 21. Rodrik is about 44, Gareth about 36, Alys about 71, Robert about 68. All the cousins are within about two years of each other, per `book-outline-1.md`.
 
 ## 5. The Master of Coin
 
 - The previous Master of Coin was **Lord Warin Lansor** (placeholder). He held the office for thirty years under Aldren VII and VIII.
-- **Aldren VIII chose Rowan as Lansor's pupil.** Rowan had no Nyxen and no future in the sky, and the king wanted the second son to have a useful job. Rowan trained under Lansor for **seven years, from fifteen**.
+- **Aldren VIII chose Rowan as Lansor's pupil.** Rowan had no Nyxen and no future in the sky, and the king wanted the second son to have a useful job. Rowan trained under Lansor for **seven years, from fourteen**.
 - Lansor died **a year before Rodrik's coronation** in an accident: his coach went off a washed-out ford on the road back from Rosegate with the Vine Shore tithe rolls aboard. Not an illness.
 - Aldren VIII did not name a successor. He liked keeping the seal and the ledgers close, and he told Rowan, "Keep the books." Then he died.
 - Rowan has kept them for the year since. **He holds the work and no title.** He took the stool at the foot of the council table because no one told him to, and no one has told him to rise. Lansor left Rowan his ledger keys in his will, which the Small Council has never forgotten.

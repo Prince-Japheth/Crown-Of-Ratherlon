@@ -30,10 +30,10 @@ Why would a rebel Elohim that hates God and loves evil establish an order of kni
 - **The "Holy" Mask for Human Sacrifice:** Rather than openly demanding human sacrifices like crude pagan deities, Vael institutionalized the **Cleansing Pyres**. Under the righteous guise of "purifying the realm from corrupting witchcraft and dark arts," his Lectors burn so-called sorcerers, witches, and heretics. This satisfies the rebel spirit's bloodthirsty appetite for human slaughter—frequently claiming innocent midwives, village healers, political heretics, and even children, alongside ordinary innocent casualties swept up in "holy" purges and religious border wars. The commonfolk and knights are so thoroughly blindfolded by self-righteous devotion that they cheer and call this slaughter sacred and holy, genuinely believing they have performed an act of supreme justice.
 
 ### C. The Nature of the Ashen Pantheon (The Contrasting Archetype)
-- While Vael uses the subtle mask of chivalric righteousness, the **Ashen Mountain Fires** represent the primal, carnal rebel Elohim (the Molech / volcanic blood-magic archetype). 
-- They do not pretend to be gentle. They offer raw, blazing power, obsidian steel, and destructive conquest in exchange for open blood-rites, scorched flesh, and human terror at volcanic craters. Different rebel spirits choose different masks: Vael chose false light and legalism; the Ashen gods chose raging fire and blood-iron craft; the Deep Lord chose subterranean dread and ancestral stone.
+- While Vael uses the subtle mask of chivalric righteousness, the **Ashen Mountain Fires** represent the primal, carnal rebel Elohim (the Molech / volcanic blood-magic archetype).
+- They do not pretend to be gentle. They offer raw, blazing power, obsidian steel, and destructive conquest in exchange for open blood-rites, scorched flesh, and human terror at volcanic craters. Different rebel spirits choose different masks: Vael chose false light and legalism; the Ashen gods chose raging fire and blood-iron craft.
 
-### D. The Great Silence & The 1,000-Year Timeline to the Crusaders
+### D. The Great Silence & The Timeline to the Crusaders
 - **The Cosmic Event:** In ancient Ratherlon, the false gods and oracles were once actively vocal—whispering in mountain caverns, shaking empty thrones, and roaring from crater vents.
 - **The Day the Gods Went Mute:** On a specific, recorded spring day roughly **1,000 to 1,050 years in Ratherlon's past**, every oracle, spirit, and voice on the continent suddenly and completely **went silent**. The crater vents became mere fire; the deep stones became cold rock; the high thrones ceased vibrating with unseen presence.
 - **The Christian Reality (The Future Reveal):** When Christian crusaders arrive in later books, their clerics and scholars will examine Ratherlon's ancient chronicles. That terrifying day of silence was **the Friday of the Crucifixion and the Sunday of the Resurrection of Jesus Christ (AD 30–33)**! In Christ's victory on the cross, He *"disarmed the rulers and authorities and put them to open shame"* (Colossians 2:15), shattering their open earthly manifestations and gagging the false gods across the earth.
@@ -41,9 +41,9 @@ Why would a rebel Elohim that hates God and loves evil establish an order of kni
   - **AD 33 / Year of the Great Silence:** Christ dies and rises. Cosmic power of pagan oracles broken. Ratherlon is in the late Dawn Age / fragmented Petty Realms.
   - **The Silent Centuries:** Religions survive solely on memory, written sheepskin rolls, and traditional liturgical chants.
   - **~AD 600 (~550 years post-Silence):** House Rathen arrives, adopts the Faith of Vael, and unifies the continent.
-  - **~AD 850 (~800 years post-Silence):** Aldren I Brennan crowned after the Great Civil War.
+  - **~AD 780 (~750 years post-Silence):** Aldren I Brennan crowned after the Great Civil War.
   - **~AD 1040 (~1,000 years post-Silence):** Book 1 (King Aldren IX and the Twin War). The realm is at high medieval technology and feudal structure.
-  - **~AD 1095–1120 (~1,060–1,100 years post-Silence):** In a future book, the **Christian Crusaders** arrive across the western ocean (matching the exact real-world historical timeline of the First Crusade called by Pope Urban II in 1095 AD!). They will bring the true Gospel and explain the meaning of the millennium-old Great Silence.
+  - **~AD 1250–1300 (over 1,200 years post-Silence):** In a future book, Christian crusaders arrive across the western ocean. The several generations between Aldren X and XVII require a later crusading age; do not synchronize their arrival to the First Crusade.
 
 ### E. The Dawn Age Giants (The Nephilim)
 - Megalithic cyclopean ruins and massive bones found across Ratherlon belong to the **Nephilim / Rephaim** of Genesis 6 and Numbers 13—the giant hybrid offspring of rebel Sons of God and mortal women before the Deluge. Future crusaders will recognize these prehistoric relics immediately, connecting Ratherlon's ancient "Golgathi" directly to the biblical record.
@@ -51,14 +51,18 @@ Why would a rebel Elohim that hates God and loves evil establish an order of kni
 ### F. The Missionaries' True Message (Future Books)
 The Christian crusaders and missionaries in later books do not need to claim Ratherlon's history was a fairy tale. They will show: *the things answering your ancient rites were real, but they were rebel spirits who deceived you with false righteousness and stolen glory. Their power was broken a thousand years ago at Calvary when your gods went dumb, and the true King of Kings has now sent us across the sea.*
 
-## 3. The Predominant Faiths (2-3 Exclusive Religions, No Pantheon)
+## 3. Vael, Knighthood, and the Unification of Ratherlon
 
-Ratherlon does NOT have a polytheistic pantheon of multiple gods/aspects (no god of smithing, no god of harvest). Instead, like medieval Europe with its rival exclusive faiths, the continent is divided between **distinct, rival religions**, each worshiping a single supreme entity (secretly a distinct fallen Elohim).
+**The Fragmented Age:** Before the Rathens, Ratherlon consisted of hundreds of petty kingdoms, chieftains, and local lords, with various local pagan gods and cults and no unified chivalric knighthood. Along the western border near Vaelcross, the Faith of Vael and its religious hierarchy were already spreading eastward into the western petty realms.
 
-They live in uneasy peace under the Brennan crown, but sectarian prejudice, border feuds, and theological skirmishes flare up. In war, each side claims their god is supreme; when defeated, believers assume their god forsook them because of moral failure, broken vows, or ritual neglect, demanding penance and amends.
+**The Rathen Adoption:** House Rathen arrived in the north-west from a distant land without a strong faith of its own. They looked down on the local petty gods of the Merelands, but recognized Vael's immense statecraft power: written law, an established clergy and Sanctuaries, and a divine mandate for central order. They adopted Vael strategically, allied with western rulers, and used the faith's structure to bind petty lordlings under one crown.
+
+**The First Knights:** Under the first Rathen kings, the first knights of Ratherlon were created. Knighthood was the crown's primary political instrument for expansion east and south. Becoming a knight meant adopting the knightly vows, chivalric code, laws of the realm, and Faith of Vael. The Rathens offered diplomatic integration, security, and prestige under this order rather than slaughtering every petty realm.
+
+**The Unified Realm:** Over the centuries, Vael and knighthood spread throughout Ratherlon, including Deepwood and Southfrost. Fragmented cultures gave way to one dominant religious and knightly civilization under the crown. Regional terrain and martial customs neither create separate faiths nor exclude a region from knighthood. The Ashen Kingdom remains a neighboring sovereign realm with its own religion.
 
 ### A. The Faith of Vael (The Dominant / Chivalric Faith)
-- **Who practices it:** The Crownfold, Merelands, Vine Shore, Western Shore, Rivermark, Eastverge, and the neighboring kingdom of **Vaelcross** to the west. **This is the ancestral faith of the Brennans** (who were native commoners of the central plains long before becoming kings) and was **adopted by House Rathen** upon their arrival in the Merelands from Vaelcross to gain written law, knightly heavy cavalry, and political legitimacy.
+- **Who practices it:** Throughout Ratherlon: Crownfold, Merelands, Vine Shore, Western Shore, Rivermark, Eastverge, Deepwood, and Southfrost; also neighboring **Vaelcross**. The Brennans practice the realm's dominant faith. House Rathen adopted Vael after arriving in the Merelands, where its influence was already spreading from Vaelcross; Ratherlon's knighthood was established under the first Rathen kings.
 - **The God's Name & Epithets:**
   - **Vael** (ancient script: *Vaelon*).
   - Titles in the Sacred Rolls: *Vael the Just*, *The Lord of Oaths*, *The First Blade*, *The Lawgiver of the Dawn*, and *The Unsleeping King*.
@@ -80,37 +84,27 @@ They live in uneasy peace under the Brennan crown, but sectarian prejudice, bord
     - **Chants of the Rolls:** Lectors chant from ancient sheepskin scrolls containing the Decrees of Vael.
     - **The Forty-Days Feast:** Celebrated forty days after a child's birth, presenting mother and infant at the Sanctuary to be written into Vael's rolls.
     - **Burial Songs:** Solemn chants sung by Oath-Wardens as a fallen warrior is buried with his sword across his chest.
-- **Henotheistic Worldview:** Followers of Vael do not deny that other gods exist. They acknowledge the gods of the South, the Wood, and the Ashlands, but Vael is *theirs*. They hold that Vael is greater, purer, and more noble than the dark or wild gods of other peoples.
+- **Henotheistic Worldview:** Followers of Vael do not deny that other gods exist. They acknowledge the gods of foreign peoples and the old pagan cults of the fragmented age, but Vael is *theirs*. They hold that Vael is greater, purer, and more noble than the dark or wild gods of other peoples.
 - **The System & Clergy:** A wealthy, highly organized institution centered in soaring vaulted stone **Sanctuaries** and **Great Halls** (featuring the empty High Throne of Vael). Led by **Lectors** (who read and guard the Sacred Rolls of Vael) and **Oath-Wardens** (monastic enforcers).
-- **Knighthood as the Vehicle of Expansion:** Knighthood was born in Vaelcross through the rites of Vael, but under the first Rathen kings, the **knights of Ratherlon** became the primary institution through which the crown extended its influence eastwards. Knighthood carried political authority, chivalric codes, and the Faith of Vael into hundreds of fragmented petty realms, unifying them under one law and altar.
+- **Knighthood as the Vehicle of Expansion:** Created under the first Rathen kings, Ratherlon's knighthood joined military service to Vael's vows, chivalric conduct, and the crown's law. Diplomacy, security, and prestige drew petty rulers into the new order as it spread east and south.
 - **Theology of War:**
-  - *Against Foreign Faiths (e.g., Ashen or Deep):* "Vael has triumphed! His righteous blade shattered the enemy's false gods!" Defeat means Vael hid his face because of his people's pride or sin.
+  - *Against Foreign Faiths (e.g., the Ashen Kingdom):* "Vael has triumphed! His righteous blade shattered the enemy's false gods!" Defeat means Vael hid his face because of his people's pride or sin.
   - *When Ratherlon Regions Fight Each Other (Intra-Realm Civil War):* Handled exactly like medieval European Christian civil wars: both sides believe Vael is completely on their side, and that Vael will judge the field and grant victory to whichever cause is righteous.
-  - *When Ratherlon and Vaelcross Clash (The Vaelcross Contempt & The Bastard's Inheritance):* Although both worship Vael and anoint their knights with the same holy rites, **Vaelcross views Ratherlon with bitter ideological contempt**. 
-    - *The Vaelcross Entitlement ("Trimming the Weed") & Faith-Boosted Pride:* Vaelcross believes the faith is theirs by sacred birthright, merely stolen by Ratherlon. Like an ancient chosen people believing the entire earth was promised to their altars, Vaelcross believes all lands under Vael rightfully belong to them. Their pride is almost absurd: a smaller kingdom persistently attempting to conquer an empire whose individual regions (like the Merelands or Deepwood) are nearly as large as Vaelcross itself. This audacious confidence is entirely boosted by fanatical faith—they believe numbers mean nothing before the pure, uncorrupted favor of Vael.
+  - *When Ratherlon and Vaelcross Clash (The Vaelcross Contempt & The Bastard's Inheritance):* Although both worship Vael and anoint their knights with the same holy rites, **Vaelcross views Ratherlon with bitter ideological contempt**.
+    - *The Vaelcross Entitlement ("Trimming the Weed") & Faith-Boosted Pride:* Vaelcross believes the faith is theirs by sacred birthright, merely stolen or borrowed by Ratherlon. They condemn Ratherlon’s version as a bastardized, corrupted heresy grown too large and powerful and requiring chastisement. Like an ancient chosen people believing the entire earth was promised to their altars, Vaelcross believes all lands under Vael rightfully belong to them. Their pride is almost absurd: a smaller kingdom persistently attempting to conquer an empire whose individual regions (like the Merelands or Deepwood) are nearly as large as Vaelcross itself. This audacious confidence is entirely boosted by fanatical faith—they believe numbers mean nothing before the pure, uncorrupted favor of Vael.
     - *Mini-Successes That Never Last:* Across the centuries, Vaelcross has achieved fleeting mini-successes from time to time—capturing a border watch-keep, raiding the Merelands, or occupying a frontier strip for a summer or two while Ratherlon was distracted (such as the Reed Summer). But their gains never endure; Ratherlon's sheer demographic weight and armies inevitably crush the incursion and reclaim the border.
     - *Ratherlon's Retort ("The Bastard's Inheritance"):* Despite centuries of campaigns, Vaelcross has never once managed to break or conquer Ratherlon. After generations of throwing back Vaelcross armies, Ratherlon's kings and Lectors openly spit in Vaelcross's face:
       > *"You call us bastards? You claim Vael belongs to you alone? In every war you marched to humble us, your lances shattered against our gates. Look upon our vast realm, our soaring Sanctuaries, and our thriving harvests! Vael was never your private possession. Vael grew disgusted by your withered pride, turned his back on your petty kingdom, and chose the 'bastard' to inherit the realm!"*
     - *Broken Oaths:* Because Vael is the *Lord of Oaths*, every war begins with fierce mutual accusations of perjury and treaty-breaking before Vael's altar.
     - *Defeat:* When Ratherlon suffers a temporary defeat or raid, they do not claim Vael was weak; they believe Vael used their brothers from across the border as a rod of chastisement to punish the realm's internal corruption, pride, or unlawful taxes, prompting forty days of public penance and reform.
 
-### B. The Faith of the Deep (The Ancient Faith of the South & Wood)
-- **Who practices it:** **The Deepwood and Southfrost** (House Selborn, House Norvalen, the woodsmen, and the mountain clans). Covering the entire southern forest and mountain belt.
-- **Why Southerners Practice It (The Nature of "The Deep"):** The faith was never "borrowed" between regions—it is the primordial religion of the subterranean earth that both peoples inherited from the Dawn Age:
-  - **In Southfrost (The Deep Stone):** The frozen south is barren of grain; survival depends entirely on what lies under the mountain bedrock—the Frost-Glow crystal mines, subterranean hot pockets, cave shelters, and iron veins. They worship **The Deep Stone**, believing life and warmth rise from the earth's marrow.
-  - **In Deepwood (The Root-Father):** The primeval pine forest depends on ancient roots anchoring into the deep earth. They worship **The Root-Father**, believing the soil holds the memory of all living things.
-- **Knighthood & Martial Traditions in the Deep:**
-  - **The Deepwood:** Dense, roadless pine timber makes heavy cavalry useless. Deepwood has **NO knights** and fights on foot with axes, longbows, and forest ambush.
-  - **The Southfrost (The Winter Knights):** Southfrost adapted heavy plate cavalry to defend the open snow-passes against reavers, creating the **Winter Knights** (six hundred white-lacquered lancers). But they are **sworn to the Deep Stone and cold iron**, not anointed with sweet oils by Lectors in a Sanctuary. They take their vows in mountain cavern-altars. The rest of the realm calls them "knights" because of their plate armor and lances, but northern Lectors view them as grim, unanointed iron-men.
-- **The System & Rites:** No gilded Sanctuaries, written scrolls, or perfumed oils. They worship at ancient **standing stones**, deep mountain caverns, and forest clearings (**oath-yards**). Rites are maintained by local **hearth-keepers** and **stone-singers**.
-- **Voluntary Integration (No Forced Conversion):** When the Rathens expanded south, they never attempted to change or convert Deepwood or Southfrost. The union was voluntary and based on mutual benefit; the crown respected their ancient oath-stones from the beginning.
-- **Theology of War:**
-  - *Victory:* "The Deep Lord broke the pride of the soft plains! The bedrock holds!"
-  - *Defeat:* "The ancient boundary was crossed; the soil was dishonored." They make blood-offerings, reaffirm boundary stones, and endure harsh deprivation as amends.
+### Regional Martial Traditions within Vael's Order
+- **Deepwood:** Shares the Faith of Vael and the realm's knighthood. Forest warfare favors infantry, axes, bows, and ambush; knights may fight on foot as terrain requires. Deepwood is not excluded from knighthood.
+- **Southfrost:** Shares the Faith of Vael. The **Winter Knights** remain six hundred white-lacquered lancers adapted to the cold roads and open snow-passes. They are knights within the realm's chivalric order, sworn to Vael and the crown's law.
 
-### C. The Mountain Fires (The Ashen Pantheon — The Only Polytheistic Faith)
+### B. The Mountain Fires (The Ashen Pantheon — The Only Polytheistic Faith)
 - **Who practices it:** The Ashen Kingdom across the eastern mountains, with occasional heretical cults or converted clans spilling into the Eastverge and Rivermark borders.
-- **The Only Pantheon on the Continent:** Unlike Ratherlon's exclusive, single-entity faiths, **only the Ashen Kingdom worships a polytheistic pantheon**, directly mirroring how ancient Valyria worshipped the gods of the Fourteen Flames. 
+- **The Only Pantheon on the Continent:** Unlike Ratherlon's dominant Faith of Vael, **only the Ashen Kingdom worships a polytheistic pantheon**, directly mirroring how ancient Valyria worshipped the gods of the Fourteen Flames.
 - **The Gods of the Peaks:** A large, sprawling pantheon of deities of fire, magma, volcanic vents, the scorching sun, embers, smoke, and blood-iron craft (e.g., gods of the molten abyss, the burning sun of wrath, the cinder-gale, and the subterranean forge).
 - **The System:** Harsh, blood-magic fire rites centered around volcanic vents and crater-temples. (Note: Valyrian-like *faiths*, but NOT Valyrian *culture*, which belongs to Aurouvah across the warm sea).
 - **Theology of War:** Purging by flame. To the Ashen, victory proves their fire-gods consume all weak, unburnt earth. To Ratherlon, wars against the Ashen are seen as holy defense against a monstrous swarm of heathens.
@@ -120,23 +114,20 @@ They live in uneasy peace under the Brennan crown, but sectarian prejudice, bord
 Similar to George R.R. Martin's worldbuilding in *A Song of Ice and Fire*, **there is NO single, objective origin story for humanity** confirmed in the text. History is treated realistically: full of contradictory cultural mythologies with no definitive proof of which, if any, is true. The literal genesis of mankind is completely lost to the Dawn Age.
 
 ### Distinct Cultural Creation Myths:
-1. **The Faith of Vael (The West & Heartlands):**
+1. **The Faith of Vael (Throughout Ratherlon and Vaelcross):**
    - Teach that Vael formed the first men from the dust, clay, and river-silt of the western hills.
    - Vael breathed speech, law, and chivalric honor into them, placing the first sword into the hand of the first righteous king to banish wild chaos and establish order.
-2. **The Faith of the Deep (Deepwood & Southfrost):**
-   - Believe mankind was never "fashioned from clay," but sprang directly from the living marrow of the bedrock and ancient mountain stone, or grew upward like the roots of the deep pine.
-   - Man was born to endure cold, grief, and unyielding earth, and upon death, the flesh decays while the soul sinks back into the subterranean stone.
-3. **The Ashen Kingdom (The Volcanic Forging):**
+2. **The Ashen Kingdom (The Volcanic Forging):**
    - Believe their fire-gods hammered and tempered the first people from boiling magma and obsidian deep within the volcanic peaks.
    - To them, the Ashen were forged like blades in the earth's furnace, destined by their pantheon to burn and conquer the soft, unbaked clay-peoples of the lowlands.
-4. **Aurouvah (Celestial Descent across the Warm Sea):**
+3. **Aurouvah (Celestial Descent across the Warm Sea):**
    - Trace humanity (or their own noble blood) to a celestial union of falling stars and the silver heavens.
    - They hold to cyclical rebirth: the spirit does not die, but migrates across bloodlines and generations like starlight passing through mirrors.
 
 ### The Maester Perspective:
 - The Maesters of Foldhall hold an agnostic, empirical view. They frankly admit that the true biological beginning of mankind is unknown.
 - Maester histories only record that ancient human tribes migrated across the continent and warm seas thousands of years ago in vast, forgotten waves—long before the Rathens sailed, long before the Brennans tamed the first roost, and long before Vaelcross built its first stone ramparts.
-- Whether mankind came from dust, stone, fire, or stars is left to the songs and the Lectors; the maesters record only what was written in ink. 
+- Whether mankind came from dust, stone, fire, or stars is left to the songs and the Lectors; the maesters record only what was written in ink.
 
 ## 5. Ancient History in Lore (The Great Silence & The Dawn Giants)
 
@@ -165,7 +156,7 @@ Similar to George R.R. Martin's worldbuilding in *A Song of Ice and Fire*, **the
 6. No light-against-darkness struggle, no chosen people, no prophecy, no resurrection.
 7. **NO CHRISTIAN TERMS:** Never use "bishop", "monk", "priest", "church", "cathedral", "sermon", "cross". Use *Lector*, *Warden*, *Sanctuary*, *Great Hall*.
 8. **NO "WATCHER" LORE YET:** Do not use the word "Watchers" (to avoid spoiling the Enoch reveal). Avoid "elohim," "angel," "demon," "heaven" and "hell" for the same reason.
-9. **NO FLAME FOR BRENNANS:** The Brennans ride Nyxens, which use sonic roars, not fire. The "Cinder" is a scent and hair color. The flame is an Ashen thing. The Brennans do NOT answer to a god of flame. 
+9. **NO FLAME FOR BRENNANS:** The Brennans ride Nyxens, which use sonic roars, not fire. The "Cinder" is a scent and hair color. The flame is an Ashen thing. The Brennans do NOT answer to a god of flame.
 10. **NO FORESHADOWING OF LATER REVEALS:** Readers and characters in Book 1 must experience their religion and ancient history as 100% genuine, immersive feudal reality. Never drop hints about the coming Crusaders, Christ, or the spiritual truth behind the Silence.
 
 ## 7. Vocabulary

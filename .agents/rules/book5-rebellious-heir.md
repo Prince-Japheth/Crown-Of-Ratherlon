@@ -1,13 +1,13 @@
 # Book 5 — The Broken Bloodline, The Beast Changers, and The Crusaders
 
-**SPOILER FLAG (Far-Future Outline).** This file outlines the multi-generational climax of the Brennan dynasty post-Twin War (Year ~600–750 post-unification / ~1,000–1,100 post-Silence). None of this may be hinted at or foreshadowed in Book 1 prose.
+**SPOILER FLAG (Far-Future Outline).** This file outlines the multi-generational climax of the Brennan dynasty post-Twin War (Year ~600–750 post-unification / over 1,200 years post-Silence). None of this may be hinted at or foreshadowed in Book 1 prose.
 
 ---
 
 ## 1. Succession from the Twin War to the Crisis
 
 ### The Post-Twin War Lineage
-1. **King Aldren X (The Survivor Twin):** Rules in the wake of the Twin War. In his old age by the fire, he sits with his firstborn child and legal heir, **Princess Elowen**.
+1. **King Aldren X (The Returning King):** Rules in the wake of the Twin War. In his old age by the fire, he sits with his firstborn child and legal heir, **Princess Elowen**.
 2. **Queen Elowen (The Second Ruling Queen):** Inherits the crown in her own right upon Aldren X's death (mirroring Queen Seren's precedent from Book 2). She rules Foldhall and ensures the survival of the direct firstborn Nyxen scent.
 3. **King Aldren XI:** Firstborn son of Queen Elowen. Rebuilds the realm's institutions following the long recovery from the Twin War.
 4. **King Aldren XII:** Son of Aldren XI. A traditionalist king haunted by the fear of losing the crown's aerial power. He is the father of the rebellious heir.
@@ -17,7 +17,7 @@
 ## 2. The Rebellious Heir's Flight (The Violation & The Murder)
 
 ### The Firstborn Heir: Prince Daemyean Brennan
-*(Note on naming: Just as House Targaryen permanently retired "Rhaenyra" and "Aemond" after the Dance of the Dragons, House Brennan permanently retired the names "Aeion," "Aeian," and "Edric/Harwin" after the catastrophic Twin War. The rebellious prince is given a fresh, untainted Aurouvian name.)*
+*(Note on naming: Just as House Targaryen permanently retired "Rhaenyra" and "Aemond" after the Dance of the Dragons, House Brennan permanently retired the names "Aeion" and "Aeian" after the catastrophic Twin War. The rebellious prince is given a fresh, untainted Aurouvian name.)*
 
 The direct firstborn heir to King Aldren XII is **Prince Daemyean Brennan** (*Daemyean*, Aurouvian for *"Prince of the Deep Tide"* or *"Dreamer of the Moon"*).
 - **His worldview:** Daemyean is quiet, contemplative, and deeply resentful of his gilded captivity: *“Why should I be chained to Ratherlon because of a role forced upon me before I drew breath? The world is vast—there is the ancient warm sea, the lands of Aurouvah across the water whose tongue we whisper in the dark, foreign kingdoms we have never seen. I will not spend my life rotting on a high seat of stone, ruling through the terror of beasts.”*
@@ -60,7 +60,7 @@ In desperate panic to save his crown, **King Aldren XIV** seeks out forbidden, a
 The dark sorcery succeeds, but fundamentally alters the Brennan royal line:
 - **Shape-Shifting:** The royal family can now physically transform into colossal, four-limbed winged Nyxens at will.
 - **The Physical Mark:** In human form, their appearance mutates. They develop **silver-white hair** (still retaining the metallic Brennan cinder sheen) and piercing **teal-green eyes** (the exact traits of the sacrificed white beast).
-- **One Insular, Incestuous Family (No Cadet Branches):** To keep the shifter magic concentrated in their blood, King Aldren XIV institutes strict, compulsory sibling and cousin intermarriage. Like the dragonlords of ancient Valyria, **House Brennan has NO cadet branches**—it is one small, tight, insular royal household living under one roof in Foldhall, where brothers marry sisters.
+- **One Insular, Incestuous Family (No Cadet Branches):** To keep the shifter magic concentrated in their blood, King Aldren XIV institutes strict, compulsory sibling and cousin intermarriage. Like the dragonlords of ancient Valyria, **the shifter line permits no new cadet households from Aldren XIV onward**—it is one small, tight, insular royal household living under one roof in Foldhall, where brothers marry sisters.
 
 ### The Transformation Mechanics: Cumulative Scaling (The Multiplier)
 The transformed beast form does NOT possess fixed, static stats:
@@ -86,7 +86,7 @@ The transformed beast form does NOT possess fixed, static stats:
    - When a Brennan shifter loses their spouse, lover, or child, their heart cannot withstand the grief. Where an ordinary human endures depression, grief, and tears, a Brennan shifter’s heart literally gives out—**they physically mourn themselves to death from acute cardiac collapse**.
 4. **Fratricidal Bloodbaths (Hyper Civil Wars in One House):**
    - Because transforming power belongs to *every* royal sibling in this tight, incestuous family, every prince and princess is a living weapon of mass destruction.
-   - With no cadet branches and everyone living together in Foldhall, personal jealousies, bedroom hatreds, and inheritance rivalries turn into immediate, horrific civil wars between brothers and sisters tearing each other apart in beast form.
+   - With no new cadet households among the shifters and that ruling household living together in Foldhall, personal jealousies, bedroom hatreds, and inheritance rivalries turn into immediate, horrific civil wars between brothers and sisters tearing each other apart in beast form.
    - **Rapid King Turnover:** Because shifter monarchs frequently die in beast clashes or from the mourning curse, reigns are violently short:
      - **King Aldren XIV:** Slain in an internal shifter clash.
      - **King Aldren XV:** Rules briefly amid fratricidal chaos.
@@ -117,7 +117,7 @@ The transformed beast form does NOT possess fixed, static stats:
 
 ### The Historical Context (~AD 1095–1120 / ~1,060–1,100 Post-Silence)
 During the climax of this cataclysmic civil war between Prince Rhaemyean and King Aldren XVII, the **Christian Crusaders** sail across the western ocean and arrive on the shores of Ratherlon.
-- Matching the real-world timeline of the First Crusade (1,063 years after the death and resurrection of Christ / The Great Silence).
+- A later crusading age, over 1,200 years after the Great Silence; the dynasty’s intervening generations take precedence over the discarded exact First Crusade synchronization.
 - Led by disciplined knightly orders bearing the true Cross and unshakable faith.
 
 ### The Great War & Victory
@@ -128,7 +128,7 @@ During the climax of this cataclysmic civil war between Prince Rhaemyean and Kin
 - Crusader clerics study Ratherlon's ancient annals and explain the truth to the people:
   1. **The Great Silence:** The day all oracles and gods went dumb was the day Christ died on Calvary and rose from the grave, breaking the power of the rebel powers (Colossians 2:15).
   2. **The Golgathi Giants:** The megalithic ruins across the land are the pre-flood Nephilim of Genesis 6.
-  3. **The False Gods:** Vael, the Deep Lord, and the Ashen fires were fallen Elohim (Deuteronomy 32:8–9) masquerading as righteous gods to steal worship and demand blood.
+  3. **The False Gods:** Vael and the Ashen fires were fallen Elohim (Deuteronomy 32:8–9) masquerading as righteous gods to steal worship and demand blood.
 
 ### The Deliverance of House Brennan
 - The Crusaders and their priests perform solemn rites of exorcism and spiritual deliverance over House Brennan.

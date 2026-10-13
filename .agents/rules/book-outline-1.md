@@ -4,7 +4,7 @@ trigger: always_on
 
 ## THE PITCH
 
-A kingdom whose crown rests on a bloodline the Nyxens can smell goes to war with itself when twin princes, both legitimate, both riders, split the realm. The war ends with one survivor who cannot say which brother he was.
+A kingdom whose crown rests on a bloodline the Nyxens can smell goes to war with itself when twin princes, both legitimate, both riders, split the realm. Both twins end on the cliff; one body returns carrying neither name and becomes Aldren X.
 
 ## HOW THE BOOK IS EXPERIENCED
 
@@ -12,23 +12,23 @@ The reader lives the story in the moment — Foldhall summers, campaigns, betrot
 
 **Progressive Character Timelines (Experiential Pacing):** At the beginning of the book, characters are in their youth. Elyra is an unmarried wild rider; Rowan is the unmarried ledger-keeper brother; Edwyn is the performer. Their defining end-states (Rowan's tragic marriage and loss, Elyra marrying Alton Kelward, Edwyn having Tristan and Cassia) happen *progressively* over the timeline of the book. Never info-dump or foreshadow their future end-states early on. The `.agents` files represent their "Start of War" snapshot, but the prose must let the reader experience the "now" as they grow.
 
-Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the survivor is telling this wound to his child, and he still does not know which prince he was. Her next question seeds Book Two (which is a prequel).
+Only at the END, after the cliff and the hunger to know who survived, does the book cut to old King Aldren X by the fire with his daughter Elowen. The cliffhanger is the recognition: the returning king tells this wound to his child, carrying neither prince’s identity. Both twins died on the cliff; nobody was resurrected. Her next question seeds Book Two (which is a prequel).
 
 ## BOOK ONE SPINE
 
 0. Before the heirs (long): Rodrik and Elyn's Foldhall, family, visits, Nyxens, borders. Then pregnancy. Then birth and king's rush home. Then raising the twins, Roselyn, weather turns.
 1. Succession crisis after King Aldren IX dies on campaign without naming an heir.
-2. Two visions of rule: Edric (diplomatic) vs Harwin (warrior).
-3. Lock-in: Lady Roselyn Varen is assassinated. It is universally believed that Harwin ordered it, though it is never confirmed in the text.
+2. Two visions of rule: Aeion (diplomatic) vs Aeian (warrior).
+3. Lock-in: Lady Roselyn Varen is assassinated. It is universally believed that Aeian ordered it, though it is never confirmed in the text.
 4. First family war with Nyxens on both sides.
-5. Final battle, one twin lives; identity unrecoverable.
+5. Both twins die on the cliff. One body returns carrying neither name, crowned Aldren X; no resurrection.
 6. End reveal / cliffhanger only: Aldren X + Elowen by the fire.
 
 ## THE COUSIN TIMELINE (Birth Sequence)
 To ensure the cousins are all old enough to ride in the Twin War, their births happen in a very tight window around the twins:
 1. **Rhaenaya** has a child (Alaric) *before* Rodrik has the twins.
-2. **Rodrik** has the twins (Edric and Harwin) shortly after Alaric's birth.
-3. **Rowan** marries his wife and they have **Caelen** and **Leraeyna** immediately/shortly after the twins are born.
+2. **Rodrik** has the twins (Aeion and Aeian) shortly after Alaric's birth.
+3. **Rowan** marries his wife and they have **Caeylehn** and **Leraeyna** immediately/shortly after the twins are born.
 4. **Elyra** marries Alton Kelward and they have **Aderyn** in that same tight window.
 5. **Edwyn** consummates with a noblewoman (having his first bastard, Tristan) around the time of those weddings. His second bastard (Cassia) is born shortly after.
 *(Result: The entire cousin generation is practically the same age, making them all late teens/early 20s when the Twin War erupts.)*
@@ -48,36 +48,36 @@ To ensure the cousins are all old enough to ride in the Twin War, their births h
 | Question | Call |
 |----------|------|
 | Crisis start | Aldren IX dies on campaign, no named heir |
-| Roselyn | Assassinated after "first to sire an heir" rumor. Universally blamed on Harwin, but never confirmed |
-| Survivor | Trauma + fragments; never revealed which twin |
+| Roselyn | Assassinated after "first to sire an heir" rumor. Universally blamed on Aeian, but never confirmed |
+| Returning king | One body, neither twin’s identity; both twins end on the cliff; no resurrection |
 | Open war length | ~18-24 months after Roselyn |
-| Armies | Edric = quantity (Varen, Rathen...); Harwin = quality (Kelward, Norvalen...) |
+| Armies | Aeion = quantity (Varen, Rathen...); Aeian = quality (Kelward, Norvalen...) |
 | Birth-order mystery | Gossip only, never the opening hook |
 | Birth of twins | King away at war (breaking the heir rule again because his Nyxen Hart was the largest living beast needed for battle); night labor, midwives late; rushes home to twins already born; stays a season |
 
-## WHY EDRIC = "DIPLOMATIC" / HARWIN = "WARRIOR"
+## WHY AEION = "DIPLOMATIC" / AEIAN = "WARRIOR"
 
 Not labeled by narrator fiat — earned under Rodrik's reign through border, foreign, and domestic work.
 
-### Edric (peace-craft, ink, quantity)
+### Aeion (peace-craft, ink, quantity)
 1. **Harbor peace:** settles Vine Shore / Western Shore dues quarrel (Varen vs Tarnell) without steel
 2. **Mere ink:** mediates Rathen-cousin mill/hunt feud
 3. **Truce words:** after the Second Ashen War, carries Foldhall's terms / hostage exchange to Eastverge
 4. **Progress ear:** listens, names petitioners, buys loyalty with fairness
 
-### Harwin (grit, quality, field)
+### Aeian (grit, quality, field)
 1. **Eastverge seasons:** rides with Kelward — raid-answers, gullies, watch-stones, learned to sit a bront before most princes learn to sit a destrier
-2. **Second Ashen War:** at Rodrik's side in hard campaign while Edric's ink is elsewhere
+2. **Second Ashen War:** at Rodrik's side in hard campaign while Aeion's ink is elsewhere
 3. **Icewide bruise / the Frostglow War:** cold-shore and mountain fight with Gareth and Alaric against the Islanders and the reavers, when the twins are about sixteen
 4. **Quality quarrel:** insists tallies without grit are corpses
 
-Both true: Edric's peace is real; Harwin's grit is real. Camps form from *which fear* you trust after IX dies.
+Both true: Aeion's peace is real; Aeian's grit is real. Camps form from *which fear* you trust after IX dies.
 
 ## WHY NO HEIR COMPETITION
 
 1. **The Opportunity of Choice:** In a feudal monarchy, a kingdom usually gets what it's given—if the firstborn is terrible, the realm suffers. Because the midwives mixed up the twins at birth while Rodrik was away at war, the "firstborn" rule was broken. Instead of a crisis, Rodrik saw this as a miraculous, unprecedented opportunity: he had two highly qualified, healthy sons, and for the first time in history, a king could actually *evaluate* them as they grew and choose the absolute best man for the realm.
 2. **The Tension of Uncertainty:** The tension in the book is NOT "a civil war is coming." The tension is the fascinating uncertainty of watching two princes excel in their distinct fields (ink vs. mud). The reader, the parents, and the realm get to evaluate them in real-time. Rodrik delays his choice because both are so incredibly qualified, and he wants to see who they truly become.
-3. **The Rise of Factions:** As Rodrik waits and evaluates, Harwin's martial exploits earn him a fierce following. The parents recognize Harwin is a bit rash and unpredictable, but still highly qualified. 
+3. **The Rise of Factions:** As Rodrik waits and evaluates, Aeian's martial exploits earn him a fierce following. The parents recognize Aeian is a bit rash and unpredictable, but still highly qualified.
 4. **The Tragedy:** Rodrik's fatal mistake is that he evaluates them for too long and dies before making the final choice, leaving a realm that has already organically split its loyalties between the two exceptional princes.
 
 ## QUEEN ELYN'S FATE
@@ -90,9 +90,9 @@ Both true: Edric's peace is real; Harwin's grit is real. Camps form from *which 
 
 **Timing:** after Roselyn's murder and camps are irreversible, before/early in open Nyxen war. Not a prologue shock, not years after peace.
 
-**Retired path:** Harwin kills her to stop an Edric announcement (creates two mother-crimes that stack into cartoon).
+**Retired path:** Aeian kills her to stop an Aeion announcement (creates two mother-crimes that stack into cartoon).
 
-**Key irony:** She sees Edric in Rodrik's peace-craft and Harwin in Rodrik's grit. Rodrik knew which face each moment needed. She cannot crown that wholeness in either boy alone — that trap is part of why she breaks.
+**Key irony:** She sees Aeion in Rodrik's peace-craft and Aeian in Rodrik's grit. Rodrik knew which face each moment needed. She cannot crown that wholeness in either boy alone — that trap is part of why she breaks.
 
 DO NOT have her announce a chosen heir. That contradicts the locked rule.
 
@@ -106,7 +106,7 @@ Arc: Not a good man becoming evil, but an already flawed man gaining enough powe
 
 The audience doesn't need to pity him. They only need to understand him.
 
-## EDRIC'S MOTIVATIONS (Why he doesn't just surrender)
+## AEION'S MOTIVATIONS (Why he doesn't just surrender)
 
 1. **Fiancée (Roselyn):** loves her genuinely; she talks about wanting to be queen — not scheming, just can't imagine a future without him on the throne
 2. **Court pressure:** if he surrenders, warrior twin may kill him (he's still a contender), kill his children, punish his supporters
@@ -132,19 +132,19 @@ Make the kingdom sweet enough to hurt when it breaks. Raise the twins in view. P
 - I-0: Before the Heirs — Rodrik & Elyn's life with no children. Rodrik was just crowned and just married Elyn; they are NOT struggling with barrenness. The borders test the new king immediately, emboldened because the terrifying veteran Nyxen (Oak) flew away when Aldren VIII died. Court, roosts, siblings, border season, marriage as a new partnership. Pregnancy news at END of this movement (a very short timeline between crowning, marriage, and pregnancy).
 - I-A: Arrival of the Twins — Pregnancy through birth. King rushes home from war to two cribs. Naming. Birth-order gossip starts as other people's noise.
 - I-B: Boys of Foldhall — Childhood through early youth: yard, first litter, lessons, feast.
-- I-C: Blood and Ink — Young men on campaign; Edric's ink, Harwin's mud; wings earned.
+- I-C: Blood and Ink — Young men on campaign; Aeion's ink, Aeian's mud; wings earned.
 - I-D: Roselyn and the Realm at Ease — Courtship, betrothal, harvest progress.
 - I-E: The Weather Turns — Borders wake; succession talk while father lives; last homecoming; he rides out to die.
 
 ### PART II: The Empty Chair (~15-20%)
 Succession crisis earned. Camps form. Roselyn becomes the hinge. Tone: grief, letters, halls, last chance at coexistence.
 
-Beats: King's death reaches Foldhall → Elyn trapped → Edric argues continuity, Harwin gathers hard country → Family picks sides (Caelen disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's assassination (blamed on Harwin's warrant, never confirmed).
+Beats: King's death reaches Foldhall → Elyn trapped → Aeion argues continuity, Aeian gathers hard country → Family picks sides (Caeylehn disobeys Rowan) → Swing politics → Roselyn's soft words → Roselyn's assassination (blamed on Aeian's warrant, never confirmed).
 
 ### PART III: The Twin War (~25-30%)
 Strategic civil war; first Nyxen-against-Nyxen; hollow victories. Tone: campaign seasons, doctrine, empty roosts.
 
-Beats: Edric's grief becomes war doctrine → Rival legitimacy theater → First family rider death → Grain, winter, swing houses forced → Caelen/Elyra/Gareth arcs → Harwin fetches Oak → Both sides commit to decisive field.
+Beats: Aeion's grief becomes war doctrine → Rival legitimacy theater → First family rider death → Grain, winter, swing houses forced → Caeylehn/Elyra/Gareth arcs → Aeian fetches Oak → Both sides commit to decisive field.
 
 ### PART IV: The Cliff (~10-15%)
 Destroy the question the war was fought to answer.
@@ -155,12 +155,12 @@ Beats: Failed almost-parley → Battle; twins fall together; one body comes back
 
 | Lane | Who | Heaviest in |
 |------|-----|-------------|
-| A | Edric | All parts |
-| B | Harwin | All parts |
+| A | Aeion | All parts |
+| B | Aeian | All parts |
 | C | Roselyn | Part I-II (then absence) |
 | D | Elyn | Part I-II, touches after |
 | E | King Rodrik / Aldren IX | Part I (until death) |
-| F | Caelen or Roland | Late I onward |
+| F | Caeylehn or Roland | Late I onward |
 | G | Outside the family: Kingsguard, handlers, lords, ladies, soldiers, smallfolk | Part I regularly, then wherever the war needs a witness |
 | End only | Aldren X / Elowen | Final chapter only |
 
@@ -174,7 +174,7 @@ Suggested roster, each with a canon anchor:
 | Wynn, a handler | Wynn the handler is the prologue POV in the layout skill | Roost life, the pup, pipes, what handlers see of Hart's calling north |
 | Lord Merecroft | The weeping lord of the council quarrel (chapters 5 and 15) | The man who said yes, from inside his fear |
 | Lady Isolde Yarben | Merecroft's widowed sister (chapter 15) | Vine Shore, a woman who reads men and has a brother to keep |
-| Duke Roland Varen | Lane F, "Caelen or Roland," late Part I | Rosegate, grain, the Vine Shore's view of the crown |
+| Duke Roland Varen | Lane F, "Caeylehn or Roland," late Part I | Rosegate, grain, the Vine Shore's view of the crown |
 | Helena Tarnell | Settler of quarrels at Foldhall, harbor dues | The Western Shore and the dues feud |
 | A Kelward watch-stone sergeant | The outline's "Kelward watchtower" place chapter | The Ashen seen from the ground, the night before the Redcut |
 | Maester Osmund | Keeps the rider roll and crafts the pipes | Pipes, the roll, what the Maester of Foldhall actually knows |
@@ -200,8 +200,8 @@ Current sequence:
 | 15 | Edwyn | household |
 | 16 | Alton Kelward | outsider |
 | 17 | Harrun | outsider |
-| 18 | Isolde Yarben | outsider (next) |
-| 19 | Wynn | outsider (next) |
+| 18 | Isolde Yarben | outsider (written) |
+| 19 | Wynn | outsider (written; first spring, roost repairs and Tomas) |
 
 Part I may use short place chapters (Vine Shore harvest, Kelward watchtower) without permanent POV characters.
 

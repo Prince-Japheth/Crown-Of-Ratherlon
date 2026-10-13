@@ -10,32 +10,30 @@ trigger: always_on
 
 `book-outline-1.md` already says:
 - One body comes back from the cliff.
-- The survivor **never learns which twin he was.** The answer died on that cliff.
+- **Both twins die on the cliff.** One body returns as a third thing, carrying neither name, and is crowned Aldren X. Nobody is resurrected.
 - In the closing scene King Aldren X sits by the fire with his daughter **Elowen**. She asks which prince he was. He still does not know.
 - The realm reads him like a mirror, and each side sees what it wants.
 
-This file adds to that and does not change it.
+The controlling ruling is `brennan-hair-greywater-and-travel.md`, section 4. “Survivor” below is shorthand for the returning body, never proof that either prince survived. Hypothetical memories and factional beliefs must not settle him as one twin.
 
 ## 2. His name
 
-- **The throne gives it to him.** From the moment the crown is set on his head, the realm calls him **Aldren, the tenth of that name**. The regnal name erases the name he was born with, as `dictionary.md` already says. He never has to choose between Edric and Harwin in public.
-- **His own thoughts avoid both names.** In his own point of view, narration calls him **"the survivor"** in the days after the cliff and **"the king"** afterward. He does not use "Edric" or "Harwin," because he cannot say either without a wound opening. When a twin's name comes into his head he turns from it.
-- **Others cannot settle it either.** His own mother's face tells him nothing. Each faction hears the voice it expects.
+- **The throne gives it to him.** From the moment the crown is set on his head, the realm calls him **Aldren, the tenth of that name**. The regnal name erases the name he was born with, as `dictionary.md` already says. He never has to choose between Aeion and Aeian in public.
+- **His own thoughts avoid both names.** In his own point of view, narration calls him **"the survivor"** in the days after the cliff and **"the king"** afterward. He does not use "Aeion" or "Aeian," because he cannot say either without a wound opening. When a twin's name comes into his head he turns from it.
+- **Others cannot settle it either.** Familiar faces tell him nothing. Each faction hears the voice it expects.
 
-## 3. The twins' private Aurouvian names
+## 3. The twins' given names
 
-`aurouvian-language-and-names.md` has **Aeion** and **Aeian**. Decision: they are the twins' **private Aurouvian names**, given by Rodrik, who murmured them at the cradle. The public names stay **Edric** and **Harwin**.
+**Aeion** and **Aeian** are the twins' actual given names, used by family, court, and realm alike. There are no separate public or private names.
 
-You said the names must not fit the men they become, because a name that matches a destiny is convenient writing. So the mapping is **against type**:
+| Name | Ribbon | Meaning | Character |
+|------|--------|---------|-----------|
+| **Aeion** | Blue | Shield of the Heavens; Son of the Sky | The diplomatic twin |
+| **Aeian** | White | Reader of the Heavens | The warrior twin |
 
-| Public name | Ribbon | Aurouvian name | What it seems to mean | The man |
-|-------------|--------|----------------|-----------------------|---------|
-| **Edric** | blue | **Aeion** ("Shield of the Heavens," "Son of the Sky") | Bright, forceful, a warrior's name | The diplomat |
-| **Harwin** | white | **Aeian** ("Reader of the Heavens") | Patient, scholarly | The warrior |
+The names do not predict their temperaments. Elyn retains Rodrik's proposed name, Aeion, and chooses Aeian for the second boy. The ribbons identify the babies; they do not establish birth order. The survivor cannot say whether his father once called him the Shield or the Reader.
 
-It was assigned by **ribbon**, which was tied in the dark by a frightened girl, so it carries no judgment of either boy. The mismatch also matters because the survivor cannot say whether his father once called him the Shield or the Reader.
-
-I changed "Watcher" to "Reader" in the Aurouvian file. "Watcher" would hint at the Watchers of Enoch, and the later reveal should not be foreshadowed.
+Use “Reader,” not “Watcher,” to avoid foreshadowing the later reveal.
 
 ## 4. Why he hopes never to remember
 

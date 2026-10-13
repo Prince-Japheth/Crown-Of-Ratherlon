@@ -27,8 +27,8 @@ The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by
 6. Gareth (sixth-born, last) — Deep warm brown with only a ghost of metallic sheen — visible only when light hits at an angle, a fleeting silver flash like a fish turning beneath dark water.
 
 **The Aurouvian language in House Brennan:**
-- Saeraphyn brought her mother tongue to Foldhall; the royal family still speaks Aurouvian as a private language
-- Used for intimacy, whispered asides, muttered profanity after council meetings — NOT for ceremony, statecraft, or commanding Nyxens
+- Saeraphyn brought her mother tongue to Foldhall. Aurouvian is the Brennans’ comfort language and their natural default in unguarded conversation with family and their Nyxens. They slip into it for affection, reassurance, irritation, jokes, and ordinary talk without making a deliberate language choice. The common tongue remains usual in public dealings, ceremony, and statecraft. Short, distinct Aurouvian commands are also practical over wind and battlefield noise; that utility supplements the habitual family language rather than being its sole cause.
+- Used for intimacy, whispered asides, muttered profanity after council meetings — and for short commands to their Nyxens (see nyxen-roster-and-commands.md); NOT for ceremony or statecraft
 - Leofric was terrible at pronunciation; Saeraphyn laughed at him for it
 - Comedy and warmth, not gravity — brothers swearing under their breath in Aurouvian while siblings snort
 
@@ -44,6 +44,8 @@ The Brennan Cinder — Full Six-Sibling Hair Gradient (Aldren VIII's children by
 - **"biological"** — use "natural" or equivalent
 - **"inertia"** — use "the fall," "the weight," "the ground's patience," or rephrase
 Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical language where already written, but all new prose and in-world content avoids these terms. Flag any word that sounds post-Renaissance.
+
+**Nyxen coat vocabulary (locked):** Modern coat classifications such as tabby, mackerel tabby, ticked agouti, bicolour, colourpoint, tuxedo, and calico are author-facing visual shorthand only. They may remain in .agents design notes. Do not use these classifications in chapter narration, dialogue, or reader-facing in-world definitions. Describe the visible colour and markings instead: dark stripes, banded hairs, pale chest, white paws, darker ears or muzzle, spots, swirls, or mottled patches. Ordinary literal uses unrelated to coat classification are unaffected.
 
 **Riders fly solo (NEW):**
 - Riders do NOT travel with handlers on missions. Handlers stay at the roost.
@@ -73,3 +75,7 @@ Existing author-facing notes (e.g. nyxen-origins-and-hide.md) retain technical l
 **Do not telegraph future deaths.** No scene may hint that a named character will die in the Twin War, the Frostglow War or any other future event. Characters live on the page with a future the reader believes in.
 > **Check geography before any campaign.** Before writing a march, siege, blockade, flight or war, write the route and the time using `geography-and-logistics.md`. No conflict between two regions that do not touch unless the chapter says what lies between them and what the army does about it. Ravens, riders and Nyxens use the speeds in that file.
 > **Faith guardrails.** The book never says whether any power is real and never shows one as good. No deity speaks, appears or acts on the page, no miracle is confirmed, and the narrator never calls anything holy. Use `faiths-of-ratherlon.md` for the traditions and the vocabulary swaps. Never write the words Watchers, elohim, angel or demon.
+
+## Competence under constraint
+
+A capable character uses the information available, shares relevant evidence with responsible allies, and takes lawful precautions. Delay comes from evidence, jurisdiction, distance, weather, custody, political costs, conflicting obligations or an adversary’s shown action. Never make a clever character ignore an available solution simply to preserve an arc. Do not use captivity or injury as the default in every case.

@@ -51,23 +51,23 @@ Nyxens of note: Hart (king), Briar (Edwyn), Lark (Elyra), Thorn (Gareth).
               |
         +-----+-----+
         |           |
-      EDRIC       HARWIN
+      AEION       AEIAN
 
-    ROWAN ---- CAELEN, LERAEYNA
+    ROWAN ---- CAEYLEHN, LERAEYNA
     EDWYN ---- TRISTAN, CASSIA
     ELYRA = ALTON KELWARD ---- ADERYN, ISABELLE
     RHAENAYA = OSRIC ---- ALARIC, BEATRICE
     GARETH (unmarried)
 ```
 
-Nyxens of that generation: Ash (Edric), Storm (Harwin), Rook (Caelen), Frost (Alaric).
+Nyxens of that generation: Ash (Aeion), Storm (Aeian), Rook (Caeylehn), Frost (Alaric).
 
-### Pre-Crown Line (Y0 → ~Y200)
+### Pre-Crown Line (F0 → ~F200; Farmer-era dating)
 
 Most spouses are Fold neighbors. Across two centuries only three noble-blood matches stick (one in, two out). Cold great-house offers refused.
 
 ```
-Brennan the Farmer = Mera of the Fold                    [Y0 / Book 4]
+Brennan the Farmer = Mera of the Fold                    [F0 / Book 4]
  |
  └─ Robard = Elaine of Callenby
      |
@@ -79,7 +79,7 @@ Brennan the Farmer = Mera of the Fold                    [Y0 / Book 4]
      │   │   │   |
      │   │   │   ├─ Harlan (first) = Ruth of Yarben      [FARMER]
      │   │   │   │   |
-     │   │   │   │   ├─ Torrhen (first) → ALDREN I       [~Y200 / Book 3]
+     │   │   │   │   ├─ Torrhen (first) → ALDREN I       [~F200 / Book 3]
      │   │   │   │   ├─ Edwyn (second)                    [COURIER]
      │   │   │   │   └─ Rolf (third)                      [HUNTER]
      │   │   │   |
@@ -124,7 +124,7 @@ ALDREN I (Torrhen) = Lysa Kelward
  └─ Tansy = Quentyn Tarnell
 ```
 
-### Book 2 Generation (~Y400-450) → Aldren VI-VIII
+### Book 2 Generation (~F310–385) → Aldren VI-VIII
 
 ```
 ALDREN V = Catelyn Rathen
@@ -135,7 +135,7 @@ ALDREN V = Catelyn Rathen
  │       |
  │       ├─ ALDREN VII = Freya Norvalen
  │       │   |
- │       │   ├─ ALDREN VIII = Gwyn Selborn
+ │       │   ├─ ALDREN VIII (Elsehnor) = Gwyn Selborn
  │       │   ├─ Alys = Jonos Kelward
  │       │   └─ Robert = Lysa Dorsen
  │       |
@@ -148,16 +148,16 @@ ALDREN V = Catelyn Rathen
  └─ Martyn = Helicent Tarnell
 ```
 
-### Book 1 Generation (~Y500)
+### Book 1 Generation (~F460; Rodrik’s coronation is Y0)
 
 ```
-ALDREN VIII = Gwyn Selborn
+ALDREN VIII (Elsehnor) = Gwyn Selborn
  |
  ├─ ALDREN IX (Rodrik) = ELYN Rathen
  │   |
- │   ├─ EDRIC = (betrothed) ROSELYN Varen
- │   ├─ HARWIN
- │   └─ (survivor) ALDREN X = (queen TBD)
+ │   ├─ AEION = (betrothed) ROSELYN Varen
+ │   ├─ AEIAN
+ │   └─ (returning body, neither twin’s name) ALDREN X = (queen TBD)
  │       |
  │       └─ ELOWEN
  |
@@ -208,7 +208,7 @@ Horas Varen = Osha of Brennan
          └─ Paxter = Cersei of Brennan
              └─ Tytos = Lanna
                  └─ ROLAND = Sarra
-                     └─ ROSELYN = (betrothed) EDRIC
+                     └─ ROSELYN = (betrothed) AEION
 ```
 
 ## HOUSE NORVALEN OF FROSTHOLT
@@ -291,33 +291,33 @@ Lord Selborn = Fern
 
 ## PRINCIPAL CAST & RIDERS
 
-**CORRECTED per birth-order-locked.md:** Rowan = non-rider/steward/ambitious/father of Caelen. Edwyn = rider (Briar)/performer.
+**CORRECTED per birth-order-locked.md:** Rowan = non-rider/steward/ambitious/father of Caeylehn. Edwyn = rider (Briar)/performer.
 
 | Person | Role | Rider | Nyxen | Notes |
 |--------|------|-------|-------|-------|
-| King Aldren IX (Rodrik) | King | ✓ | Hart | ~2-4y crowned at story open |
+| King Aldren IX (Rodrik) | King | ✓ | Hart | First season of reign at story open |
 | Queen Elyn Rathen | Queen | ✗ | | Suicide when everything spirals |
-| Prince Edric | Diplomatic twin | ✓ | Ash | Betrothed to Roselyn |
-| Prince Harwin | Warrior twin | ✓ | Storm | Fetches Oak for Twin War |
-| Prince Rowan | King's brother | ✗ | | Ambitious; orders Caelen out; steward/ledger |
+| Prince Aeion | Diplomatic twin | ✓ | Ash | Betrothed to Roselyn |
+| Prince Aeian | Warrior twin | ✓ | Storm | Fetches Oak for Twin War |
+| Prince Rowan | King's brother | ✗ | | Ambitious; orders Caeylehn out; steward/ledger |
 | Prince Edwyn | King's brother | ✓ | Briar | Performer; Littlefinger parallel (fun, no evil motive) |
-| Princess Elyra | King's sister | ✓ | Lark | → Harwin's camp |
+| Princess Elyra | King's sister | ✓ | Lark | → Aeian's camp |
 
 
 | Princess Rhaenaya | King's sister | ✗ | | Wed Osric Norvalen |
-| Prince Gareth | King's brother | ✓ | Thorn | → Harwin's camp; cold by nature |
+| Prince Gareth | King's brother | ✓ | Thorn | → Aeian's camp; cold by nature |
 
 ### Next Generation / Cousins
 
 | Person | Rider | Nyxen | Notes |
 |--------|-------|-------|-------|
-| Caelen Brennan (Rowan's son) | ✓ | Rook | Disobeys Rowan → Edric |
+| Caeylehn Brennan (Rowan's son) | ✓ | Rook | Disobeys Rowan → Aeion |
 | Leraeyna Brennan (Rowan's) | ✗ | | |
-| Tristan Brennan (Edwyn's) | ✓ | TBD | → Edric |
-| Cassia Brennan (Edwyn's) | ✓ | TBD (Wild) | → Edric |
-| Aderyn Kelward (Elyra's) | ✓ | TBD | → Edric (Rebellion) |
+| Tristan Brennan (Edwyn’s firstborn bastard son) | ✓ | Ysehnys | Anomaly rider; Edwyn wins rider-roll entry and call-pipe despite illegitimacy; → Aeion |
+| Cassia Brennan (Edwyn's) | ✓ | Rust (Wild) | → Aeion |
+| Aderyn Kelward (Elyra's) | ✓ | Gorse | → Aeion (Rebellion) |
 | Isabelle Kelward (Elyra's) | ✗ | | |
-| Alaric Norvalen (Rhaenaya's) | ✓ | Frost | → Harwin |
+| Alaric Norvalen (Rhaenaya's) | ✓ | Frost | → Aeian |
 | Beatrice Norvalen (Rhaenaya's) | ✗ | | |
 
 
@@ -327,13 +327,13 @@ Lord Selborn = Fern
 
 | Person | Notes |
 |--------|-------|
-| King Aldren X | Survivor; identity unresolved |
+| King Aldren X | Returning body, neither twin’s identity; both twins die on the cliff |
 | Princess Elowen | His daughter; fire scene final pages |
-| Oak (Nyxen) | VII's mount → second rider VIII; grief-survivor; Harwin fetches for Twin War |
+| Oak (Nyxen) | VII's mount → second rider VIII; grief-survivor; Aeian fetches for Twin War |
 
-### Active Riders at War's Start (10)
+### Active Riders at War's Start (11)
 
-Edric (Ash), Harwin (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caelen (Rook), Aderyn (TBD), Alaric (Frost), Tristan (TBD), Cassia (TBD).
+Aeion (Ash), Aeian (Storm), Edwyn (Briar), Elyra (Lark), Gareth (Thorn), Caeylehn (Rook), Aderyn (Gorse), Alaric (Frost), Tristan (Ysehnys), Cassia (Rust).
 
 **Rowan is NOT a rider.** He has no Nyxen.
 

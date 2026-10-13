@@ -10,7 +10,7 @@ Everything below is a proposal for you to approve. I chose it so that it fits th
 ## 1. Naming: Option A
 
 - **The First Ashen War** is the old war, about ten years before the book opens, under Aldren VIII with Oak in the sky. Rodrik fought in it as a young prince against his father's orders. Ser Corren lost half his ear in it. Chapters 1 to 15 already treat it this way.
-- **The Second Ashen War** is the long firedrake war that Harwin fights in as a young man at Rodrik's side, and after which Edric carries Foldhall's truce terms to the Eastverge. It replaces the phrase "First Ashen War" everywhere the outline uses it for the twins' youth.
+- **The Second Ashen War** is the long firedrake war that Aeian fights in as a young man at Rodrik's side, and after which Aeion carries Foldhall's truce terms to the Eastverge. It replaces the phrase "First Ashen War" everywhere the outline uses it for the twins' youth.
 
 The brief "Eastverge troubles" now being written (raids, the Redcut) are not a war with a number. They are the Ashen testing a realm whose Oak has gone.
 
@@ -23,7 +23,7 @@ Yes, and they work better as a chain. Oak's absence and the firedrakes are two d
 | 1. The gap | Aldren VIII dies, Oak flies away. The book's opening year | Border-bands, deniable raids, bought silver, forged cloth, the Redcut | Hiding behind deniability. He is afraid of what Foldhall might still send. |
 | 2. The Opening | About four years into Rodrik's reign. The twins are three or four | The volcano event. Firedrakes appear in the Ashen mountains | Stops denying. He now has an answer to the Nyxens. |
 | 3. The fire years | The twins' childhood and youth | Raids with firedrakes, growing numbers, a realm learning to bleed | Openly at war, patient, building a herd |
-| 4. The Second Ashen War | The twins are young men | The great campaign. Harwin at Rodrik's side, Edric carrying the truce afterward | Almost wins, for the first time in Ashen history |
+| 4. The Second Ashen War | The twins are young men | The great campaign. Aeian at Rodrik's side, Aeion carrying the truce afterward | Almost wins, for the first time in Ashen history |
 | 5. Twin War opportunism | After the truce, when the realm splits | The Ashen watch the brothers and wait | Ready to strike the broken realm |
 
 This also settles the open question in `book-outline-2.md` ("Firedrake appearance timing: Twin War opportunism vs later book"). The answer is both: first appearance in phase 2, large-scale use in phase 4, opportunism in phase 5.

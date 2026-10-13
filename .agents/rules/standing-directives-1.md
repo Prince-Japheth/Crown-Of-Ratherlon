@@ -16,7 +16,7 @@ description: "Writer's standing creative directives for Crown of Ratherlon — d
 - Strict limitations: only see what the POV character sees, only know what they know/think
 - Unreliable narrators: characters may misremember history or misread intentions
 - No omniscient narrator: if the POV character doesn't know a secret, the reader doesn't either
-- **Chapter titles — Book 1 (ASOIAF Books 1-3 convention):** titled with the POV character's name in caps (RODRIK, ELYN, EDRIC, HARWIN, ROSELYN). Prologue/Epilogue stay generic. Table of contents adds Roman numerals for disambiguation (RODRIK I, RODRIK II).
+- **Chapter titles — Book 1 (ASOIAF Books 1-3 convention):** titled with the POV character's name in caps (RODRIK, ELYN, AEION, AEIAN, ROSELYN). Prologue/Epilogue stay generic. Table of contents adds Roman numerals for disambiguation (RODRIK I, RODRIK II).
 - **Chapter titles — later books (ASOIAF Books 4-5 convention):** when a character undergoes an identity crisis, loses their name, or assumes a new persona, the chapter title shifts to a thematic/descriptive name (e.g., "The Survivor," "The Hand," "The Rider"). The name is literally taken off the chapter when the character loses their sense of self.
 - **No POV blending within a chapter.** If it opens in Elyn's head, it stays in Elyn's head. Never jump to another character's internal perspective mid-chapter.
 
@@ -27,18 +27,18 @@ description: "Writer's standing creative directives for Crown of Ratherlon — d
 - Baron (not Lesser Lord) for lesser lords
 - Handler (not Dragonkeeper) for Nyxen caretakers
 
-**Master of Whisperers — plot note for later chapters:** The title EXISTS in Ratherlon. **Edric** (the diplomatic twin) will raise the argument that advertising spy operations by giving someone a public title meaning "The Person Who Collects Secrets" is a diplomatic disaster — it warns every visiting ambassador, lord, and lady exactly who to avoid at court. This becomes a character-revealing moment: Edric thinks about how power *looks*, not just how it works. Harwin (the warrior twin) wouldn't care about the optics.
+**Master of Whisperers — plot note for later chapters:** The title EXISTS in Ratherlon. **Aeion** (the diplomatic twin) will raise the argument that advertising spy operations by giving someone a public title meaning "The Person Who Collects Secrets" is a diplomatic disaster — it warns every visiting ambassador, lord, and lady exactly who to avoid at court. This becomes a character-revealing moment: Aeion thinks about how power *looks*, not just how it works. Aeian (the warrior twin) wouldn't care about the optics.
 
 Additional standing rules:
 - Spoiler protection: appendix reflects Book 1 OPENING state only
 - No anomaly riders (Twin War reveal only), no Oak, no Queen Seren, no Aldren X/Elowen in appendix
-- No Edric/Harwin twins in appendix — they don't exist at book open
+- No Aeion/Aeian twins in appendix — they don't exist at book open
 - Duke for great house heads, Baron for lesser lords; Handler for Nyxen caretakers
 - Nyxen design: Syrax from HOTD but with fur instead of scales, a shorter neck as it's a mammal and a bat-like head — four-limbed wyvern, NOT cat/fox/gargoyle
 - Art style: highly detailed, realistic, monochromatic fine-line pencil sketching — medieval manuscript meets modern comic book realism
 - Language register: Late Middle Ages English 12th–15th centuries, high medieval European feudal monarchies
 - Timeline rule: Rodrik and Elyn are newlyweds who just took the throne. The lack of an heir is NOT due to barrenness or years of trying; it is just a vulnerability of a brand-new reign. The timeline between Aldren VIII dying (and his fearsome Nyxen Oak fleeing), Rodrik's crowning/marriage, the immediate border tests, and the pregnancy is extremely short and back-to-back.
-- Oak Sightings: Include subtle, sparse mentions of Oak sightings (e.g., a shadow over high crags, a shepherd's rumor, characters noting his growing, massive size) throughout the books as the twins grow. Do NOT make these mentions heavy-handed; the reader should not suspect he will return in the Twin War. Cap: one hint per five chapters. Used: Ch 3, 7, 14.
+- Oak Sightings: Include subtle, sparse mentions of Oak sightings (e.g., a shadow over high crags, a shepherd's rumor, characters noting his growing, massive size) throughout the books as the twins grow. Do NOT make these mentions heavy-handed; the reader should not suspect he will return in the Twin War. Oak is mentioned casually every few chapters by smallfolk, shepherds and boatmen as a famous old beast still alive, and everyone shrugs. See nyxen-roster-and-commands.md section 6. Used: Ch 3, 14, 18.
 - Naming: no *march/marches/Marcher*, no *-hill*, no lazy compound names
 - No *freeman/free folk* — use *smallfolk*, *commonfolk*, or *commoner* (singular). "Freeman" echoes the wildlings from ASOIAF.
 - No *spears* as synecdoche for soldiers — that's Dornish. Use *swords*, *men*, *steel*, or *men-at-arms* (ASOIAF 6 kindoms register, so that exclude dorne).

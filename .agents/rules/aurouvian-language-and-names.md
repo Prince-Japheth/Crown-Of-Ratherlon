@@ -5,9 +5,17 @@ description: "The root structure of the Aurouvian language, brought by Queen Sae
 
 # The Aurouvian Language and Names
 
-Aurouvian is the mother tongue of Queen Saeraphyn, brought to Foldhall when she married Aldren III.. The royal family still speaks it as a private language for intimacy, whispered asides, and muttered profanity, though two hundred years apart has caused it to drift from the original tongue. 
+Aurouvian is the mother tongue of Queen Saeraphyn, brought to Foldhall when she married Aldren III. The royal family still speaks it as a private language for intimacy, whispered asides, and muttered profanity, though two hundred years apart has caused it to drift from the original tongue.
 
-Linguistically, Aurovian names are characterised by recurring Aurovian naming patterns, including distinctive vowel combinations, recurring syllabic structures, and consonant clusters. Their sound is often melodic, archaic, and occasionally sharp.
+Linguistically, Aurouvian names are characterised by recurring Aurouvian naming patterns, including distinctive vowel combinations, recurring syllabic structures, and consonant clusters. Their sound is often melodic, archaic, and occasionally sharp.
+
+Aurouvian is the Brennans’ comfort language and their natural default in unguarded conversation with family and their Nyxens. They slip into it for affection, reassurance, irritation, jokes, and ordinary talk without making a deliberate language choice. The common tongue remains usual in public dealings, ceremony, and statecraft. Short, distinct Aurouvian commands are also practical over wind and battlefield noise; that utility supplements the habitual family language rather than being its sole cause.
+
+## Brennan naming custom
+
+Since Queen Saeraphyn married Aldren III, many Brennans have received Aurouvian given names, but the family also continues to use common-tongue names. There is no requirement that every child receive an Aurouvian name. Choices may honor kin, reflect a parent's preference, or have no stated reason. Rhaenaya and Elyra have Aurouvian names; Rodrik, Rowan, Edwyn, and Gareth have common-tongue names. Each person's given name is simply their name, with no separate public/private naming system. A crowned king takes the regnal name **Aldren**; this royal title convention does not determine children's given names.
+
+**Elsehnor** (EL-seh-nor), meaning **True Silver Shield** or **The Iron Shield of Twilight** (El + sehn + or), is the Aurouvian given name of Aldren VIII, selected from the existing name etymologies below. His heir **Rodrik** received a common-tongue name chosen with Queen Gwyn; see `brennan-kings-and-internal-strife.md` for the family history.
 
 ## 1. The Roots
 * **Rhae / Rae:** Fire, hearth, or a burning star.
@@ -42,6 +50,9 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 * **-es / -ys / -aerys:** "Warden," "Keeper," "Born of," or "Edge."
 * **-myean:** "Dreamer," "Prince," or "Shadow" (masculine).
 * **-phyn / -fyn:** "Wing," "Soul," or "Flame."
+* **Command endings (Nyxen orders):** -gōs (break), -khōr (hurl), -zōs (tear), -rūth (go swiftly), -khrōn (climb), -znār (sink), -vārn (stand fast). A command is a root plus the ending that says what the rider wants, e.g. Qaenkhōr (storm roar), Xyrgōs (kill roar). Never reuse one ending for two meanings. See nyxen-roster-and-commands.md.
+
+* **-ylehn:** “Shelter” or “Refuge” (newly established by the user-selected name Caeylehn).
 
 ## 3. Name Etymologies
 
@@ -93,10 +104,6 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 *Meaning:* "Spirit of the Stone" or "Wanderer of the Bedrock."
 *Lore:* A gender-neutral name. It implies someone who is deeply grounded yet refuses to be tied down to one place.
 
-**Caenor** *(Cae + nor)*
-*Meaning:* "The Stone Shield" or "Foundation."
-*Lore:* A rugged, blunt masculine name. It implies someone who is unmovable, dependable, and deeply grounded.
-
 **Caesehnira** *(Cae + sehn + ira)*
 *Meaning:* "True Light of the Foundation" or "The Iron Grace of the Stone."
 *Lore:* A sturdy yet elegant feminine name. It implies someone who is unbreakable but still moves with beauty.
@@ -108,6 +115,11 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 **Caesehnys** *(Cae + sehn + ys)*
 *Meaning:* "Edge of the True Stone" or "Warden of the Iron Foundation."
 *Lore:* A heavy, unyielding masculine name. It implies a defender who stands as a bulwark against any storm.
+
+**Caeylehn** *(Cae + ylehn)*
+*Pronunciation:* KAY-len.
+*Meaning:* “Shelter of Stone” or “Stone Refuge.”
+*Lore:* Rowan’s son, born into House Brennan, bears this Aurouvian name. Its meaning does not predict his character or future choices. The suffix -ylehn is newly established here; it was not part of the earlier name bank.
 
 **Caeyohra** *(Cae + yoh + ra)*
 *Meaning:* "Song of Stone's Glory" or "Sunlight on the Foundation."
@@ -169,9 +181,11 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 *Meaning:* "Keeper of the Memory" or "Warden of the Past."
 *Lore:* A solemn name. In old Aurouvah, this might have been a title given to the elders who kept the oral histories, before becoming a given name.
 
-**Heinsehnys** *(Hein + sehn + ys)*
-*Meaning:* "The Iron Warden of Memory" or "True Edge of the Past."
-*Lore:* A solemn, heavy name. Often given to the keeper of ancient histories or the punisher of broken oaths.
+**Ysehnys** *(Y- + sehn + ys)*
+*Pronunciation:* ee-SEN-iss.
+*Meaning:* "The Iron Warden."
+*Construction:* Sehn (iron) + ys (warden), with an initial Y- pronounced ee as a connecting sound, not a separate semantic root. The name has no memory or past element.
+*Lore:* Tristan, Edwyn’s bastard son, chooses a name from his father’s tongue despite knowing little to no conversational Aurouvian. Naming the beast Ysehnys expresses attachment to his father and deliberately challenges the opponents who would deny a bastard recognition as a rider. He borrows the existing name, not invents it; its meaning does not predict the beast’s fate.
 
 **Heinyra** *(Hein + yra)*
 *Meaning:* "Grace of Memory" or "Song of Truth."
@@ -226,7 +240,7 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 *Lore:* A proud masculine name. Implies someone whose ambitions burn bright and who commands the warmth of the room.
 
 **Rhaenaya** *(Rhae + naya)*
-*Meaning:* "Daughter of the Star" or "Bringer of the Hearth-Fire." 
+*Meaning:* "Daughter of the Star" or "Bringer of the Hearth-Fire."
 *Lore:* A very traditional, warm Aurouvian name. It implies someone who brings light to a dark house or warmth to a cold season.
 
 **Rhaesehnys** *(Rhae + sehn + ys)*
@@ -260,3 +274,40 @@ Linguistically, Aurovian names are characterised by recurring Aurovian naming pa
 **Xyraxys** *(Xyra + xys)*
 *Meaning:* "Edge of the Scythe" or "Born of Execution."
 *Lore:* A vicious, volatile masculine or gender-neutral name. Given to a ruthless enforcer or someone expected to sever the family's enemies from the world.
+
+
+## 4. Reader pronunciation (locked)
+
+Reader dictionaries use **Aurouvian** as the language spelling. Pronunciation guides use English respelling, with the stressed syllable in capitals. These name pronunciations are established here for consistency; meanings remain those in section 3.
+
+| Name or term | Pronunciation | Meaning |
+| --- | --- | --- |
+| Aeian | AY-ee-an | “Reader of the Heavens.” |
+| Aeion | AY-ee-on | “Shield of the Heavens” or “Son of the Sky.” |
+| Elyra | el-EER-ah | “The Silver Voice” or “Song of the Twilight.” |
+| Rhaenaya | ray-NAY-ah | “Daughter of the Star” or “Bringer of the Hearth-Fire.” |
+| Saeraphyn | SAY-rah-fin | “Celestial Soul of Grace” or “Holy Wing of Song.” |
+| Aurouvah | aw-ROO-vah | Homeland of the Aurouvian tongue. |
+| Aurouvian | aw-ROO-vee-an | The language and people of Aurouvah. |
+
+The eight reader command entries are Aekhrōn, Baelzōs, Behella, Caevārn, Daeznār, Fayrūth, Qaenkhōr and Xyrgōs. Their meanings and established pronunciations follow section 2 of `nyxen-roster-and-commands.md`. Include these in both dictionary copies, preserving macrons. Only names used in the manuscript belong in the reader glossary; the unused name bank remains author-facing. Definitions must not reveal twin identities, later wars, betrayals or private magical history.
+
+
+## 5. Nyxen names in Aurouvian speech
+
+**Oak remains Oak (locked).** Aldren VII, his first rider, gave him the common-tongue name **Oak**. He called him Oak when speaking either language and never used an Aurouvian equivalent. Elsehnor (Aldren VIII), Oak’s second rider, retained that usage; later riders do likewise. There is no alternate name or pending translation.
+
+Speaking Aurouvian does not require translating a beast’s established name. Aurouvian is the family’s comfort language, while Oak is the name the beast knows.
+
+**Command word order (locked):** When a Nyxen command includes the beast’s name, put the command first and the name second: **“Aekhrōn, Oak.”** (“Take off, Oak.”) The name addresses the beast; the command specifies the action.
+
+**Naming search requirement (locked):** Before choosing or assigning any new proper name or coined word, including one selected from the existing name bank, search the exact spelling in quotes on Google. Also check the plain spelling without diacritics. Reject candidates with exact matches. Record the query, date, and observed result; “no results found” is not proof of universal uniqueness. If Google cannot be checked, report the limitation and leave the candidate unassigned. Do not rename established canon retroactively without a request.
+
+**User-selected name, 2026-10-13:** Caeylehn is adopted by explicit user instruction. Quoted web search for “Caeylehn” returned no results. Direct Google verification has not been completed; do not describe the name as verified unique.
+
+
+**Established-name requirement (locked):** Select Aurouvian names for people and Nyxens from the existing name entries. Do not coin new compounds merely because their roots exist. Add a new name only when the user explicitly supplies it or requests new coinage; Caeylehn and Ysehnys are such user-supplied exceptions.
+
+**Tristan’s Nyxen (locked):** Tristan, Edwyn’s bastard son, names his small dun beast **Ysehnys**, meaning “The Iron Warden,” after his father’s tongue despite knowing little to no conversational Aurouvian. Tristan’s own given name is common-tongue, and he barely speaks Aurouvian; he deliberately chooses an Aurouvian name for his Nyxen nonetheless. The choice expresses attachment to Edwyn and deliberate defiance of those opposing his rider-roll entry and call-pipe: he names his beast in his father’s tongue while they deny him recognition. It is not fluent wordplay. He borrows the existing name. He learns the short rider commands by repetition at court; knowing those commands does not mean he can speak the language. This is the beast’s name in both languages. It belongs to the later generation.
+
+**Name search record, 2026-10-13:** Exact quoted Google Web search for “Ysehnys” at https://www.google.com/search?q=%22Ysehnys%22&udm=14&nfpr=1 displayed “did not match any documents.” No diacritics are used. This is the observed search result, not a guarantee of universal uniqueness.

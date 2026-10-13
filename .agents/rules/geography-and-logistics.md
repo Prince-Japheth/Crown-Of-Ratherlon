@@ -23,7 +23,7 @@ Measured from `map_compressed.jpg` (2048 by 1265 pixels). Read this before writi
 | Wagons, litters, baggage | 12 to 20 miles a day |
 | Relay riders (horses changed at posts) | about 90 miles a day |
 | Ravens | about 270 miles a day |
-| Nyxens, sustained | about 270 miles a day, for up to 3 days (lock: 1,000 miles in about 3 days). Short bursts are faster |
+| Nyxens, sustained | about 270 miles a day, for three flying days before a longer rest; 770 miles takes about three days, 1,000 miles about four. Short bursts are faster |
 | Ships coasting | 100 to 130 miles a day, weather allowing |
 
 ## 3. Where things are (pixels on the map, my reading)
@@ -41,12 +41,12 @@ Measured from `map_compressed.jpg` (2048 by 1265 pixels). Read this before writi
 | **Frostholt** (Southfrost, Norvalen) | 895, 968 | Centre of the south |
 | Skarholt (traitor lord, west Southfrost) | 585, 905 | West coast, beside the Deepwood border |
 | The Redcut | about 1455, 480 | **Decision:** about 60 miles east of Eastgirt along the dry road, about two days' ride. The Ashen frontier is about 50 miles beyond it |
-| Hallow Ford | about 1370, 485 | Six leagues (18 miles) west of the Redcut |
+| Hallow Ford | about 1444, 481 | Six leagues (18 miles) west of the Redcut |
 | Ashen Kingdom frontier at the Eastverge | about 1490, 480 | |
 | Ashen capital (approx.) | 1732, 555 | About 470 miles east of Eastgirt |
 | Greyfang Isles | off the map to the south-west | About 400 miles of open sea from Skarholt, six days' sail |
 
-If you prefer the **western** Eastverge icon as Eastgirt, the scale still works (about 575 miles straight from Foldhall, 690 by road, 46 days of infantry). Then the Ashen frontier is about 340 miles from the seat, the Redcut becomes a far-eastern outpost, and the Eastgirt raven loft cannot serve it. I recommend the eastern icon, because it puts the seat where the raids actually fall.
+The eastern castle icon is Eastgirt. The western icon is Harrow Hold. These placements are fixed.
 
 ## 4. Borders (who can reach whom by land)
 
@@ -66,7 +66,7 @@ If you prefer the **western** Eastverge icon as Eastgirt, the scale still works 
 - **The northern bay** lies between the Vine Shore and the Eastverge. Ships from Rosegate reach the Eastverge's north coast in about six days, then it is about 250 miles overland to Eastgirt. That is the realm's fastest way of moving grain to the east, and Vine Shore ships control it.
 - **The Rivermark** has a loop of rivers that runs out of the Ashen mountains. It feeds the Rivermark and is a highway for any enemy that enters.
 - **The Icewide** is the sea along the south. Pack ice makes it hard to cross, but not impossible for small ships.
-- **The northern island** (top centre of the map, off the Vine Shore coast) is unnamed in canon. `twin-war-dynamics-1.md` and `world-building-4.md` call it the "NW island," but on the map it lies **north**. Change "NW" to "northern."
+- **Wrenholm**, the northern island at the top centre of the map, lies north of the Vine Shore. It is directly held by the crown; do not call it northwestern or unnamed.
 
 ## 6. Distances and times
 
@@ -89,8 +89,8 @@ If you prefer the **western** Eastverge icon as Eastgirt, the scale still works 
 | Pinefall | Frostholt | 618 mi | 741 mi | 49 days | 2.3 days |
 
 Other useful figures:
-- Foldhall to the Rivermark seat is about 660 miles by road, 44 days.
-- The Deepwood to the Rivermark by road is about 1,280 miles (85 days), which is why Harwin's West and East blocs can never march to each other.
+- Foldhall to the Rivermark seat is about 609 miles by road, 41 infantry days.
+- The Deepwood to the Rivermark by road is about 1,180 miles (79 days), which is why Aeian's West and East blocs can never march to each other.
 - **Deepwood timber to Southfrost:** the straight line across the mountains is about 620 miles, but no road crosses them. The only road runs around through Foldhall, about **1130 miles, about 100 days by wagon**. That is the "bottleneck." The old phrase "a multi-week journey" should be "most of a season."
 - By sea from Rosegate's harbour to the Eastverge's north coast is about 540 miles, six days.
 
@@ -119,18 +119,18 @@ For each, the route and the time, so no battle is impossible.
 ### Future
 
 - **The Opening and the fire years:** Firedrakes appear in the Ashen mountains. They can reach only the **Eastverge and the Rivermark** by land. The winged ones could reach Foldhall in about three days, but not without being seen. Every attack must fall first on those two regions.
-- **The Frostglow War:** Islanders sail from the south-west, about 400 miles to Skarholt. The **Winter Knights hold the passes**. Foldhall to Skarholt is 580 miles, under two days for a Nyxen, so Gareth and Harwin can reach the war quickly and an army cannot (about 50 days).
+- **The Frostglow War:** Islanders sail from the south-west, about 400 miles to Skarholt. The **Winter Knights hold the passes**. Foldhall to Skarholt is 580 miles, under two days for a Nyxen, so Gareth and Aeian can reach the war quickly and an army cannot (about 50 days).
 - **The Second Ashen War:** Fought in the Eastverge and the Rivermark. Supplies come by sea from Vine Shore to the Eastverge's north coast, and by road from Foldhall.
 - **The Twin War:** See the next section.
 
 ## 8. The Twin War on this map
 
-- **Harwin's two blocs cannot reach each other.** West (Merelands, Deepwood) and East (Eastverge, Rivermark) are about 1,000 miles apart in a straight line, 1,300 by road, 85 days of infantry, and Crownfold lies between them.
-- **That is a pincer, not a flaw.** Each bloc is only 40 to 60 days from Foldhall. **If Harwin times his two armies to arrive together, Edric is attacked from both sides.** Edric's answer is **interior lines**: he sits at the centre and can move his own host to either front in a month, which neither of Harwin's blocs can do. That is the strategic story of Part III.
+- **Aeian's two blocs cannot reach each other.** West (Merelands, Deepwood) and East (Eastverge, Rivermark) are about 1,000 miles apart in a straight line, 1,300 by road, 85 days of infantry, and Crownfold lies between them.
+- **That is a pincer, not a flaw.** Each bloc is only 40 to 60 days from Foldhall. **If Aeian times his two armies to arrive together, Aeion is attacked from both sides.** Aeion's answer is **interior lines**: he sits at the centre and can move his own host to either front in a month, which neither of Aeian's blocs can do. That is the strategic story of Part III.
 - **Why they converge on Foldhall:** Because both arms of the pincer end there, the clash on the roost cliffs is geography, not coincidence.
-- **The air is Harwin's shortcut.** Nyxens cross the 1,000-mile gap in about 4 days. Harwin's riders can unite his two blocs for intelligence, raids and signalling, and Edric's can do the same inside the centre.
-- **The grain:** Edric controls the Vine Shore and Western Shore coasts and ships. He can **blockade the northern bay**, which cuts Harwin's East off from the Vine Shore grain. The Eastverge and Rivermark then depend on their own harvests and the river system, which is what the "Grain Winter" in `twin-war-campaign-structure.md` needs.
-- **Southfrost** touches the Rivermark through its north-east pass, so Alaric's defection and a Winter Knight column can reach Harwin's East in a month by that road. It also sits across Harwin's southern flank.
+- **The air is Aeian's shortcut.** Nyxens cross the 1,000-mile gap in about 4 days. Aeian's riders can unite his two blocs for intelligence, raids and signalling, and Aeion's can do the same inside the centre.
+- **The grain:** Aeion controls the Vine Shore and Western Shore coasts and ships. He can **blockade the northern bay**, which cuts Aeian's East off from the Vine Shore grain. The Eastverge and Rivermark then depend on their own harvests and the river system, which is what the "Grain Winter" in `twin-war-campaign-structure.md` needs.
+- **Southfrost** touches the Rivermark through its north-east pass, so Alaric's defection and a Winter Knight column needs about forty-nine infantry days from the east pass to Eastgirt, or about twenty-five mounted days, plus its journey to the pass. It also sits across Aeian's southern flank.
 
 ## 9. Rules for future chapters
 
@@ -143,4 +143,16 @@ For each, the route and the time, so no battle is impossible.
 
 1. The eastern icon is Eastgirt (chapters already use it).
 2. The northern island is Wrenholm, a smugglers' and pirates' isle tied to the Pirate Wars, taken into the crown by Rodrik's treaty.
-3. Elyn's Rathens: Duke Edmund of Stillford declares for Edric, so Harwin's West is split. A cadet line of Rathens (the Pellridge branch) holds for Harwin and strikes at Stillford in the Merelands engagement, which is why Elyra dies on that road (see `twin-war-campaign-structure.md`).
+3. Elyn's Rathens: Duke Edmund of Stillford declares for Aeion, so Aeian's West is split. A cadet line of Rathens (the Pellridge branch) holds for Aeian and strikes at Stillford in the Merelands engagement, which is why Elyra dies on that road (see `twin-war-campaign-structure.md`).
+
+## Travel continuity (locked)
+
+Every journey is shown or receives a route, mode, and time in one line. No scene cut may place anyone beyond what the speeds in this file permit. Time ravens, relays, and flights. See `brennan-hair-greywater-and-travel.md`, section 3.
+
+## Foldhall lanes (chapter 18)
+
+**Chandlers’ Row:** the lane down from the castle gate. Chapter 18’s route passes through Timber Row and a sawpit to the river stair and customs wharf, where Rowan waits.
+
+## Local and timber journeys established in chapter 19
+
+Greywater to Foldhall: about thirty road miles, one day by horse or two by litter, following the upper Fold road south. Alderfall timber reaches the upper Fold by Deepwood forest lanes and then travels downriver to Foldhall; Ralf’s first-thaw raft spends eleven moving days on the river plus four held by ice. This is an upper-river timber route, not a claim that Alderfall is on the sea or that a frozen river can be navigated. Within Foldhall, roost yard to counting-room takes under a quarter hour by the yard stair and lesser-hall passage. Chapter 19 is six days after chapter 18; no long-distance witness reaches Foldhall instantly.
