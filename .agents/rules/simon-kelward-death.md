@@ -23,7 +23,7 @@ To satisfy the rule that "no character is safe" and that a royal bloodline membe
   3. It cleanly elevates Alton Kelward (Simon's younger brother and Elyra's future husband) to become the new Duke of Eastgirt, perfectly positioning House Kelward for the upcoming Twin War.
 
 ## Notes on the Siblings (Locked)
-Because the above characters must survive until the Twin War, they are locked from premature death:
+Author-facing fixed fates: these characters survive into their later established arcs. Their earlier scenes must still contain credible danger and earned survival; never signal this protected schedule to readers.
 - **Elyra:** Marries Alton Kelward, mother of Aderyn and Isabelle.
 - **Rhaenaya:** Married to Osric, mother of Alaric.
 - **Rowan:** Marries, father of Caeylehn and Leraeyna.

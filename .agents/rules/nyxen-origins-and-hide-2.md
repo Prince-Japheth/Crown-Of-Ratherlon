@@ -7,7 +7,7 @@
 - "In many cases, third borns and below are unable to ride a Nyxen... because they're too far in birth from the heir"
 - The direct line preserves a specific gene cluster that rarely survives intact in side branches
 - Royal scholars call it "the firstborn blood" — scientists in a later era would discover that's not actually what's happening (the myth and the science are different things)
-- All children of the blood may ride, but further from direct descent = weaker scent
+- Direct firstborn descent preserves riding eligibility; immediate royal siblings and nieces/nephews may ride when their scent is sufficient. Distant cadet cousins do not qualify.
 - At each generation, younger children carry less, their children less still, until the scent is too thin
 
 **How it works — the genetics:**
@@ -31,7 +31,7 @@ Two overlapping instincts:
 1. Recognition of the ancient hereditary marker (scent) from Farmer Brennan
 2. Personal attachment built through years of interaction
 
-A Nyxen isn't property or magically bound — it's an intelligent animal with preferences. Nyxens aren't magical soulmates. Just like a Knight might have his trusty horse, won many battles with it, but could hop on another horse anytime anyday and even have his own horse follow along without a leash because they know each other. Any bloodline member can command one, but the response varies: slower, less coordinated, less trusting than with its own raiser. Like "a military dog that recognizes every member of a family but has a favorite handler."
+A Nyxen isn't property or magically bound — it's an intelligent animal with preferences. Nyxens aren't magical soulmates. Just like a Knight might have his trusty horse, won many battles with it, but could hop on another horse anytime anyday and even have his own horse follow along without a leash because they know each other. An eligible close royal with sufficient recognized scent can command one, but the response varies: slower, less coordinated, less trusting than with its own raiser. Like "a military dog that recognizes every member of a family but has a favorite handler."
 
 **Veteran Nyxen:** Has decades of habits and expectations from previous riders. It anticipates its rider, answers a knee before the thought is finished, and never defies a command. A veteran may answer a different Brennan a breath slower than it answers its own rider, because it is used to one knee and one voice, but it obeys.
 
@@ -69,7 +69,9 @@ Two of the pups born during this natural window grow up playing with the twin to
 
 ## NYXEN GRIEF & LIFESPAN
 
-Usually die of grief in solitude after their rider's death. Lifespan unknown — no Nyxen has ever died of old age in recorded history; they either die in battle, in mating duels, or of grief. **Oak** = only known grief-survivor (Aldren VII's mount → second rider Aldren VIII; solitary after VIII's death; Aeian fetches in Twin War for promised death).
+**Relief from rider-loss grief (locked):** Nyxens fly away to die in isolation after their rider dies. This grief does not heal through time, solitude or feeding; death is their only relief. Oak’s exceptional survival does not mean recovery: he endures the accumulated grief of losing two riders and remains unable to die of it. Characters who wish him peace or relief are wishing for his suffering to end in death, preferably peacefully and soon. Do not frame his continued survival as welcome, or imply that he is getting over his grief. His feeding and physical survival are compatible with continuing anguish. His later exceptional bond remains established plot; do not invent a general cure for grief or routine succession between riders.
+
+Usually die of grief in solitude after their rider's death. Lifespan unknown — no Nyxen has ever died of old age in recorded history; they either die in battle, in mating duels, or of grief. **Oak** is the only known grief-survivor. Elsehnor (Aldren VIII) was the first recorded second rider of any Nyxen, bonding Oak after Aldren VII’s death. After VIII dies, Oak withdraws again; the court assumes the accumulated grief of losing two riders will kill him. He actually survives in the wild. This survival and Aeian’s later retrieval in the Twin War are author-only planning facts: do not make another rider seem routine or advertise Oak’s future use.
 
 Grief is about the **rider connection only.** Nyxens do not grieve mates (mating is seasonal, not paired for life — see below). A nursing dam who loses pups may grieve maternally, but this is rare and usually not fatal.
 

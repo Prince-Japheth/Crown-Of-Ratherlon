@@ -181,11 +181,7 @@ Since Queen Saeraphyn married Aldren III, many Brennans have received Aurouvian 
 *Meaning:* "Keeper of the Memory" or "Warden of the Past."
 *Lore:* A solemn name. In old Aurouvah, this might have been a title given to the elders who kept the oral histories, before becoming a given name.
 
-**Ysehnys** *(Y- + sehn + ys)*
-*Pronunciation:* ee-SEN-iss.
-*Meaning:* "The Iron Warden."
-*Construction:* Sehn (iron) + ys (warden), with an initial Y- pronounced ee as a connecting sound, not a separate semantic root. The name has no memory or past element.
-*Lore:* Tristan, Edwyn’s bastard son, chooses a name from his father’s tongue despite knowing little to no conversational Aurouvian. Naming the beast Ysehnys expresses attachment to his father and deliberately challenges the opponents who would deny a bastard recognition as a rider. He borrows the existing name, not invents it; its meaning does not predict the beast’s fate.
+
 
 **Heinyra** *(Hein + yra)*
 *Meaning:* "Grace of Memory" or "Song of Truth."
@@ -276,6 +272,12 @@ Since Queen Saeraphyn married Aldren III, many Brennans have received Aurouvian 
 *Lore:* A vicious, volatile masculine or gender-neutral name. Given to a ruthless enforcer or someone expected to sever the family's enemies from the world.
 
 
+**Ysehnys** *(Y- + sehn + ys)*
+*Pronunciation:* ee-SEN-iss.
+*Meaning:* "The Iron Warden."
+*Construction:* Sehn (iron) + ys (warden), with an initial Y- pronounced ee as a connecting sound, not a separate semantic root. The name has no memory or past element.
+*Lore:* Tristan, Edwyn’s bastard son, chooses a name from his father’s tongue despite knowing little to no conversational Aurouvian. Naming the beast Ysehnys expresses attachment to his father and deliberately challenges the opponents who would deny a bastard recognition as a rider. He borrows the existing name, not invents it; its meaning does not predict the beast’s fate.
+
 ## 4. Reader pronunciation (locked)
 
 Reader dictionaries use **Aurouvian** as the language spelling. Pronunciation guides use English respelling, with the stressed syllable in capitals. These name pronunciations are established here for consistency; meanings remain those in section 3.
@@ -300,6 +302,8 @@ The eight reader command entries are Aekhrōn, Baelzōs, Behella, Caevārn, Daez
 Speaking Aurouvian does not require translating a beast’s established name. Aurouvian is the family’s comfort language, while Oak is the name the beast knows.
 
 **Command word order (locked):** When a Nyxen command includes the beast’s name, put the command first and the name second: **“Aekhrōn, Oak.”** (“Take off, Oak.”) The name addresses the beast; the command specifies the action.
+
+**Address and delivery (locked):** Normally give a Nyxen order as **command, beast’s name**: “Qaenkhōr, Thorn!” or “Aekhrōn, Oak.” Keep the established name unchanged, including common-tongue names. In emphatic delivery, a hard throat catch separates the command from the addressed name; it is a pronunciation feature, not a new particle, syllable or word. Use ordinary comma punctuation, not phonetic clutter. Quiet commands retain their quiet delivery; do not force shouting or an exaggerated catch into every exchange. A bare command is appropriate when immediate danger, a rapid escape or a running fight leaves no time for the name. Do not make bare orders the routine merely because a scene involves battle. The name is direct address, not a magical prerequisite: the same recognition and obedience rules apply either way. Show the delivery where useful without describing the throat catch after every command.
 
 **Naming search requirement (locked):** Before choosing or assigning any new proper name or coined word, including one selected from the existing name bank, search the exact spelling in quotes on Google. Also check the plain spelling without diacritics. Reject candidates with exact matches. Record the query, date, and observed result; “no results found” is not proof of universal uniqueness. If Google cannot be checked, report the limitation and leave the candidate unassigned. Do not rename established canon retroactively without a request.
 

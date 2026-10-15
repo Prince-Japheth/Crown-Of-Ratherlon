@@ -38,7 +38,7 @@ Three sworn swords assigned to the named heir. Green cloaks with a **silver** cr
 - His Nyxen Hart: tawny-gold, veteran of the First Ashen War, still flinches at dry-road horns
 - Private affectionate relationship with Hart — grooms him with nyxen oil, talks nonsense to him
 - Hart's handler: Oren — "a Foldhall man named Oren with mash stains older than Rodrik's crown"
-- As prince: the First Ashen War, riding Hart beside Oak. As king: border-bands after Oak leaves, then the Opening and the fire years. His sons fight the Second Ashen War. Also one of the most diplomatic kings the realm ever had (brought the northern island into the kingdom without blood).
+- As prince: the First Ashen War, riding Hart beside Oak. As king: border-bands after Oak leaves, then the Opening and the fire years. He fights the Second Ashen War alongside Aeian; Aeion carries the truce terms afterward. Also one of the most diplomatic kings the realm ever had (brought the northern island into the kingdom without blood).
 - **No heir at story open.** Rodrik and Elyn have no children yet. This constrains him — a king without an heir cannot risk himself on border skirmishes. Edwyn makes this argument when Kelward's raid news arrives — it's part of his play to volunteer himself and Elyra: "The king cannot go. You have no heir. If a gully swallows you, the crown falls to this room, and this room cannot agree on supper."
 
 **Gareth's whereabouts at story open:** Not missing, not a mystery — just not at court by choice. Last known somewhere along the Southfrost or cold roads ("nearer the cold roads" — Elyra's words), riding with Norvalen patrols or hunting the reaver edge. Ravens reach him. The family knows roughly where he is. He took Thorn and went where the cold was. This matters for the Twin War: Gareth being close to Norvalen (Southfrost) seeds alliance geography early. Elyra's plan in Ch1 is to send word for Gareth to bend east and meet her at the Eastverge with Thorn (note: this Ch1 maneuvering is strictly to respond to a minor border skirmish during Rodrik's early reign, seeding their coordination well before the actual Twin War).
@@ -61,9 +61,9 @@ Slate stone ramparts, eastern cliff-barns (roost yards for Nyxens), a solar, a y
 
 ## NAMING RULES
 
-**Register:** Names should feel like the Andals and First Men of Westeros — native medieval stock, NOT Valyrian. Short-medium names, hard consonants, Anglo-Norman / Germanic feel.
+**Register:** Common-tongue names use the established medieval stock. House Brennan mixes common-tongue and Aurouvian given names. Select Aurouvian names from `aurouvian-language-and-names.md`; create a new one only by explicit user instruction.
 
-**Avoid:** Valyrian perfume (*ae* tics, *-ys/-ysha*), engineered fantasy endings (*-xen, -vex, -axis*), Mediterranean romance-novel princely names.
+**Avoid:** Unrequested invented fantasy compounds and endings. Existing Aurouvian entries and explicitly user-supplied names take precedence; their vowel patterns and suffixes are valid within that tradition.
 
 **Places — avoid:** *march/marches/Marcher*, *-hill*, more *-hall* seats (Foldhall is the only one), lazy *heartland/peace-lands/Summer Reach*, house-name + geography sticker seats (*Rathenmere* etc.).
 
@@ -84,7 +84,7 @@ Slate stone ramparts, eastern cliff-barns (roost yards for Nyxens), a solar, a y
 | Aeion's betrothed | **Lady Roselyn Varen** |
 | Aldren X's daughter | **Princess Elowen** (end only) |
 
-**Nyxen names:** Named by the raiser, like hounds. Should sound like animal names people actually shout across a yard, not Valyrian poetry.
+**Nyxen names:** Named by the first rider/raiser and retained by later riders. Common-tongue names and existing Aurouvian names are both valid; choose a form the rider can call clearly. Oak remains Oak in either language. Tristan deliberately names Ysehnys in his father’s tongue despite barely speaking it.
 
 **House-name bank (unused stock):** Callenby, Elmrick, Fenlow, Granth, Hollisyn, Jaspern, Lansor, Merrickson, Merecroft, Orston, Pellridge, Quenby, Yarben. Assign as bannermen when scenes need local lords.
 
@@ -125,3 +125,9 @@ Certain notch-counts produce a tone so pure that even the human ear hears the di
 - **Pipe stolen:** Exceedingly rare. A Nyxen knows where its rider is and can distinguish its rider's breath and position from a stranger sounding the same pipe miles away. A thief with a stolen pipe summons nothing but attention.
 
 *(Continued in [world-building-5.md](world-building-5.md))*
+
+**Treasury statute and wartime spending (locked):** The peacetime thousand-mark countersign rule has an exception for proclaimed war. Chapter 5 states the exception but treats the initial raid as a border inquiry. Chapter 12 orders the proclamation after the Ashen field army is confirmed; chapter 14 therefore permits the king’s seal to serve alone. The exception does not make Rowan Master of Coin; his formal appointment remains chapter 20.
+
+**Boremund’s reinforcement count (locked):** 450 crown-funded men depart, with Fenlow’s actual 212 included rather than added. Boremund fills missing Fenlow places from the wider Crownfold muster before departure. Four die on the road, leaving 446. At Eastgirt, 50 local hired swords and four replacements paid by the Kelwards bring the field strength to 500. The travel estimate remains 990 marks for the 450 crown-funded men; do not silently charge the king for the local 54 as well.
+
+**Posthumous child and regency (locked):** A legitimate child born after a king’s death retains the first-child claim. During the pregnancy, the eldest adult royal sibling acts as interim regent rather than displacing that claim. If no child survives to inherit, succession proceeds to that sibling. A regent’s non-rider status can still create political and military vulnerability.

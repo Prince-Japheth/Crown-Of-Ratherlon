@@ -8,7 +8,7 @@ trigger: always_on
 
 ## 1. The one rule
 
-**The book never says whether any power is real, and never shows any power as good.**
+**Book 1 never confirms whether any divine power is real or objectively good.**
 
 Everything else follows from that. The faiths are what people believe and do. The narrator reports practice and rumor and never confirms an answer.
 
@@ -146,7 +146,7 @@ Similar to George R.R. Martin's worldbuilding in *A Song of Ice and Fire*, **the
 - In nursery tales and campfire songs, the Golgathi were brutal titans who hunted mammoths and quarried cliffs with bare fists before men discovered copper or iron. Legends claim they vanished in an ancient world-deluge or stone-fall long before the first petty kings raised timber forts.
 - Lectors teach that Vael's first blade drove the Golgathi into the subterranean deeps for their lawlessness; maesters treat the ruins as relics of an extinct ancient species of giant hominids.
 
-## 6. Guardrails (never)
+## 6. Book 1 guardrails (never)
 
 1. No deity speaks, appears or acts on the page.
 2. No miracle is confirmed. Every apparent answer has an ordinary explanation available.
@@ -156,7 +156,7 @@ Similar to George R.R. Martin's worldbuilding in *A Song of Ice and Fire*, **the
 6. No light-against-darkness struggle, no chosen people, no prophecy, no resurrection.
 7. **NO CHRISTIAN TERMS:** Never use "bishop", "monk", "priest", "church", "cathedral", "sermon", "cross". Use *Lector*, *Warden*, *Sanctuary*, *Great Hall*.
 8. **NO "WATCHER" LORE YET:** Do not use the word "Watchers" (to avoid spoiling the Enoch reveal). Avoid "elohim," "angel," "demon," "heaven" and "hell" for the same reason.
-9. **NO FLAME FOR BRENNANS:** The Brennans ride Nyxens, which use sonic roars, not fire. The "Cinder" is a scent and hair color. The flame is an Ashen thing. The Brennans do NOT answer to a god of flame.
+9. **NO FLAME FOR BRENNANS:** The Brennans ride Nyxens, which use sonic roars, not fire. The Cinder is the visible hereditary appearance; the scent is a separate natural trait affected by the blood ritual. The flame is an Ashen thing. The Brennans do NOT answer to a god of flame.
 10. **NO FORESHADOWING OF LATER REVEALS:** Readers and characters in Book 1 must experience their religion and ancient history as 100% genuine, immersive feudal reality. Never drop hints about the coming Crusaders, Christ, or the spiritual truth behind the Silence.
 
 ## 7. Vocabulary

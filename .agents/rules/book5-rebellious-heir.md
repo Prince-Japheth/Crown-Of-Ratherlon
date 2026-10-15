@@ -52,7 +52,7 @@ Knowing Prince Daemyean will never consent to a marriage or an heir, King Aldren
 ### King Aldren XIV & The Demonic Blood-Transmutation
 In desperate panic to save his crown, **King Aldren XIV** seeks out forbidden, ancient dark sorcery—trafficking with dark spirits (the rebel Elohim behind the veil):
 - They are told that since they can no longer tame the beasts with their scent, they must **become the beasts**.
-- **The Pure Sacrifice:** Handlers and sorcerers breed a juvenile Nyxen until they produce one that is **pure white, without a single spot, flaw, or blemish**.
+- **The Pure Sacrifice:** Handlers arrange breeding among mature Nyxens until a **pure-white pup, without a spot or other marking**, is born; the sorcerers select that juvenile for the rite.
 - In a horrific midnight blood-rite, King Aldren XIV slaughters the unblemished white Nyxen, magically binding and fusing its life-force, blood, and marrow into his own veins.
 - **King Aldren XIV becomes the First Nyxen Changer.**
 
@@ -115,7 +115,7 @@ The transformed beast form does NOT possess fixed, static stats:
 
 ## 7. The Coming of the Crusaders & Divine Redemption
 
-### The Historical Context (~AD 1095–1120 / ~1,060–1,100 Post-Silence)
+### The Historical Context (~AD 1250–1300 / over 1,200 years Post-Silence)
 During the climax of this cataclysmic civil war between Prince Rhaemyean and King Aldren XVII, the **Christian Crusaders** sail across the western ocean and arrive on the shores of Ratherlon.
 - A later crusading age, over 1,200 years after the Great Silence; the dynasty’s intervening generations take precedence over the discarded exact First Crusade synchronization.
 - Led by disciplined knightly orders bearing the true Cross and unshakable faith.

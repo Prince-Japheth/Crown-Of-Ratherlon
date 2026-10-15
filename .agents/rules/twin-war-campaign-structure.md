@@ -5,7 +5,7 @@ description: "Recommends how the Twin War is built: a long campaign of separate 
 
 # How the Twin War is built
 
-This is a proposal. I took the wheel as you asked. It keeps every beat in `book-outline-1.md` (Parts II to IV) and `twin-war-dynamics-1.md` and `twin-war-dynamics-2.md`, and it keeps your picture of the great clash and the final duel. Names and dates are placeholders.
+This is the controlling campaign structure for Parts II–IV, read alongside the outline and the two Twin War dynamics files. The chosen engagements and death placements below are canon. Month windows are approximate operational anchors, not promises to readers.
 
 ## 1. Your picture against the real shape of wars
 
@@ -59,7 +59,7 @@ Use this in every engagement that has riders. It keeps the sky from becoming a m
 
 ## 6. Where the planned deaths fall
 
-Marked **yours** are deaths you told me you want. **Mine** are proposals you can overrule.
+The following death placements are the selected author-facing design. Do not expose their schedule or use it to make earlier dangers feel safe.
 
 | Death | Where | Notes |
 |-------|-------|-------|
@@ -68,9 +68,9 @@ Marked **yours** are deaths you told me you want. **Mine** are proposals you can
 | **Elyra** (yours, moved) | Engagement 5, the Merelands road | Elyra is on Aeian's side, with the Kelwards. Aderyn has defected to Aeion. During an ambush on a Kelward column she sees her son's Nyxen in the middle of the melee and puts herself between it and a bone-tipped bolt. She dies shielding him in a fight she thought she was winning. This is **before** the cliff, which gives Aderyn a reason to survive it and Alton a reason to hate his son's side |
 | **Edwyn** (yours) | The Cliff | Oak seizes him and Briar in mid-air and hurls them in opposite directions. Briar, spinning, cannot get her wings open and strikes the ground. Edwyn is flung into the mountain face |
 | **Cassia** (yours) | The Cliff | She is on a wild-tamed Nyxen. She follows her father's fall at full speed, cannot stop in time and dies against the same rock |
-| **The twins** (yours) | The Cliff, end | The last duel in the sky settles it. One body comes back. The survivor never tells |
+| **The twins** (locked) | The Cliff, end | Both twins die. One body returns as a third thing, carrying neither name, and is crowned Aldren X. No resurrection; no later disclosure identifies him as either twin |
 
-**Do not foreshadow any of this.** Each character should live fully on the page, with a future the reader believes in. No scene before the war should make the reader wonder whether they will die.
+**Do not advertise the scheduled deaths.** Each character lives fully, with a future readers can believe in. Credible danger may make readers fear an earlier death; no passage marks a character’s fixed death in advance. See `death-design-and-pov-rotation.md`.
 
 ## 7. Why Elyra's death moves earlier
 
@@ -80,8 +80,8 @@ Your picture had Elyra, Edwyn and Cassia dying on the same day. I split them for
 - Elyra's death works best when Aderyn is alive and angry afterward. It cannot do that if it happens in the last hour.
 - Spreading the deaths across the war is the only way to keep every engagement dangerous. A reader who knows the family's deaths all fall on one day will relax for the first twenty-three months.
 
-## 8. Three things to check before writing Part III
+## 8. Locked campaign dependencies
 
-1. **Who holds the Nyxen-bone supply?** The weapons in `twin-war-dynamics-2.md` need bones, and the bones need a source. Suggestion: the Deepwood timber-thieves of Aldren VI's day kept a store of Nyxen bone from the bodies of beasts that died in the old wars, and one side buys it.
-2. **Oak and the pipe.** Decide who rides Oak and who holds the pipe (section 5, point 7).
-3. **The Ashen.** The war is the opportunity the Ashen have waited for. Decide whether firedrakes appear early in the Twin War (an opportunist raid on the East) or only after. My recommendation is that they stay out until the Cliff is over. See `ashen-wars-and-firedrakes.md`.
+1. **Nyxen-bone supply:** Aeian’s Deepwood allies purchase old bone and claw stocks preserved from the hunting era and the timber-thieves’ conflict under Aldren VI. These are relics and illicit stores, not products of an unexplained new slaughter. The Fold Ford battle exposes their use; captured weapons and recovered remains then give Aeion’s side a source as the war escalates. Do not let either faction produce unlimited bone ammunition.
+2. **Oak and the pipe:** Aeian approaches Oak through sufficient scent and repeated contact. He leaves Storm in a safe roost for this journey. Dead kings’ pipes stay retired in the armoury; neither inherited metal nor a stolen tone creates the bond. The rider’s own pipe is the summons after acceptance, as section 5 specifies.
+3. **Ashen timing:** Firedrakes already appeared during the Opening and fought in the Second Ashen War before the Twin War. The Ashen maintain the recent truce while watching the succession conflict, then exploit the realm’s exhaustion after the cliff. “Stay out until the cliff” refers to the new Ashen intervention, not the beasts’ first appearance.

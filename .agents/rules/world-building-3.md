@@ -71,7 +71,7 @@ The blood ritual broke the natural order. The maternal inheritance — the self-
 
 The pattern: Leofric fled his pregnant wife and killed his own son with sorcery. Aldren X's great-great-grandson will flee his crown. The adventurous ancestor's crime echoes down the centuries because the magic demands it.
 
-**This is NOT known within the realm.** No character will say "Aldren the Adventurous cursed us." The lore parallel is the Doom following the Targaryens — succession crisis after crisis, early deaths, bloodline self-destruction, no cadet branches that survive long. We the readers see the pattern. The characters see only their own war.
+**This is NOT known within the realm.** No character will say "Aldren the Adventurous cursed us." The lore parallel is the Doom following the Targaryens — succession crisis after crisis, early deaths, bloodline self-destruction, cadet branches losing riding eligibility even when their households survive, as Greywater does. We the readers see the pattern. The characters see only their own war.
 
 ### The Aurouvian Reincarnation Belief
 

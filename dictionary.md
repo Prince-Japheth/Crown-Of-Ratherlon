@@ -18,7 +18,7 @@ Pronunciations use simple English respelling. CAPITAL letters mark the stressed 
 
 **Appanage.** Land, rents, or a seat granted by the king to a younger child or close kin so they can keep their own household, without splitting the whole realm. The grantee still owes the crown.
 
-**Aurouvah.** **Pronunciation:** aw-ROU-vah. A kingdom across the Warm Sea; the homeland of the Aurouvian tongue.
+**Aurouvah.** **Pronunciation:** aw-ROO-vah. A kingdom across the Warm Sea; the homeland of the Aurouvian tongue.
 
 **Aurouvian.** **Pronunciation:** aw-ROO-vee-an. The language of Aurouvah, spoken within House Brennan and its Greywater branch. Riders use it for short Nyxen commands.
 

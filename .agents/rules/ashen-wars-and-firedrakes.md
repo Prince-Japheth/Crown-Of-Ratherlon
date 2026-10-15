@@ -5,9 +5,9 @@ description: "Locks the naming of the Ashen wars, when the firedrakes reach the 
 
 # Ashen wars and the firedrakes (decision file)
 
-Everything below is a proposal for you to approve. I chose it so that it fits the chapters already written (1 to 15) and every line of canon in the `.agents` files, and so that readers meet the firedrakes in real time, with no time skip.
+This is controlling author canon for the Ashen-war names and the later firedrake introduction. Book 1’s opening Redcut troubles precede the numbered Second Ashen War; readers meet firedrakes on the page when that later phase begins.
 
-## 1. Naming: Option A
+## 1. Locked war names
 
 - **The First Ashen War** is the old war, about ten years before the book opens, under Aldren VIII with Oak in the sky. Rodrik fought in it as a young prince against his father's orders. Ser Corren lost half his ear in it. Chapters 1 to 15 already treat it this way.
 - **The Second Ashen War** is the long firedrake war that Aeian fights in as a young man at Rodrik's side, and after which Aeion carries Foldhall's truce terms to the Eastverge. It replaces the phrase "First Ashen War" everywhere the outline uses it for the twins' youth.
@@ -30,7 +30,7 @@ This also settles the open question in `book-outline-2.md` ("Firedrake appearanc
 
 ## 3. The Opening: what happens and what is known
 
-**Author-only truth.** A gate opens beneath one of the Ashen volcano sites and creatures from a far older age walk out of it. Nobody in the world has a word for gates or for those ages, and none should ever be given one. Do not use "portal," "dinosaur," or any word that sounds as if it came from outside the world.
+**Author-only truth.** A gate opens beneath one of the Ashen volcano sites and creatures from a far older age walk out of it. The characters do not know the creatures’ true origin or the ages they came from; they describe what they see and interpret it through their own beliefs. Do not use "portal," "dinosaur," or any word that sounds as if it came from outside the world.
 
 **What the Ashen believe.** The fire gods of the mountain heard the Ashen and sent beasts to match the great beasts of Ratherlon. They call the first herd *the Given*.
 
@@ -43,7 +43,7 @@ This also settles the open question in `book-outline-2.md` ("Firedrake appearanc
 
 **How they breathe fire.** They spew a burning fluid that sticks. Do not call it breath of the gods. It is a thing the beast makes.
 
-**Why the Nyxen is the answer, and why it still costs.** Canon already says the Nyxen's fur resists fire and its roar can blow a flame-stream back. The Nyxen is not safe. The rider is. A rider burns where the fur does not.
+**Why the Nyxen is the answer, and why it still costs.** Canon already says the Nyxen's fur resists fire and its roar can blow a flame-stream back. The Nyxen’s fur resists flame; the rider has no such protection. A rider can burn even when the beast’s fur withstands the fire.
 
 ## 4. First contact is a shown event, not a known fact
 

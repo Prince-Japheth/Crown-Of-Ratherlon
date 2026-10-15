@@ -44,10 +44,11 @@ When a Brennan takes the crown, he sets aside his birth name and reigns as Aldre
 | 0 | Farmer Brennan shelters the last Nyxen clan | 4 |
 | 0-180/200 | Descendants on the Foldstead (mixed trades; not all plowmen) | lore |
 | ~200 | Great Civil War; Rathen crown ends; Torrhen → Aldren I | 3 |
-| ~400-450 | First firstborn daughter (Seren); her war / queenship | 2 |
-| ~500 | Twin War (Crown of Ratherlon / Book 1) | 1 |
+| ~340-368 | Seren’s war and reign; first ruling queen | 2 |
+| ~460 | Rodrik’s coronation (Y0); Book 1 begins in its first season | 1 |
+| ~481-483 | Twin War, roughly Y21–23 | 1 |
 
-Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→twins ≈ 50-100y. Farmer→twins ≈ 500y.
+Intervals: Farmer to Aldren I ≈ 200 years; Aldren I to Seren’s accession ≈ 140 years; Seren’s accession to Rodrik’s coronation ≈ 120 years. The twins’ birth about Y0+8 months is F460–461. The adult Twin War is about F481–483.
 
 ### Kings and Queens
 
@@ -55,7 +56,7 @@ Intervals: Farmer→Aldren I ≈ 200y. Aldren I→Seren ≈ 200-250y. Seren→tw
 |------|-----------|-------|---------------|
 | Aldren I | Torrhen | Lysa | Kelward |
 | Aldren II | — | Maris | Rathen |
-| Aldren III | Leofric ("the Adventurous") | Saeraphyn | Aurouvah (foreign); first wife Elen of Varen (consummated, bore Aldric, died by ritual) |
+| Aldren III | Leofric ("the Adventurous") | Saeraphyn | Aurouvah (foreign); first wife Elen Varen (bore Aldric at Foldhall; Aldric died by ritual; Elen later remarried in the Vine Shore) |
 | Aldren IV | — | Hilda | Dorsen |
 | Aldren V | — | Catelyn | Rathen |
 | (Queen Seren) | — | Corwyn | Yarben (husband) |

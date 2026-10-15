@@ -59,13 +59,13 @@ Elowen is firstborn daughter. Myth says marker follows "first" blood. Marriage p
 
 Readers learn the family’s different military experiences through brief, character-led recollections, not an age table or a lecture about the Heir’s Cage. Distinguish Rodrik’s defiance during the First Ashen War from his younger siblings’ service on later border duties.
 
-1. **Chapter 2, next targeted revision:** add one short recollection to Rodrik’s First Ashen War memory establishing his youth and Rowan at Foldhall. Use Rowan catching Rodrik carrying his saddle down the stair and threatening to wake their father. This scene seed is approved for a brief memory; it is not yet inserted in the manuscript. Keep it within Rodrik’s knowledge.
-2. **Edwyn, an early later chapter:** during a relevant conversation about a border assignment, let him recall being sent on a subsequent duty while Rodrik was ordered to stay home. Establish the unequal treatment through his complaint, without reciting the family’s ages or explaining the institution.
+1. **Chapter 2, implemented:** Rodrik remembers Rowan catching him carrying Hart’s saddle down the stair before dawn and threatening to wake their father. This is one concrete memory inside Rodrik’s First Ashen War recollection.
+2. **Chapter 15, implemented:** cold in the roost-yard prompts Edwyn’s complaint about an old pre-thaw border assignment while Rodrik had a fire in his room. This was later service, not the First Ashen War when Edwyn was ten.
 3. **Elyra, implemented in chapters 3 and 4:** chapter 3 uses one concrete memory of her first patrol at four and ten: wet fur, a dive through cloud, laughter and fingers too stiff for saddle straps. Chapter 4 uses Edwyn’s split boot at supper and one remembered remark contrasting her enjoyment of dives with his wish for dry beds. These replace the earlier explanatory backstory paragraphs. This is a remembered exchange, not a new present-day meeting. Both served on later border duties, not in the First Ashen War. Chapter 4’s exhaustion and chapter 11’s battle aftermath already develop the cost of her appetite for danger.
 4. **Payoff deadline:** these facts must be clear before Rodrik permits Aeian to fight as a young prince, so readers recognize why he refuses to impose his father’s restrictions on his son. Spread the moments across suitable early chapters; do not drag this explanation across dozens of chapters.
 5. **Gareth:** no separate childhood explanation unless the story needs it. He was five during the First Ashen War; later patrol service follows his naturally cold temperament, rather than causing it.
 
-Status: Elyra’s chapter 3 foothold and chapter 4 remembered disagreement are implemented. Rodrik’s proposed chapter 2 recollection and Edwyn’s separate later disclosure remain planned. Each must serve the present scene and preserve third-person limited POV. Avoid prophetic dialogue, explanatory speeches, or repeating the same fact after readers understand it.
+Status: the chapter 2, 3, 4, and 15 sibling-service disclosures are implemented. Each must serve the present scene and preserve third-person limited POV. Avoid prophetic dialogue, explanatory speeches, or repeating the same fact after readers understand it.
 
 
 ### Elyn’s pregnancy: reader unease (locked)
